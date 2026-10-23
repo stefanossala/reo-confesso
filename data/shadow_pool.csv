@@ -1,0 +1,2001 @@
+patient_id,name,date_of_birth,city,age,sex,bmi,activity_h,smoker,family_history,systolic_bp,glucose,zone,onset_5y
+P05940,Puccio Renault,1992-05-22,Tombazosana,34,M,23.7,1.2,0,1,129,77.6,D,0
+P01100,Eraldo Santorio,1978-01-15,Rovate,48,M,25.9,0.5,0,0,117,79.2,C,0
+P02637,Eliana Venturi,1961-10-15,Bosco Sant'Ippolito,64,F,31.0,4.6,1,0,125,109.0,C,1
+P04217,Annunziata Merisi,1987-05-24,San Pietro In Volta,39,F,27.7,2.0,1,0,123,81.8,C,0
+P00649,Evangelista Paoletti,1955-06-28,Pietracupa,71,F,23.6,3.2,0,0,158,85.9,C,0
+P01546,Annunziata Pezzali,1965-05-08,Corniglia,61,F,16.0,8.0,0,1,125,88.9,A,0
+P03231,Goffredo Corbo,1995-07-04,Barbarano Vicentino,31,M,18.1,2.6,0,1,122,83.9,D,0
+P04490,Daria Montalcini,1997-05-22,Monterosso,29,F,18.4,3.5,0,0,93,79.6,B,0
+P04556,Carla Cianciolo,1999-08-12,Redagno,27,F,16.0,12.7,0,1,123,72.6,A,0
+P04573,Evangelista Baracca,1953-06-22,San Floriano Del Collio,73,F,23.6,1.2,0,0,132,97.6,E,0
+P04145,Pierangelo Capone,1991-08-13,Sabbioncello San Vittore,35,M,19.1,1.9,0,1,109,83.6,A,0
+P02852,Flora Renier,2001-02-17,Roccelletta,25,F,23.3,6.7,0,0,117,89.7,E,0
+P03503,Loretta Leblanc,1996-01-25,Castro Dei Volsci,30,F,19.0,5.2,0,1,101,76.8,B,0
+P05384,Pellegrino Bragadin,2005-05-12,Giardinello,21,M,30.4,0.2,1,0,113,93.0,D,0
+P04690,Nanni Bevilacqua,2007-12-23,Calasetta,18,M,28.4,0.5,0,0,106,100.7,C,0
+P00630,Piersanti Bergoglio,1961-11-14,Gallo,64,M,21.5,1.7,0,0,116,82.3,A,0
+P00672,Marcantonio Casarin,1968-06-20,Villanova Di Bagnacavallo,58,M,19.7,0.2,1,0,127,97.4,C,0
+P01249,Paulina Gonzaga,1947-02-25,Signoressa,79,F,32.0,0.3,1,0,137,116.7,C,1
+P04087,Patrizio Sabatini,1950-07-03,Deutschnofen,76,M,24.7,1.7,0,0,126,98.2,E,0
+P00482,Gelsomina Morgagni,1992-11-27,Adrara San Martino,33,F,22.1,6.5,0,0,99,67.0,E,0
+P01584,Gioele Beffa,1967-10-10,Asinara Lazzaretto,58,M,28.1,7.8,0,0,123,94.0,B,0
+P04233,Maria Bassi,1992-01-14,Cassano Valcuvia,34,F,27.4,2.3,0,0,120,85.6,B,0
+P05543,Amanda Tornatore,1958-04-09,San Giuliano Terme,68,F,26.6,5.3,0,0,147,96.4,E,0
+P04204,Rosaria Modigliani,1989-12-21,Gaggio,36,F,23.2,0.9,0,0,138,65.0,A,0
+P01462,Donatello Greco,2006-09-06,Pisterzo,20,M,33.6,3.3,0,0,119,93.6,E,0
+P03040,Fabrizia Colletti,1983-10-27,Borghetto All'Adige,42,F,19.9,0.3,1,1,115,66.9,B,0
+P04470,Federica Gentileschi,1983-03-24,Portico Di Caserta,43,F,25.7,6.5,0,0,121,87.5,E,0
+P04810,Agnolo Varano,1996-07-05,Saccolongo,30,M,20.6,0.5,0,1,109,91.6,B,0
+P04610,Claudio Valguarnera,2002-12-14,Gragnola,23,M,32.8,3.2,0,0,110,103.4,D,0
+P05972,Lucia Speri,1977-02-15,Colle Brincioni,49,F,25.4,1.3,0,0,121,90.5,A,0
+P03273,Alberto Doria,1983-01-07,Castromediano,43,M,26.1,1.4,0,0,127,89.2,B,0
+P03238,Lilla Sonnino,1953-08-12,Erve,73,F,34.3,2.0,0,0,150,120.1,E,1
+P03131,Raffaella Mazzanti,1979-03-30,Villa Bartolomea,47,F,34.1,0.1,0,0,139,96.1,D,1
+P03683,Martino Donarelli,1973-09-08,Marano Ticino,53,M,31.9,3.9,0,0,132,104.9,C,0
+P02578,Alina Fantoni,1946-12-28,Castel Di Iudica,79,F,22.1,2.9,0,1,160,99.3,B,1
+P05410,Amleto Galeati,2007-08-31,Rocca San Felice,19,M,23.6,1.7,0,0,120,65.0,C,0
+P00049,Pasqual Orengo,1959-02-24,Roncone,67,M,28.0,0.2,0,0,135,98.1,E,0
+P05125,Danilo Donini,1961-03-15,Campora,65,M,27.0,0.2,1,1,121,100.3,A,1
+P04216,Carla Jacuzzi,1978-09-08,Baratte,48,F,29.0,0.8,0,1,131,94.8,A,0
+P00858,Pompeo Depero,1966-04-17,San Pellegrinetto,60,M,34.6,2.5,0,0,135,85.2,A,0
+P03225,Antonietta Bonaventura,1960-03-04,Ruda,66,F,24.1,3.5,0,0,120,90.4,D,0
+P01072,Elvira Carducci,1961-09-06,Prato Capanne,65,F,34.2,0.2,0,0,133,108.6,C,1
+P00719,Rosaria Tolentino,1970-10-28,Veronella,55,F,24.8,7.3,1,0,119,91.9,A,0
+P02199,Valeria Bonolis,1997-11-09,Tavarnuzze,28,F,22.2,1.6,1,1,114,73.5,D,0
+P02631,Viridiana Chindamo,1966-05-14,Ossi,60,F,30.4,0.8,0,1,127,113.0,D,1
+P05848,Enzo Nievo,1969-10-17,Longobardi Marina,56,M,26.6,1.7,1,1,143,98.2,B,1
+P01660,Ramona Guidone,1969-08-06,Toano,57,F,29.2,1.1,0,0,142,107.5,B,0
+P01656,Alessandra Bixio,1954-10-15,Morciano Di Leuca,71,F,29.2,3.8,0,0,149,119.2,E,0
+P02425,Ugo Valentino,1972-10-29,In Via San Nicola,53,M,30.8,0.2,0,0,142,98.5,B,0
+P05526,Lando Schiavone,1971-04-19,Giussago,55,M,31.9,1.5,1,1,128,99.3,A,1
+P05054,Donatello Pietrangeli,2005-06-22,Grillara,21,M,26.4,3.5,0,0,104,73.7,D,0
+P05965,Victoria Marazzi,2002-01-10,Portico Di Caserta,24,F,24.5,0.8,0,0,115,92.7,E,0
+P04404,Nedda Ritacca,1992-02-11,Iesolo,34,F,29.7,1.8,0,0,108,98.4,C,0
+P03097,Ornella Franceschi,1988-10-15,Loreggiola,37,F,20.6,2.0,0,0,123,69.9,C,0
+P03976,Calogero Cavalcanti,1968-06-04,Ponte Di Nava,58,M,27.4,0.1,0,1,115,112.6,B,0
+P05366,Griselda Moschino,2003-01-25,Sant'Abbondio,23,F,29.3,0.1,0,0,135,93.5,A,0
+P05877,Silvia Viviani,1993-08-08,Persico Dosimo,33,F,28.2,0.5,0,1,149,92.4,B,0
+P05697,Severino Gramsci,1960-03-03,Bibiana,66,M,23.9,3.7,0,0,134,100.2,D,1
+P03189,Luca Versace,1956-08-21,Velo D'Astico,70,M,25.4,5.2,1,1,114,104.4,E,0
+P03989,Daria Russo,1979-04-21,Tramonti Di Sopra,47,F,25.4,0.8,0,1,119,110.9,B,1
+P02934,Calogero Sordi,1958-02-09,Santa Paolina,68,M,33.1,3.9,0,1,125,99.0,A,1
+P04940,Maurilio Lombardo,1962-12-02,Ilombati,63,M,24.4,2.8,0,1,149,102.5,E,1
+P04257,Alessia Chiesa,2002-12-11,Palermo,23,F,29.1,4.3,0,0,120,88.8,B,0
+P02606,Giosuè Sollima,1974-10-08,Pontassieve,51,M,27.1,0.7,0,0,141,98.3,D,0
+P01385,Romolo Giannelli,1994-04-09,Reno Finalese,32,M,29.1,2.9,0,1,124,98.6,C,0
+P05571,Carolina Catenazzi,1965-04-11,Langhirano,61,F,32.7,3.6,0,1,152,123.6,C,1
+P01399,Vincenzo Mazzi,1989-12-06,San Pier Niceto,36,M,32.9,1.6,0,0,127,94.4,D,1
+P01195,Eva Favata,1968-11-29,Oleggio Castello,57,F,24.1,1.3,0,1,139,86.4,E,1
+P01408,Filippa Marino,2008-03-27,San Lorenzo Di Sebato,18,F,29.8,1.5,0,1,114,86.7,B,0
+P01845,Ludovico Jacuzzi,1970-06-20,Montecerboli,56,M,21.2,4.1,0,0,130,65.0,D,0
+P01798,Olga Porcellato,1978-07-26,Matsch,48,F,23.1,2.2,0,0,122,77.7,D,0
+P03957,Lisa Beccaria,1962-02-27,Volpago Del Montello,64,F,21.6,1.5,0,1,101,91.7,C,0
+P01475,Serena Odescalchi,1989-03-03,Colleferro,37,F,21.9,2.9,0,0,130,90.4,D,0
+P05218,Ennio Buonauro,2005-04-02,Noli,21,M,29.3,1.9,0,0,128,89.4,E,0
+P00035,Gioele Dalla,2003-10-19,Prascorsano,22,M,35.4,5.7,1,1,110,100.7,C,1
+P04864,Carla Bramante,1953-07-05,Manarola,73,F,27.9,1.6,0,0,124,96.0,D,0
+P02345,Renata Cainero,1992-09-18,Colle Campano,34,F,27.4,2.5,0,1,128,88.3,D,0
+P00444,Ermes Mattarella,1976-02-27,Celesia,50,M,18.2,1.2,0,1,119,77.5,C,0
+P05356,Osvaldo Scamarcio,1965-06-19,Campiglione Fenile,61,M,22.4,2.0,0,0,123,90.7,B,0
+P03312,Tonino Galilei,1949-10-20,Pomposa,76,M,38.8,1.4,0,0,156,118.4,B,1
+P02359,Luigina Gritti,1994-10-11,San Rocco Di Bernezzo,31,F,23.9,6.2,0,0,107,85.1,A,0
+P03006,Alina Mazzanti,1970-12-31,Susano,55,F,24.4,5.4,0,0,130,99.3,E,0
+P03654,Greca Paoletti,1966-06-15,San Giorgio A Liri,60,F,30.2,0.0,0,0,124,127.3,D,0
+P02206,Amadeo Sgalambro,1999-10-27,Pisticci Scalo,26,M,30.2,5.1,0,1,127,86.4,D,0
+P04327,Luca Bocelli,1982-06-13,San Donnino,44,M,27.0,3.4,0,1,122,86.7,C,0
+P05132,Simonetta Grasso,1978-01-09,Conca Dei Marini,48,F,29.7,4.2,0,0,135,94.6,E,0
+P03657,Eleanora Volta,1949-10-11,Vacri,76,F,25.0,3.2,0,0,112,105.9,B,0
+P03179,Nicoletta Basadonna,1998-04-11,Perugia,28,F,33.2,1.5,0,0,98,104.4,C,0
+P03422,Stefano Contrafatto,1970-10-20,Ferriera,55,M,34.1,2.1,0,1,141,102.0,A,1
+P01286,Luisa Fantoni,1950-12-27,Donnini,75,F,31.9,6.6,0,0,142,113.9,C,1
+P04445,Pierangelo Pace,1981-11-17,Marega,44,M,24.9,10.5,0,0,151,85.7,A,0
+P00349,Nicoletta Muratori,1997-10-23,Valle Canzano,28,F,33.1,1.2,1,0,132,96.5,B,1
+P03416,Roman Broschi,1969-11-23,Selino Basso,56,M,18.6,1.5,0,1,129,98.5,B,0
+P02137,Giuliana Salandra,2006-12-30,Torricola,19,F,28.2,3.0,0,1,115,78.2,D,0
+P02691,Romana Ruberto,1970-05-02,Mugnano Di Napoli,56,F,31.7,3.6,0,0,133,100.5,B,0
+P02636,Franco Zito,1986-12-06,Spinoso,39,M,34.4,12.4,0,0,130,100.4,B,0
+P04016,Renata Morlacchi,1991-07-15,Ussita,35,F,22.5,0.6,1,0,127,92.5,B,0
+P01681,Lucrezia Filippelli,2007-10-24,Pescina,18,F,24.1,3.5,0,0,116,99.7,D,0
+P05432,Serena Lopresti,1988-07-31,Farindola,38,F,33.5,1.3,0,0,119,89.8,B,0
+P01692,Amadeo Lollobrigida,1967-09-02,Collecchio,59,M,30.8,2.8,1,0,132,98.2,E,0
+P04424,Ferdinando Milanesi,1988-10-21,Molinello,37,M,33.4,4.2,0,0,137,82.0,E,0
+P04776,Leone Vespucci,1986-11-14,Sovicille,39,M,31.2,8.1,0,0,155,103.6,A,0
+P03635,Cassandra Gregori,1979-03-20,Pruno,47,F,36.3,4.3,1,0,143,97.0,B,1
+P00372,Margherita Morricone,1983-03-14,In Via Ammiraglio Cristodulo,43,F,26.2,0.1,0,0,118,104.5,E,1
+P04604,Fabia Boezio,1995-03-04,Pianello Di Ostra,31,F,30.5,1.7,0,0,132,108.7,A,0
+P00140,Valerio Mercadante,1946-10-22,Testico,79,M,31.3,4.1,0,0,139,100.6,D,1
+P05590,Panfilo Mancini,2003-03-05,Casaselvatica,23,M,23.0,0.8,1,0,105,89.4,A,0
+P00714,Antonietta Mastroianni,1951-02-21,Illegio,75,F,29.9,2.6,0,1,127,113.9,B,1
+P03188,Martino Errigo,2004-10-31,Cuirone,21,M,20.5,0.7,1,0,126,65.0,B,0
+P05399,Beppe Collodi,1954-07-14,Quiesa,72,M,28.3,1.0,0,0,135,106.5,D,1
+P04189,Rosa Michelangeli,1952-02-26,Extrepieraz,74,F,26.0,1.1,0,0,124,102.1,A,1
+P00406,Margherita Catenazzi,1981-02-25,Soverato,45,F,26.6,3.3,1,0,150,89.3,D,0
+P00020,Antonello Sauro,1976-10-06,Castegnato,49,M,26.7,0.3,0,1,148,86.8,B,0
+P01004,Sante Donatoni,2000-05-20,Tencarola,26,M,24.1,0.4,0,1,119,94.2,A,0
+P02411,Antonietta Telesio,2005-05-13,Amatrice,21,F,30.1,2.2,0,0,106,92.9,C,0
+P02545,Maria Marzorati,1983-01-11,Montazzoli,43,F,18.7,1.6,0,0,103,80.5,B,0
+P02390,Giovanna Ferrari,1980-03-03,Brugnetto,46,F,24.4,0.6,0,1,113,91.6,C,0
+P04818,Michela Castioni,1974-11-04,Siderno Superiore,51,F,25.1,0.4,0,1,127,71.8,A,0
+P00042,Baccio Franceschi,1963-12-18,Moransengo,62,M,35.6,0.9,0,1,152,113.8,A,1
+P02830,Maria Legnante,1950-06-28,Sesto Al Reghena,76,F,26.2,0.9,0,0,121,106.4,B,1
+P03371,Gioacchino Brambilla,1992-11-23,Vaglierano,33,M,16.0,0.9,0,0,106,82.5,A,0
+P03022,Graziella Morgagni,1983-10-28,Manera,42,F,29.5,1.6,1,0,121,89.9,D,0
+P03364,Adelmo Procacci,1998-09-07,Strongoli,28,M,20.9,0.7,0,0,120,73.0,C,0
+P00011,Maria Lettiere,1947-05-07,Lumignano,79,F,27.1,0.6,0,1,149,103.5,B,1
+P01177,Filippa Gatto,1996-04-13,Merate,30,F,20.5,1.9,0,1,126,76.9,A,0
+P01947,Alberto Milanesi,1951-01-23,Barcon,75,M,28.9,7.3,0,1,113,105.1,D,0
+P02501,Bernardo Parri,2002-08-02,Fadalto,24,M,24.4,1.1,1,1,99,84.4,C,0
+P02863,Nadia Bembo,1969-10-22,Rivarolo Del Re Ed Uniti,56,F,30.5,3.4,0,0,123,88.1,D,0
+P03865,Luisa Civaschi,1960-08-11,Puglia,66,F,33.2,2.3,0,0,131,103.5,D,1
+P01026,Lazzaro Lussu,2004-07-21,Tagusens,22,M,26.8,0.7,0,0,122,85.2,D,0
+P03848,Veronica Ramazzotti,1962-09-02,Cleto,64,F,18.6,1.2,0,1,123,78.5,C,0
+P02989,Carmelo Ruffini,1981-10-18,Frattamaggiore,44,M,29.3,2.1,0,0,123,104.3,E,0
+P00961,Alessio Bulzoni,1982-12-10,Vallata,43,M,32.3,3.2,0,1,134,96.3,D,1
+P02889,Fausto Monti,1996-05-13,Frinco,30,M,27.0,7.1,0,1,120,81.1,C,0
+P03015,Uberto Camicione,1980-06-26,Sant'Antonio In Bosco,46,M,20.3,0.9,0,0,120,94.9,B,0
+P03338,Ramona Spadafora,1954-01-01,Possagno,72,F,28.3,3.9,0,0,142,123.0,C,0
+P04230,Nico Vecoli,2003-11-20,Negrone,22,M,28.0,5.0,0,0,111,99.2,C,0
+P00735,Serafina Monteverdi,1966-01-20,Brunico,60,F,26.3,2.4,0,0,130,93.9,B,0
+P01440,Ansaldo Rossi,1959-02-03,Morazzone,67,M,24.2,3.6,1,0,117,98.4,B,0
+P02875,Piergiuseppe Missoni,1975-10-08,Cerenova,50,M,34.4,3.4,1,1,135,102.4,B,1
+P03986,Enrico Sgalambro,1988-10-22,Olmi,37,M,21.9,3.3,0,0,108,95.5,C,0
+P00916,Delfino Travaglia,1974-03-18,Azeglio,52,M,20.8,1.4,1,1,119,83.1,A,0
+P05002,Jolanda Fantozzi,1969-08-24,Terrenove Bambina,57,F,37.3,0.5,0,0,141,102.4,D,1
+P04089,Rembrandt Musatti,1946-11-29,Lucera,79,M,32.2,2.3,0,1,143,92.3,B,1
+P05541,Licia Boccherini,1998-09-13,Corazzo,28,F,25.4,7.0,0,0,103,80.1,C,0
+P04685,Cassandra Pavanello,1963-04-01,Roccafluvione,63,F,30.7,1.0,0,0,131,100.1,D,0
+P02772,Imelda Forza,1996-05-16,Quadri,30,F,23.7,8.6,0,1,107,90.1,D,0
+P01624,Silvia Pertini,1974-01-07,San Marco,52,F,29.3,6.9,0,0,112,107.8,D,0
+P05669,Carla Bernardini,1965-01-29,Baldissero D'Alba,61,F,24.2,15.0,0,1,124,83.7,B,0
+P00821,Lina Segni,1967-01-04,Pietrabbondante,59,F,25.0,7.2,0,0,141,107.4,B,0
+P01367,Coluccio Malaparte,1980-03-01,Vacone,46,M,31.6,1.0,0,0,139,117.5,B,1
+P03712,Greca Filippini,1958-06-25,Zoppe',68,F,31.8,0.4,0,0,138,109.5,B,1
+P05998,Martino Iacovelli,1961-06-15,Cosola Di Cabella,65,M,18.5,5.8,0,0,132,98.2,B,0
+P00850,Ugolino Interiano,1947-01-22,Barchi,79,M,27.9,0.4,0,1,141,111.0,C,1
+P01000,Luciana Marzorati,1958-01-24,Pedrocca,68,F,34.7,1.5,1,0,125,105.8,E,1
+P04652,Graziella Dallara,1988-06-01,Piovani,38,F,19.2,2.4,0,0,113,81.0,E,0
+P04114,Victoria Ubaldi,1990-05-18,Grotti Di Cittaducale,36,F,26.4,3.4,0,1,127,86.2,C,0
+P01637,Greca Pisano,1968-10-16,Motteggiana,57,F,18.0,1.7,0,0,102,86.3,B,0
+P01667,Armando Dibiasi,1966-07-15,Nuvolento,60,M,35.6,5.6,0,1,144,96.1,C,1
+P03173,Liliana Pellico,1987-01-21,Guia,39,F,35.8,0.7,0,1,142,108.9,D,0
+P04560,Paloma Golgi,1978-03-18,San Martino Al Tagliamento,48,F,21.5,1.2,1,1,121,95.0,C,0
+P01347,Nicolò Borgia,1964-10-01,Rivodutri,62,M,27.2,3.7,0,0,139,96.1,A,0
+P05720,Puccio Olivetti,1947-03-30,Weißenbach,79,M,18.8,7.2,0,0,128,97.4,C,0
+P03230,Stella Pennetta,1956-05-10,Cascina Elisa,70,F,32.4,0.6,0,0,134,110.5,C,0
+P04210,Luigi Guglielmi,1999-09-02,Vidulis,27,M,28.8,1.0,1,0,111,65.0,C,0
+P04606,Sonia Pacillo,1993-04-02,Roio Del Sangro,33,F,26.5,0.5,1,0,137,91.9,D,0
+P03232,Valeria Monicelli,1966-09-15,Perletto,60,F,24.3,10.4,1,0,146,96.3,E,0
+P04901,Tullio Foscari,1967-02-25,Lovere,59,M,20.4,1.2,0,1,128,82.7,B,0
+P00703,Girolamo Fibonacci,1998-06-19,Bomba,28,M,30.0,4.8,0,1,130,110.4,C,0
+P04781,Eva Donatoni,1971-08-29,Controne,55,F,27.8,3.4,0,0,133,104.2,C,0
+P03291,Flavia Barzini,1978-11-09,Gfrill,47,F,29.1,2.2,0,0,123,84.5,A,0
+P03673,Maurilio Babati,2008-07-22,Bellona,18,M,35.0,0.1,0,0,139,96.2,E,0
+P02408,Giulio Dulbecco,1979-08-06,Villa Paterno,47,M,29.4,0.4,0,0,146,99.3,A,1
+P01327,Sonia Ciampi,2003-06-01,Peglio,23,F,24.1,2.4,0,0,127,93.6,D,0
+P05586,Luciano Muti,1993-12-14,Tre Re,32,M,17.0,1.6,0,1,123,65.6,E,0
+P05696,Ramona Abba,2004-05-26,Sicili',22,F,27.1,1.4,0,0,95,76.6,B,0
+P05008,Eraldo Polani,1963-02-14,Austis,63,M,24.4,2.1,0,0,152,97.1,D,1
+P00986,Angelina Beccaria,1969-11-01,Boccadiganda,56,F,16.0,4.1,0,1,121,89.5,B,0
+P05440,Stella Luzi,1976-05-05,Siapiccia,50,F,29.0,7.3,0,0,119,105.2,A,0
+P05156,Fiorino Durante,1949-10-19,Lusurasco,76,M,32.7,4.8,0,0,124,134.5,C,1
+P05307,Tiziano Callegaro,1962-01-23,Camposanto,64,M,25.5,1.8,0,1,154,93.9,B,0
+P04049,Bianca Desio,1980-04-05,Sant'Apollinare Con Selva,46,F,23.5,0.9,0,0,118,99.7,A,1
+P03485,Annetta Onisto,2007-05-06,Colledoro,19,F,27.0,3.3,0,0,105,101.6,A,0
+P02474,Virginia Jilani,2002-09-08,Bogliasco,24,F,32.8,0.0,0,0,125,96.0,D,0
+P03873,Raffaello Dandolo,1979-02-06,Ahornach,47,M,19.6,1.2,1,0,119,95.9,A,0
+P01198,Paride Giradello,1958-02-05,Ponzano Veneto,68,M,32.3,0.0,1,1,130,91.8,A,1
+P04181,Arnulfo Trentin,1986-02-20,Corte Brugnatella,40,M,37.7,5.7,0,1,123,106.0,A,1
+P01518,Enzo Polizzi,1977-05-06,Zoppe',49,M,26.7,1.2,0,0,104,95.8,D,0
+P01799,Gianluigi Visconti,1976-01-13,Brogliano,50,M,31.5,1.6,0,0,125,103.0,E,0
+P01014,Edoardo Travaglio,1975-11-04,Aci Sant'Antonio,50,M,22.6,2.5,0,0,120,74.8,B,0
+P00128,Gian Biagi,1971-12-02,Zingone Di Trezzano Sul Naviglio,54,M,16.4,3.8,0,0,114,104.8,B,1
+P01364,Tatiana Tartini,1974-01-26,Poli,52,F,20.7,11.7,0,0,143,65.0,A,0
+P05507,Stefani Zola,2003-08-12,Casalbordino,23,F,21.0,2.3,0,0,97,80.4,C,0
+P00891,Lucio Napolitano,1964-07-17,Moglia Di Sermide,62,M,30.0,0.5,1,0,126,119.0,D,1
+P02793,Camillo Fantozzi,1975-09-03,Matine,51,M,27.7,1.2,0,0,128,85.9,B,0
+P05033,Donatello Capecchi,1999-03-01,Villa Ottone,27,M,32.5,4.8,0,0,112,106.5,C,0
+P05715,Vittoria Argan,1980-11-09,Pieve Di Teco,45,F,24.9,6.3,0,1,155,103.2,D,0
+P05141,Giancarlo Lippomano,2008-05-14,Camalo',18,M,30.4,2.3,0,1,129,88.6,D,0
+P03249,Franco Mannoia,1984-04-02,Santa Corinna,42,M,31.2,1.6,0,0,114,83.0,B,0
+P01208,Piergiuseppe Beccheria,1991-02-22,Tegoleto,35,M,28.1,0.5,0,0,137,90.2,C,0
+P03868,Dionigi Tarchetti,1994-10-08,Il Romito,31,M,22.8,1.6,1,0,107,82.4,C,0
+P04065,Gioele Corbo,1987-07-19,Dossena,39,M,33.4,9.2,0,0,142,105.5,D,1
+P05129,Silvia Comolli,1970-07-25,Dambel,56,F,35.8,15.0,0,0,120,108.3,D,0
+P01239,Giovanna Antonelli,2005-12-22,Montaldeo,20,F,20.4,5.0,0,1,115,71.7,B,0
+P02289,Mirko Bosio,1982-01-06,Corsagna,44,M,26.1,3.3,0,0,130,93.7,D,0
+P02740,Enrico Cherubini,1996-11-13,Frassino Mantovano,29,M,24.2,1.5,1,0,113,90.9,B,0
+P00275,Sandro Albertini,1978-06-14,Ceretolo,48,M,16.6,1.5,0,0,136,80.6,E,0
+P01035,Jacopo Basso,1962-04-18,Perticano,64,M,21.0,1.4,0,0,135,112.3,C,1
+P01229,Antonia Coppola,1990-09-29,Serra Sant'Abbondio,36,F,18.6,1.7,0,0,121,87.9,B,0
+P01008,Elisa Antonini,1962-04-29,Strona,64,F,26.5,1.6,0,0,135,77.6,C,0
+P03828,Sylvia Tagliafierro,1966-04-05,Borrello,60,F,29.9,1.9,1,0,132,100.7,A,0
+P02532,Fausto Bacosi,1950-09-18,Brivio,76,M,29.4,1.4,0,0,141,95.1,A,1
+P01058,Barbara Giannetti,1981-12-11,Montesinaro,44,F,34.0,1.2,0,0,132,111.2,E,1
+P05517,Giampiero Ossani,1966-06-06,Missaglia,60,M,34.5,3.4,0,0,148,120.0,C,0
+P00281,Alphons Pellegrini,1978-03-12,Overì,48,M,26.8,0.3,0,0,108,98.6,C,0
+P01043,Claudia Cantimori,1984-10-23,Festiona,41,F,30.8,6.1,0,0,125,99.5,D,0
+P01316,Giada Pulci,1963-12-19,Lerino,62,F,30.1,2.5,0,0,162,89.4,E,1
+P00968,Giovanna Valier,1951-06-09,Fontanarossa,75,F,25.8,0.8,0,1,154,88.2,A,1
+P02381,Giuseppe Gargallo,1980-06-10,Botticino Sera,46,M,34.4,1.3,0,0,118,98.4,A,0
+P04787,Salvi Castioni,2008-05-29,Balocco,18,M,18.6,10.2,0,0,99,83.8,E,0
+P01939,Severino Brunelleschi,1994-10-27,Bronzolo,31,M,31.9,4.0,1,0,131,100.2,B,0
+P05201,Aurora Battaglia,1983-08-17,Piazza Roma,43,F,28.5,2.8,0,0,130,83.1,A,0
+P01274,Marco Pastine,1959-12-24,Andalo,66,M,23.1,0.3,0,0,105,100.7,B,0
+P00619,Luca Gualtieri,2000-04-02,Esporlatu,26,M,23.7,5.6,0,0,105,94.5,C,0
+P04354,Morena Nugnes,1978-05-27,San Nicola Di Caulonia,48,F,27.1,1.5,0,0,137,98.4,C,0
+P01742,Adriana Impastato,1980-07-28,Cascano,46,F,24.3,0.5,0,1,119,101.1,D,0
+P01390,Maria Riccardi,1989-02-06,Rivotorto,37,F,22.2,1.1,0,0,116,88.8,E,0
+P04880,Delfino Fogazzaro,1985-01-13,Campobello Di Mazara,41,M,28.3,5.8,1,1,121,86.3,D,0
+P01579,Liana Cristoforetti,1970-12-05,Cavallirio,55,F,24.9,3.2,0,0,123,96.4,C,1
+P01655,Elladio Cassarà,1993-11-03,San Benedetto In Alpe,32,M,26.1,0.9,0,0,118,88.6,D,0
+P03568,Domenico Bossi,1960-12-26,Ornito,65,M,22.6,0.7,0,0,120,95.6,C,0
+P02352,Adriano Tresoldi,1963-06-24,Pianosinatico,63,M,20.6,0.1,1,0,138,88.5,D,0
+P02212,Adriana Visconti,1970-01-31,Monte San Quirico,56,F,37.7,5.1,0,0,144,105.5,E,1
+P05963,Vanessa Novaro,1991-06-09,Montegridolfo,35,F,20.9,0.0,0,0,168,93.0,E,0
+P03178,Orazio Mennea,1994-12-03,Cucigliana,31,M,29.8,2.1,0,1,134,74.3,C,0
+P03192,Lucia Cainero,1966-03-14,Albaretto Della Torre,60,F,29.3,2.9,0,1,136,101.9,A,0
+P01307,Piergiuseppe Pedrazzini,1994-04-23,Intragna,32,M,36.0,4.0,0,0,126,103.5,E,0
+P00575,Alessandro Benussi,1984-10-10,Vaglio Basilicata,41,M,32.5,3.8,0,0,124,105.7,E,0
+P02360,Giulio Valentino,1968-09-22,Calcata Nuova,58,M,22.5,0.3,1,1,124,98.5,B,0
+P01280,Romina Petrucci,1962-06-06,Osteria,64,F,22.4,4.7,0,0,100,91.6,C,0
+P04877,Paoletta Valguarnera,1981-10-01,Corbanese,45,F,21.0,1.0,0,0,145,78.4,B,0
+P04961,Liberto Broschi,1977-04-22,Castagna,49,M,30.5,4.4,0,0,139,110.1,E,0
+P01993,Stefano Foletti,1968-07-16,Gorgo Al Monticano,58,M,23.3,3.2,0,1,112,100.9,C,0
+P02639,Ruggero Leone,1954-12-07,Cittaducale,71,M,28.0,1.2,0,1,123,107.9,B,1
+P00269,Imelda Venier,1971-04-19,Randazzo,55,F,27.9,5.3,0,1,129,88.6,B,0
+P00629,Piergiorgio Nitto,1985-05-05,Prato Carnico,41,M,24.9,0.2,0,0,117,85.0,C,0
+P04444,Marissa Righi,1961-11-22,San Lorenzo Al Mare,64,F,24.4,3.8,0,0,125,79.9,E,0
+P03081,Gabriele Fo,1957-05-18,Statte,69,M,35.0,0.2,0,1,131,95.8,A,1
+P03466,Giulia Comeriato,1975-08-14,Cortaccia Sulla Strada Del Vino,51,F,17.7,1.0,0,0,117,68.7,D,0
+P05233,Calogero Gibilisco,1996-05-26,Borgo Giardinetto,30,M,28.2,0.4,0,0,131,92.5,C,0
+P04023,Stella Soprano,1990-04-15,Tadasuni,36,F,19.2,0.6,0,0,116,77.6,E,0
+P02046,Armando Tolentino,1980-06-22,Mulino,46,M,21.4,2.3,0,0,94,100.8,A,0
+P04710,Piergiorgio Bruno,1991-04-06,San Lorenzello,35,M,25.1,1.0,0,0,123,96.8,B,0
+P02113,Alfio Parri,1950-11-14,Pfalzen,75,M,26.3,1.2,0,1,134,100.8,A,1
+P00027,Fernanda Callegaro,1957-07-26,Sambuci,69,F,25.8,3.4,0,0,127,94.7,E,0
+P02040,Adriana Crispi,1990-03-10,Mongiana,36,F,32.4,1.3,0,0,140,102.3,D,0
+P03928,Riccardo Pedrazzini,1966-12-29,Pianura Vomano,59,M,29.2,1.3,0,1,101,110.4,A,0
+P05421,Sonia Sanudo,1947-01-19,Sassalbo,79,F,22.1,4.1,1,0,131,100.0,A,1
+P03216,Margherita Bonanno,2008-01-31,Preara,18,F,24.5,9.3,0,1,108,85.4,A,0
+P03814,Liana Faggiani,1984-01-30,Villanova Canavese,42,F,29.1,1.2,0,1,118,91.4,B,0
+P00129,Augusto Mazzini,1969-09-14,Spert,57,M,31.6,1.5,0,0,128,89.9,B,0
+P04447,Guarino Pasolini,1997-09-16,Lonato,29,M,29.4,4.6,0,1,110,84.9,A,0
+P05888,Loretta Zoppetto,1966-11-27,Staggiano,59,F,27.0,0.2,1,0,124,90.9,C,0
+P00013,Valentina Raimondi,1961-04-20,Fornazzo,65,F,32.6,4.3,1,0,135,99.3,A,0
+P05142,Eleanora Guarato,1967-04-15,Nerola,59,F,28.1,1.8,0,0,124,105.5,D,0
+P01525,Guido Branciforte,2006-02-26,Bagnoregio,20,M,28.0,11.4,1,0,112,92.9,A,0
+P02365,Paoletta Soprano,2003-04-12,Villotta,23,F,20.2,6.3,0,0,114,76.2,B,0
+P03052,Coriolano Modugno,1960-10-12,Gardolo Di Mezzo,65,M,32.3,2.1,0,1,133,112.2,E,0
+P04005,Ludovica Mennea,1948-03-27,Castel D'Ario,78,F,33.4,11.9,0,0,146,111.3,C,0
+P02340,Natalia Puglisi,1982-05-15,Futani,44,F,29.5,15.0,0,0,130,91.4,B,0
+P00374,Giosuè Smirnoff,1952-12-20,Fontanelle,73,M,26.1,0.2,0,0,132,114.8,E,0
+P04372,Ettore Campano,1994-02-09,Lajen,32,M,28.3,5.5,0,0,122,111.9,A,0
+P05152,Raffaellino Pacetti,1991-10-14,Dont Di Zoldo,34,M,34.8,3.8,0,0,131,93.9,D,0
+P00939,Tiziana Bianchini,1975-10-19,San Basilio Mottola,50,F,32.3,8.0,1,0,117,102.8,A,0
+P05744,Giorgia Castioni,2007-08-25,Castel Rocchero,19,F,24.5,0.5,0,0,132,96.6,A,0
+P02147,Ermanno Barsanti,1949-12-31,Casali,76,M,18.6,1.3,1,0,116,97.4,E,0
+P03591,Fredo Lombardo,1990-06-10,Modolo,36,M,33.3,2.7,0,0,122,97.5,D,0
+P05443,Orazio Carocci,1958-01-27,Cerami,68,M,29.3,3.7,1,0,144,117.2,E,1
+P05041,Jacopo Lombardo,1998-03-07,Colbordolo,28,M,27.0,0.0,0,0,118,92.0,B,0
+P03623,Donatella Boccioni,1981-04-16,Longega,45,F,29.7,0.2,1,0,135,105.0,B,1
+P00529,Donatello Bulzoni,1949-12-12,Bolgare,76,M,20.0,10.0,0,0,127,93.7,A,1
+P03714,Fortunata Totino,1962-10-03,Pietrapennata,63,F,30.2,0.1,0,0,112,109.2,A,1
+P01269,Eugenia Collina,2004-12-24,Chiassa Superiore,21,F,27.7,15.0,1,0,120,88.6,D,0
+P04281,Adele Ferrazzi,1952-07-28,Marano Di Valpolicella,74,F,24.8,0.5,0,0,120,112.0,C,0
+P01394,Priscilla Camanni,1995-08-22,Bluma,31,F,35.4,1.7,0,0,128,79.2,E,0
+P04009,Simone Nadi,2001-08-10,San Fermo Della Battaglia,25,M,28.2,4.4,0,0,107,95.1,B,0
+P01797,Calcedonio Muratori,1996-12-29,Cerzeto,29,M,28.2,1.0,0,1,131,87.9,D,0
+P02979,Gloria Medici,1979-07-21,Costalissoio,47,F,21.8,1.0,0,0,100,87.8,B,0
+P01441,Ornella Galeati,1976-02-24,Santa Caterina Valfurva,50,F,26.4,1.7,0,0,143,89.5,B,0
+P05296,Anita Zarlino,2008-06-25,Santo Marino,18,F,38.1,5.6,0,0,108,102.3,A,0
+P05849,Sophia Zanzi,2004-12-19,Pian Di Borno,21,F,19.7,1.2,1,0,90,72.4,C,0
+P03811,Tina Monaco,1980-07-25,San Giacomo Maggiore,46,F,41.5,8.8,0,0,143,119.9,C,1
+P01273,Pierina Pellegrini,1966-05-22,Chieuti Scalo,60,F,39.5,0.9,0,1,141,109.1,B,1
+P01712,Alessandro Troisi,1952-12-27,Marino Del Tronto,73,M,26.9,5.4,0,0,132,94.5,D,1
+P00955,Flora Curatoli,1970-07-22,Casali Belforte,56,F,26.7,1.5,1,0,137,86.6,D,0
+P04442,Ubaldo Morandi,1965-01-07,Ferrito,61,M,25.2,4.4,0,0,114,102.4,A,1
+P04794,Raffaello Giannone,1984-06-17,Esterzili,42,M,29.7,2.5,0,0,126,88.1,D,0
+P05376,Luisa Sforza,1998-05-31,Brusnengo,28,F,17.9,3.8,0,1,103,77.9,B,0
+P00403,Clelia Bongiorno,1946-10-02,Santa Maria A Vico,79,F,21.3,3.2,0,0,131,111.7,A,0
+P02071,Lamberto Versace,1968-05-24,Airole,58,M,23.4,1.4,0,0,150,93.5,C,0
+P05701,Federica Trillini,1985-03-13,Nova Siri Stazione,41,F,21.1,4.7,1,0,122,93.0,A,0
+P01977,Fortunata Sgarbi,1986-12-11,Mortizza,39,F,25.9,0.3,0,0,98,98.3,B,0
+P00158,Giulietta Cammarata,1977-02-16,Marzi,49,F,26.5,1.9,0,0,137,91.0,B,0
+P03888,Virginia Comolli,1999-12-03,Farfengo,26,F,25.7,0.3,0,0,118,88.6,A,1
+P00902,Marissa Villadicani,1995-03-07,Linate Aeroporto,31,F,25.2,1.7,0,1,122,93.2,D,0
+P00352,Rodolfo Juvara,1989-11-14,Valmacca,36,M,30.8,5.8,0,0,129,85.5,A,0
+P04130,Napoleone Trobbiani,2008-03-25,Setzu,18,M,24.4,3.1,0,0,109,83.5,A,0
+P00754,Fabrizia Cibin,1973-11-28,Montegibbio,52,F,27.4,5.1,0,0,128,99.0,E,0
+P02971,Aldo Folliero,2005-05-26,Storo,21,M,34.2,5.3,0,1,105,83.9,E,0
+P05970,Michela Campanella,1962-05-09,Moscufo,64,F,30.5,2.8,0,1,142,81.5,C,0
+P02920,Eleanora Santoro,1988-04-02,Quercegrossa,38,F,27.8,1.6,0,1,136,94.8,D,0
+P00311,Benvenuto Golino,1966-05-10,Milland,60,M,21.0,4.2,0,0,119,82.3,C,0
+P00661,Germana Gadda,1962-03-07,Solferino,64,F,30.0,2.2,0,0,121,110.9,B,0
+P01989,Giuseppe Treves,1950-01-17,Mosio,76,M,33.2,2.5,0,0,152,102.9,A,1
+P03665,Patrizia Crisafulli,1980-04-07,Calatafimi,46,F,24.5,4.4,1,0,120,95.8,D,0
+P00306,Dolores Carocci,1989-06-17,Cumia,37,F,26.7,2.7,1,0,130,89.1,A,0
+P02335,Vito Telesio,1974-10-20,Castelmassa,51,M,20.5,0.1,0,0,100,94.6,E,0
+P02356,Tiziana Mennea,1983-09-27,Esanatoglia,43,F,31.2,1.4,0,0,124,90.5,D,0
+P03702,Lazzaro Pignatti,1992-12-21,Santa Lucia Di Budoia,33,M,20.7,0.6,0,0,112,73.5,B,0
+P03804,Camilla Cuda,2007-03-24,Baia Domizia,19,F,23.1,0.1,0,1,126,86.7,E,0
+P01927,Piergiuseppe Bernini,2000-12-01,Lucugnano,25,M,25.2,3.0,0,0,139,82.4,C,0
+P03427,Isabella Pugliese,1953-09-30,Signayes,73,F,27.0,2.5,0,1,129,98.1,B,1
+P00749,Monica Orengo,1999-06-14,Borgo D'Ale,27,F,21.6,0.8,1,0,119,84.1,B,0
+P03638,Amalia Calbo,2003-05-01,Palmadula,23,F,16.9,5.7,1,0,111,76.3,E,0
+P05243,Giacobbe Garzoni,1947-10-27,Camburzano,78,M,31.1,4.1,0,1,151,117.9,D,1
+P01266,Ornella Zarlino,2005-03-10,Monte Marcone,21,F,23.1,9.7,0,0,122,76.3,C,0
+P05917,Gabriella Filogamo,1993-06-08,Isoletta,33,F,33.4,0.3,1,1,115,114.8,B,1
+P05299,Carmelo Mascheroni,1954-12-08,Monteaperti,71,M,43.0,2.9,0,0,150,125.7,E,1
+P03595,Salvi Ottino,1990-02-07,Riolo,36,M,30.0,0.4,1,0,120,80.0,D,0
+P02134,Renata Vergerio,1981-02-16,Lozzolo,45,F,37.2,8.6,0,1,105,109.7,C,0
+P04109,Sonia Cattaneo,1988-07-22,Cavi,38,F,32.4,1.2,1,0,113,110.3,C,0
+P00514,Giuseppina Filangieri,1948-01-23,Villetta Sant'Antonio,78,F,18.1,4.2,1,1,145,84.5,D,0
+P05361,Aurora Esposito,1957-12-26,San Cosimo,68,F,17.2,4.2,1,1,153,86.1,D,0
+P00409,Germana Tartini,2007-12-08,Rocca Susella,18,F,16.9,2.4,0,0,118,88.1,A,0
+P04475,Massimiliano Briccialdi,1987-12-12,Cusano Milanino,38,M,29.1,1.5,0,0,139,98.4,D,0
+P05975,Umberto Gianetti,1973-10-05,Tecchiena,52,M,28.0,0.3,1,0,137,93.5,A,1
+P05930,Gianluca Nicoletti,1950-01-08,Feglino,76,M,25.4,1.1,0,1,145,100.6,E,1
+P05193,Lara Ludovisi,2003-04-22,Vaglio Serra,23,F,35.9,1.8,0,1,133,95.4,C,0
+P00207,Isabella Mazzini,1947-07-27,Valdieri,79,F,22.2,2.3,0,0,119,105.4,A,0
+P00458,Guido Pozzecco,1956-03-24,Panetta,70,M,20.1,2.2,1,1,116,80.0,B,0
+P02054,Carolina Tamburini,1963-07-04,Gazzane,63,F,23.6,5.6,0,0,116,94.2,A,0
+P02430,Benvenuto Vismara,2000-03-19,Rocchetta Sant'Antonio,26,M,24.9,3.4,0,0,138,102.7,B,0
+P00250,Marisa Turchi,1997-02-26,Amato Di Taurianova,29,F,27.7,0.5,1,1,131,101.2,A,1
+P05119,Agnolo Toscanini,2006-11-14,Quara,19,M,26.3,8.0,1,0,110,65.0,D,0
+P01107,Vanessa Opizzi,1950-11-04,Aci Sant'Antonio,75,F,32.4,0.3,0,1,136,130.9,C,1
+P04862,Renzo Pace,1952-04-28,Cologne,74,M,22.9,2.2,0,1,116,81.1,E,0
+P01713,Matilda Abate,1961-11-04,Elzenbaum,64,F,26.0,0.1,0,1,137,98.9,D,1
+P03911,Giacomo Bellò,1946-11-22,Vadue,79,M,29.6,6.9,0,1,133,101.0,D,1
+P00715,Romolo Salvo,1958-01-05,Santa Cristina Gela,68,M,18.2,1.8,0,1,147,81.2,D,0
+P00552,Azeglio Scarlatti,1956-07-17,Basagliapenta,70,M,19.0,5.4,0,0,130,103.2,D,0
+P01439,Mirko Veneziano,1948-08-23,Colonnella,78,M,24.0,3.3,0,0,134,104.9,C,1
+P02270,Ezio Tosi,1987-10-14,Dairago,38,M,20.5,9.9,1,1,122,76.4,D,0
+P03144,Stefani Maffei,1960-09-14,Caicambiucci,66,F,29.4,4.7,0,0,142,109.6,B,1
+P05743,Annibale Gaiatto,1980-02-13,Piatta,46,M,20.0,4.9,0,1,136,95.3,E,0
+P01925,Teresa Paruta,2000-07-18,Ville Di Lucoli,26,F,30.0,2.0,1,0,128,92.3,B,0
+P00634,Eva Costalonga,1997-06-23,Arnad,29,F,26.8,0.7,1,1,125,88.3,B,1
+P00316,Stefania Paganini,1962-07-28,Potassa,64,F,16.0,1.0,0,0,121,84.1,C,0
+P05636,Orlando Samele,1992-05-07,Montecarlo,34,M,35.0,3.7,0,0,134,120.4,D,0
+P00427,Giovanna Piccio,1958-07-20,Pieranica,68,F,22.7,0.6,1,0,131,96.9,D,0
+P04453,Ubaldo Vergerio,1964-04-20,San Leone,62,M,22.8,5.0,0,1,130,89.0,C,0
+P00105,Marissa Bernini,1958-11-05,Linate Aeroporto,67,F,26.6,0.1,0,0,124,92.9,E,0
+P03041,Giuliano Ortese,1990-01-26,Vandoies Di Sopra,36,M,29.8,7.7,1,0,118,98.0,B,0
+P04238,Santino Leblanc,1961-06-21,Trasaghis,65,M,22.5,2.4,0,0,140,93.6,A,1
+P02169,Olga Longhena,1946-11-17,Termine,79,F,28.5,2.9,0,1,129,111.4,E,1
+P01709,Melina Barillaro,1995-08-01,Varengo,31,F,30.2,1.0,0,0,134,85.6,A,0
+P00089,Antonella Moretti,1956-08-23,Gonnoscodina,70,F,30.5,1.2,0,0,143,99.5,C,0
+P02241,Adele Mazzi,1967-02-24,Moschella,59,F,33.7,1.1,0,0,127,107.1,A,1
+P03174,Salvatore Iacovelli,1946-08-09,Cassio,80,M,19.8,1.3,0,0,121,97.3,A,1
+P04478,Eugenia Rosiello,1954-05-18,Pagnona,72,F,31.2,2.5,0,1,146,99.8,D,1
+P01949,Aldo Agnesi,1987-11-17,Bagni Di Comano,38,M,22.3,4.9,0,1,121,81.4,C,0
+P04044,Vanessa Benussi,1982-05-15,Bocca Di Magra,44,F,26.7,1.2,0,0,134,90.8,C,0
+P02848,Gaspare Fittipaldi,1991-09-16,Maiano,35,M,20.3,3.1,0,0,128,95.2,A,0
+P00001,Allegra Leone,1960-03-28,San Pietro In Calibano,66,F,29.4,0.1,1,0,155,100.7,C,1
+P04337,Rodolfo Pastine,1988-09-15,San Biagio,38,M,22.5,2.0,0,1,120,74.7,B,1
+P00935,Jacopo Marangoni,1949-02-22,Braone,77,M,28.9,1.4,1,0,150,99.7,D,1
+P05133,Eugenia Udinesi,2006-05-23,San Mariano,20,F,29.6,1.8,0,0,110,79.8,E,0
+P02720,Maura Dossi,1969-02-14,Maggiano,57,F,22.1,0.2,1,1,129,91.5,A,0
+P00591,Lucrezia Trobbiani,1952-05-21,Armungia,74,F,28.7,1.4,0,1,153,116.0,C,0
+P04908,Gianna Cerquiglini,1958-07-15,Giffoni Valle Piana,68,F,30.2,1.8,0,0,115,107.2,E,0
+P02936,Luigina Mercalli,1960-08-06,Nusenna,66,F,29.3,4.1,0,0,146,97.9,D,0
+P02448,Livia Gargallo,1958-11-21,Longarone,67,F,20.5,0.3,0,0,135,107.1,D,1
+P01576,Monica Omma,1974-08-29,Bema,52,F,23.3,1.2,0,1,141,102.9,A,0
+P05004,Adriana Calvo,1960-04-28,Costalta,66,F,30.6,0.1,0,0,139,117.1,E,0
+P00213,Gabriele Ortolani,1980-02-03,Montepescali,46,M,16.0,7.7,0,1,104,88.9,E,0
+P00778,Santino Pagnotto,1991-03-15,Pavona,35,M,29.8,4.1,0,0,131,114.5,D,1
+P03496,Pietro Porzio,2002-02-26,Spessa,24,M,28.9,1.4,0,0,122,86.9,B,0
+P04705,Luigina Grimani,1994-04-22,Esenta,32,F,35.7,4.6,0,0,130,110.5,B,0
+P02043,Benvenuto Strangio,1960-11-24,Gaiofana,65,M,30.7,1.4,1,0,158,99.2,E,1
+P05438,Bettina Ruggeri,1982-03-31,Villa Caldari,44,F,31.0,1.3,1,0,114,123.0,A,1
+P01567,Ugo Guidone,1970-02-16,Mattarana,56,M,32.2,0.2,0,0,123,108.9,B,1
+P00165,Melina Gregorio,1956-10-30,Pistrino,69,F,23.8,7.1,0,1,117,89.0,B,0
+P03566,Gianluigi Martucci,1982-07-28,San Michele Di Piave,44,M,21.2,6.8,0,0,130,75.1,B,0
+P04590,Stella Detti,1964-10-18,Riffian,61,F,28.4,2.7,0,1,133,103.6,B,0
+P02013,Carmelo Palmisano,1950-01-29,Pachino,76,M,30.6,2.9,0,1,153,116.5,D,1
+P00273,Ramona Antonucci,1947-11-05,Schiavi Di Abruzzo,78,F,26.9,6.9,1,0,134,100.9,D,1
+P03860,Gabriella Donarelli,1974-08-06,Antonimina,52,F,16.8,7.2,0,0,132,92.0,B,0
+P04167,Roberto Salandra,1997-05-03,Casette D'Ete,29,M,29.6,3.1,0,1,123,89.3,A,0
+P04788,Durante Udinesi,1989-07-01,Girifalco,37,M,16.0,0.6,0,0,120,75.8,E,0
+P03788,Amanda Leonardi,1947-03-08,Baranzate,79,F,35.1,3.2,0,1,147,110.3,D,1
+P00394,Giulia Balbo,1962-10-29,Asten,63,F,21.2,1.9,0,1,120,81.4,C,1
+P00583,Cecilia Vecoli,2004-10-29,Frassinelle Polesine,21,F,35.6,1.5,0,0,99,98.8,E,0
+P05980,Valentina Rossellini,1970-08-13,Fantauzzi,56,F,22.9,2.7,0,0,97,95.1,A,0
+P05564,Gustavo Borromeo,2003-04-13,Tregozzano,23,M,22.6,3.5,0,0,123,90.6,B,0
+P05740,Melania Luria,1960-12-06,Castro Dei Volsci,65,F,21.4,7.2,0,0,123,106.2,A,0
+P00520,Guglielmo Alfonsi,1986-03-18,Nureci,40,M,30.6,3.7,0,0,127,90.3,C,0
+P01763,Irma Soprano,1971-03-16,Toline,55,F,27.0,1.6,0,0,131,96.1,C,1
+P01875,Sole Gatto,2001-08-27,Pre' Saint Didier,25,F,24.8,0.1,1,1,122,84.1,B,0
+P03965,Bernardo Guidotti,1955-05-08,Poggio San Vicino,71,M,26.4,0.0,0,0,150,90.6,C,0
+P03344,Virginia Ferrara,1975-07-17,Ceccano,51,F,22.3,1.9,0,0,135,89.0,B,0
+P02253,Zaira Borsellino,1977-09-11,Mezzolara,49,F,24.7,1.7,1,0,121,83.1,B,0
+P03224,Claudio Barbarigo,1970-02-10,Lido Di Fermo,56,M,24.1,3.1,1,0,127,86.2,D,0
+P00526,Cipriano Barracco,1950-01-11,Migliano,76,M,24.3,0.7,0,0,145,103.8,B,0
+P02946,Rosario Casagrande,1971-07-10,Frusci,55,M,28.8,0.7,0,0,116,99.7,A,0
+P03899,Imelda Aulenti,1949-11-16,Villa Collemandina,76,F,16.0,5.7,0,0,118,86.8,C,0
+P00692,Marcella Piccio,1950-07-02,Angeli Di Mergo,76,F,23.7,3.6,0,0,137,91.0,A,0
+P05674,Rosina Pirandello,1977-03-23,Godi,49,F,27.5,2.1,0,0,146,93.1,C,0
+P03633,Gustavo Comeriato,1960-11-07,Sant'Arcangelo,65,M,30.5,2.2,0,0,159,93.3,B,1
+P01050,Vincenza Sermonti,1976-06-27,Montefiorino,50,F,30.4,4.0,0,0,142,96.7,C,0
+P00590,Arnaldo Celentano,1957-12-13,Ayas,68,M,25.4,1.5,0,1,134,98.7,A,0
+P00519,Alessio Petrassi,1971-08-21,Montagna In Valtellina,55,M,22.5,0.3,1,0,111,83.9,B,0
+P03380,Rodolfo Scarfoglio,1955-10-11,Montiggl,70,M,17.6,2.3,0,0,127,100.1,B,0
+P03676,Isabella Novaro,1985-06-13,Granitola,41,F,38.8,2.2,0,1,154,90.4,C,0
+P04937,Nedda Marsili,1971-05-14,Gambugliano,55,F,32.6,7.1,0,0,127,113.8,C,1
+P01607,Gioele Contrafatto,1970-10-09,Cazzago Di Pianiga,55,M,30.9,1.4,0,0,143,105.0,C,1
+P03610,Giorgia Saracino,1973-07-24,Carbonera,53,F,27.8,3.9,0,1,139,98.6,B,0
+P05812,Allegra Togliatti,1990-06-05,Torre Alfina,36,F,26.3,0.1,0,1,107,87.0,E,0
+P01809,Ricciotti Dossi,1947-10-27,San Lorenzo,78,M,33.2,7.5,0,0,154,97.9,C,1
+P00791,Licia Garzoni,1980-09-25,Sant'Oliva,46,F,21.5,1.7,0,1,131,88.1,B,0
+P00792,Amalia Metella,1963-01-06,Campolungo,63,F,29.1,4.1,0,0,128,87.7,B,0
+P04927,Nina Capone,1971-07-21,Boario,55,F,27.4,3.1,0,0,102,104.5,B,0
+P01855,Nedda Badoer,1955-07-09,Borsea,71,F,32.6,3.9,0,0,129,121.9,C,0
+P01980,Giuseppina Puglisi,1967-06-05,Sant'Apollinare,59,F,26.0,3.7,0,0,119,94.3,A,0
+P03233,Ottone Agazzi,2007-12-25,Monteprandone,18,M,20.2,0.6,0,0,125,65.0,D,0
+P03598,Elena Nonis,1991-04-24,Cortina Sulla Strada Del Vino,35,F,29.0,8.0,1,0,129,106.6,A,0
+P00933,Rosina Baglioni,1968-06-13,Peglio,58,F,36.6,1.0,0,1,141,109.5,E,1
+P03963,Massimiliano Faranda,1984-11-13,Vilminore,41,M,42.3,8.9,0,1,133,102.1,D,0
+P05572,Maria Donini,1993-06-16,Ellera Umbra,33,F,26.8,1.8,0,0,129,81.8,B,0
+P04179,Calcedonio Ferragamo,1978-11-03,Boltiere,47,M,34.7,1.5,0,0,157,106.8,A,0
+P04026,Rosa Stucchi,1995-08-29,Trignano,31,F,21.8,1.2,0,0,124,88.9,C,0
+P04116,Jolanda Mannoia,2006-11-07,Lone,19,F,26.9,7.0,0,0,111,76.9,C,0
+P00988,Mariano Sgalambro,1993-05-25,Nissoria,33,M,33.2,4.9,0,1,139,123.1,A,1
+P04626,Atenulf Cibin,2007-11-14,Cesana Brianza,18,M,33.9,1.1,0,0,110,89.4,D,0
+P03453,Etta Zanazzo,1987-06-20,Nonantola,39,F,27.9,0.0,0,0,139,82.6,E,0
+P05477,Adriana Correr,1964-01-27,Gosi Pianvignale,62,F,28.4,3.6,0,1,124,101.0,E,1
+P03778,Silvia Orsini,1946-02-23,Forcoli,80,F,27.1,2.3,1,0,137,102.5,E,0
+P05349,Rosina Bettin,1972-01-22,Cortenedolo,54,F,30.2,1.0,1,0,120,96.2,E,0
+P03093,Fiamma Rienzo,1993-06-12,Frassignoni,33,F,18.6,9.7,0,1,106,89.0,C,0
+P03155,Riccardo Padovano,1954-10-21,St.Jakob In Ahrnta,71,M,27.4,5.3,0,0,142,110.6,A,1
+P03201,Romina Cesarotti,1951-05-23,Pascoso,75,F,32.3,0.2,1,1,156,115.5,A,1
+P04839,Roman Dallapé,1950-02-13,Netro,76,M,22.2,2.9,0,0,122,112.5,C,0
+P01098,Gianfrancesco Galiazzo,2005-12-18,Castiglione D'Ossola,20,M,16.0,3.9,1,1,93,65.0,E,0
+P04979,Tina Basso,1970-03-01,Venegazzu',56,F,25.8,0.6,0,0,113,94.7,A,0
+P02844,Elvira Gemito,1980-01-18,Pianosa,46,F,25.9,0.8,0,1,122,90.0,B,0
+P00886,Tonia Stradivari,2004-10-26,Solero,21,F,26.9,1.9,0,0,108,75.7,E,0
+P05918,Mario Bianchi,1966-03-08,Alanno,60,M,33.7,6.5,0,0,134,101.6,C,1
+P04651,Pompeo Schiavone,1946-03-19,Mandaradoni,80,M,22.9,3.9,0,0,154,92.0,C,1
+P00515,Oreste Soranzo,2002-05-13,Elice,24,M,30.4,0.1,0,1,120,77.0,E,0
+P05784,Nico Cendron,1973-07-27,Balossa Bigli,53,M,27.1,5.6,0,0,132,106.0,E,0
+P01453,Annunziata Nicolini,1993-06-22,Bivio Cascinare,33,F,26.9,0.0,1,0,155,100.1,C,0
+P03553,Vincentio Turrini,1964-08-25,Malcantone,62,M,22.0,0.2,0,0,133,96.0,B,0
+P03609,Carla Pavanello,1965-10-11,Grazzanise,60,F,21.8,1.6,0,1,123,85.0,A,0
+P02506,Bernardo Cutrufo,1980-05-01,Atrani,46,M,28.5,3.5,0,0,141,97.7,B,0
+P02994,Venancio Mastroianni,1959-12-11,Villanova Biellese,66,M,21.3,2.9,0,0,124,98.7,B,0
+P03999,Giulia Barese,1976-08-06,Basiano,50,F,17.6,0.3,0,1,106,79.9,A,0
+P05688,Mariano Santoro,1960-12-04,Lenno,65,M,34.3,0.0,1,1,132,130.1,C,1
+P00906,Vincentio Polani,1983-08-16,Cavizzana,43,M,35.8,0.9,0,1,136,121.3,D,1
+P00028,Liliana Lettiere,1973-10-30,Argine,52,F,31.1,1.2,0,0,118,93.3,E,0
+P02507,Isa Geraci,1969-02-16,Molino,57,F,22.1,3.9,1,0,112,76.4,C,0
+P02428,Beatrice Piane,1961-01-22,Montalbano,65,F,26.0,1.7,0,0,117,87.9,C,0
+P00762,Filippo Delle,1949-08-16,Porrino,77,M,23.5,0.6,0,0,128,96.6,D,0
+P03747,Aurora Mazzini,1945-12-23,Balvano,80,F,26.2,1.6,0,0,133,98.1,A,0
+P00284,Dionigi Udinese,1981-08-08,Parella,45,M,24.4,1.0,0,0,124,99.3,B,0
+P00686,Pellegrino Argan,1983-09-10,Tamara,43,M,16.0,0.4,0,1,121,78.5,E,0
+P02353,Carolina Travia,1979-01-08,Colle Di Roio,47,F,29.0,0.1,0,0,134,101.4,A,0
+P04825,Gianluca Bernardi,1982-08-22,San Pietro Laion,44,M,24.7,0.2,0,1,121,89.6,E,0
+P00021,Delfino Pareto,1985-03-08,Cortile,41,M,26.7,0.3,0,1,91,88.2,C,1
+P02752,Goffredo Riccati,1972-05-13,Sangiano,54,M,27.5,2.9,0,1,129,101.9,B,0
+P00885,Giampaolo Lucchesi,1962-09-19,Casan,64,M,30.3,0.4,0,0,121,101.8,E,1
+P00917,Eraldo Marenzio,1959-09-03,Schierano,67,M,34.8,2.3,0,0,150,114.1,C,0
+P01040,Erika Vasari,1964-04-27,Settimo Rottaro,62,F,23.3,11.2,0,0,133,109.5,D,0
+P01265,Tina Liverotti,2006-05-06,Mazzano,20,F,23.0,0.9,0,1,114,84.0,D,0
+P05187,Laureano Camilleri,2000-12-21,Castelbello,25,M,28.4,3.6,0,0,128,94.6,E,0
+P00277,Lina Pucci,1959-04-06,Tribunali Castellammare,67,F,34.2,0.1,0,0,118,124.9,E,1
+P02084,Stefani Terragni,2000-09-26,Cercino,26,F,30.0,0.4,1,1,122,87.2,A,0
+P01245,Giosuè Nolcini,1946-02-06,Molassana,80,M,28.7,3.5,0,0,142,105.1,A,0
+P02382,Napoleone Bottaro,1951-09-17,Roccapelago,75,M,27.8,1.3,0,0,155,120.8,A,1
+P00571,Annunziata Pezzali,1982-02-03,Predazzo,44,F,34.7,2.1,0,1,135,101.8,E,0
+P01435,Paulina Taliercio,2002-02-09,Alfiano Natta,24,F,25.8,0.8,1,0,120,65.0,A,0
+P03902,Coriolano Missoni,1976-03-18,Sant'Andrea Del Garigliano,50,M,31.6,2.2,0,1,136,106.5,C,1
+P01247,Aria Palombi,1978-12-20,San Giacomo Maggiore,47,F,29.8,1.0,0,0,108,104.4,C,0
+P03526,Licia Toscani,2000-08-30,San Pier Fedele,26,F,28.9,0.1,0,0,115,95.9,E,0
+P02514,Lucia Desio,2002-02-24,Chiusi Scalo,24,F,18.0,15.0,0,0,118,65.0,A,0
+P01007,Amanda Capone,1977-08-23,Puntone,49,F,32.4,0.3,0,1,124,91.6,B,1
+P05192,Lilla Comeriato,1976-10-22,Romagnano Al Monte,49,F,33.5,6.8,0,0,116,100.8,E,0
+P02064,Fabrizia Santi,1971-06-25,Menfi,55,F,27.1,4.4,0,1,150,111.7,D,0
+P05748,Achille Benigni,1950-04-06,Elvas,76,M,20.5,3.6,0,0,131,95.2,B,0
+P01690,Elena Aulenti,1959-12-27,Traverde,66,F,27.7,4.7,0,0,156,104.9,E,1
+P05589,Melissa Bellini,1955-03-24,Cistio,71,F,22.7,9.4,0,0,143,89.6,B,0
+P01985,Tullio Casagrande,1959-04-06,Favischio,67,M,29.0,12.7,0,0,128,103.1,D,1
+P00294,Pierpaolo Grifeo,1974-09-08,Poggio Moiano,52,M,18.7,1.2,1,0,140,82.7,C,0
+P01547,Milena Luciani,1955-03-10,Villabate,71,F,28.2,4.1,0,0,127,110.1,A,0
+P02012,Raimondo Inzaghi,1999-07-12,Camino Al Tagliamento,27,M,27.0,4.9,1,0,130,85.4,A,0
+P00588,Luigi Anichini,1956-05-19,Posina,70,M,31.0,1.4,0,1,139,109.9,E,1
+P03329,Virginia Ruggieri,1951-04-18,Villa Paterno,75,F,17.2,3.5,1,1,131,73.1,E,0
+P02403,Ramona Natta,1973-11-19,Marengo,52,F,28.3,1.9,0,0,117,125.7,D,1
+P02129,Piermaria Mazzeo,1987-11-09,Tiglieto,38,M,23.8,1.5,0,1,129,82.7,B,0
+P03998,Melissa Vismara,1962-09-28,Valeggio,64,F,27.8,3.1,0,0,127,106.1,D,0
+P05250,Matilda Cuda,1999-09-09,Moraro,27,F,22.8,6.3,1,0,107,73.8,D,0
+P03741,Guarino Cianciolo,1988-10-11,Caspoggio,37,M,27.5,2.2,0,0,127,89.8,A,0
+P03508,Giulia Visintini,2005-03-10,Vergiate,21,F,30.7,0.9,0,0,107,87.3,E,0
+P02719,Viridiana Mocenigo,1998-01-09,Urbania,28,F,28.5,1.1,1,0,106,90.9,A,0
+P05461,Ottone Ferragamo,2008-05-16,Sant'Eusebio,18,M,35.8,1.4,0,0,120,97.1,E,0
+P05467,Nadia Cugia,1987-01-27,San Giovanni Lupatoto,39,F,23.7,3.8,0,0,112,94.3,E,0
+P00556,Leopoldo Surian,1961-12-15,Melicucco,64,M,36.5,1.2,0,0,139,107.4,A,1
+P02469,Piero Palladio,1994-12-07,Pizzone,31,M,38.2,0.4,0,0,137,91.8,B,0
+P03738,Patrizia Roero,1966-01-07,Le Bagnese San Giusto,60,F,26.8,0.2,0,0,121,87.0,B,0
+P04286,Sylvia Zetticci,1964-07-06,Porto D'Ascoli,62,F,27.9,8.9,0,1,106,98.9,C,0
+P04932,Gianluca Legnante,1952-08-29,Mapello,74,M,36.3,5.6,1,0,141,105.4,B,1
+P01716,Vincenza Einaudi,1968-05-21,Vindicio Di Formia,58,F,33.7,0.8,0,0,144,97.0,D,1
+P02604,Ansaldo Vianello,1961-05-23,Pinzon,65,M,23.1,0.4,0,0,115,88.0,D,0
+P04943,Antonio Donatoni,1954-03-05,Costa Sant'Abramo,72,M,20.7,0.0,0,0,135,93.1,D,1
+P01704,Rita Babbo,1951-05-01,Borgo San Giovanni,75,F,23.7,6.9,0,0,133,95.3,D,0
+P02139,Flavio Dovara,1982-11-06,Pescocanale Di Capistrello,43,M,33.2,0.2,0,0,138,93.9,D,1
+P03239,Cassandra Zola,2006-01-16,Ville Di Corsano,20,F,29.3,8.8,0,0,125,86.5,A,0
+P02383,Rosa Barillaro,1984-08-27,Picciame,42,F,24.9,7.1,0,0,119,80.7,B,0
+P04311,Gabriele Dallara,1954-12-11,Valle Di Murialdo,71,M,23.1,0.5,0,0,123,106.2,D,0
+P01285,Paola Panicucci,2004-12-14,Callianetto,21,F,29.8,0.5,0,0,123,94.2,C,0
+P05105,Venancio Tencalla,1968-09-19,Cino,58,M,22.0,0.2,0,0,138,95.5,D,0
+P05357,Susanna Cabrini,1962-09-20,Pollutri,64,F,23.4,3.1,0,0,125,112.9,E,1
+P03930,Piersanti Bulzoni,1964-01-18,Altenburg,62,M,17.9,0.9,0,0,116,91.1,C,0
+P04537,Lisa Battelli,1963-04-30,San Clemente,63,F,31.0,0.7,0,1,123,101.9,A,1
+P01591,Germana Bosio,1987-07-20,Qualso,39,F,19.2,5.9,0,0,114,89.3,B,0
+P05310,Matilda Baresi,1951-07-03,Quadrivio Di Campagna,75,F,28.6,2.2,0,0,150,127.1,E,0
+P02162,Virgilio Sibilia,1983-07-27,Fratta,43,M,22.3,6.4,0,1,130,96.6,D,1
+P02396,Diana Broggini,1949-01-18,Libbiano,77,F,28.0,2.3,0,0,136,111.0,A,1
+P00317,Antonia Tognazzi,1962-12-28,Monterusciello,63,F,21.6,0.6,0,0,114,92.7,E,0
+P05383,Bartolomeo Legnante,1984-09-22,Ghiaie,42,M,16.2,4.2,1,0,101,84.1,A,0
+P03111,Ludovica Villarosa,1959-10-22,Pontepetri,66,F,21.2,1.2,0,1,137,111.6,A,1
+P04036,Damiano Gentileschi,1965-06-23,Piancaldoli,61,M,34.6,2.0,0,0,141,99.9,D,0
+P00795,Angelo Ludovisi,1990-09-27,La Storta,36,M,25.9,10.4,0,1,107,97.5,C,0
+P03020,Pina Gotti,1986-03-31,Costalunga,40,F,21.9,1.2,0,1,119,91.7,A,0
+P01711,Gianpaolo Galiazzo,1979-01-11,Catignano,47,M,29.3,2.0,0,0,105,91.7,E,0
+P03387,Giuliana Redi,1962-01-06,Marina Di Nocera Terinese,64,F,43.2,1.9,1,1,138,122.4,A,1
+P00036,Marisa Parisi,1954-03-07,Dignano,72,F,29.2,3.8,0,1,129,116.1,D,1
+P00913,Paola Faggiani,1947-06-24,Stilfes,79,F,32.4,4.5,0,0,120,101.5,C,1
+P03972,Tonia Pirelli,2001-08-19,Villa San Pietro,25,F,24.8,1.6,0,0,117,79.2,A,1
+P04133,Gelsomina Tarantino,1977-06-12,Monte Porzio,49,F,35.1,3.1,0,0,149,109.7,B,0
+P00974,Arnaldo Zampa,1999-09-25,Sant'Eulalia,27,M,28.7,0.0,0,0,128,86.2,D,0
+P00983,Mirko Collina,1967-11-25,Lasnigo,58,M,30.2,2.3,0,0,120,102.0,A,0
+P05209,Germana Tarchetti,2007-08-15,Spinetta,19,F,25.0,1.1,0,1,96,84.7,E,1
+P01418,Giovanna Cimarosa,1954-09-08,Arsiero,72,F,22.3,4.9,0,1,137,83.7,E,1
+P01560,Marcella Carriera,1989-10-05,Mazzano,36,F,29.7,1.8,0,1,118,92.2,D,0
+P04135,Severino Prati,1947-03-25,Lu Muvruneddu,79,M,27.4,0.4,0,0,145,105.4,D,1
+P04265,Amadeo Russo,1946-07-06,Lodrone,80,M,30.4,5.0,0,0,139,111.1,E,0
+P01355,Dolores Battisti,1977-05-06,Apecchio,49,F,25.1,2.9,0,0,108,93.1,E,0
+P05691,Iolanda Argan,1970-10-06,Rabenstein,55,F,29.4,2.3,0,1,99,86.8,C,1
+P00987,Angelica Ciani,1988-11-17,Sealza,37,F,33.4,2.9,0,1,141,95.1,D,0
+P02682,Ferdinando Zaccagnini,1984-06-23,Saiano,42,M,34.4,1.3,0,0,128,106.7,C,1
+P01640,Maria Mascagni,1963-08-06,Berzano Di Tortona,63,F,24.2,5.8,0,1,114,111.9,E,0
+P01290,Gemma Cossiga,1993-12-05,Castelcavallino,32,F,33.0,0.7,0,0,116,102.5,B,0
+P03681,Tiziana Bodoni,2006-03-23,Vicoforte,20,F,23.8,0.8,0,0,125,74.5,A,0
+P01380,Tatiana Dallara,1947-01-29,Arlate,79,F,29.1,1.8,0,0,139,84.4,E,0
+P01933,Sergius Monte,1948-02-16,San Pietro Polesine,78,M,21.0,0.2,0,0,147,86.8,D,0
+P05045,Flavio Gravina,1985-09-18,San Donnino,41,M,27.4,2.3,0,1,124,85.2,D,0
+P03160,Aurora Columbo,2001-05-04,Cavalo,25,F,37.7,1.7,0,1,124,107.8,C,1
+P02030,Azeglio Gussoni,1973-03-10,Poggio Di Otricoli,53,M,25.1,0.8,0,0,122,91.0,A,0
+P00892,Baccio Vidoni,1976-02-09,Casalguidi,50,M,26.7,5.0,0,0,131,92.0,E,0
+P04069,Loretta Sauli,2002-08-04,Francenigo,24,F,30.2,9.7,0,0,110,71.4,A,0
+P04255,Massimiliano Fracci,1988-05-25,Carpanzano,38,M,24.6,2.0,0,1,90,101.6,E,1
+P00002,Flavia Garozzo,1967-04-21,Cellere,59,F,24.0,1.5,0,0,120,113.4,A,1
+P02109,Matilda Priuli,1991-05-01,San Giorgio Ionico,35,F,29.3,2.7,1,0,117,87.9,B,0
+P00849,Stefano Pace,1970-04-21,Bergamo,56,M,25.0,1.5,0,0,119,102.7,A,0
+P02737,Toni Bulzoni,1997-02-27,Villaregia,29,M,25.6,11.4,0,0,119,83.3,B,0
+P02466,Massimo Ostinelli,1990-02-23,Jenne,36,M,23.1,1.3,1,0,108,82.3,C,0
+P01914,Fiorenzo Morabito,1988-09-28,Carenno,38,M,39.8,0.9,0,1,144,112.9,D,0
+P01596,Anita Pietrangeli,1967-01-20,Glair,59,F,23.8,7.8,0,0,143,99.8,C,0
+P01913,Caterina Guicciardini,1960-03-22,Viterbo,66,F,21.5,0.6,1,0,134,102.4,E,1
+P05652,Puccio Franzese,2005-08-13,Vigano,21,M,26.5,6.3,0,0,126,92.5,D,0
+P02736,Panfilo Rusticucci,1972-03-10,Cortenova,54,M,27.7,4.3,0,0,120,105.5,A,0
+P00726,Isa Branciforte,1962-10-08,Regnana,63,F,23.8,15.0,0,1,113,96.3,E,0
+P00053,Costantino Correr,1978-11-07,Treggiaia,47,M,28.6,9.8,1,0,119,97.6,E,0
+P01796,Valentina Cagnin,1946-12-18,Sant'Alessio In Aspromonte,79,F,27.2,1.4,0,1,133,106.5,E,1
+P03845,Luigi Petruzzi,1978-01-21,San Marzano Di San Giuseppe,48,M,26.0,1.5,0,0,110,104.2,D,0
+P02553,Silvestro Sismondi,1996-08-31,Volongo,30,M,25.5,0.2,0,0,113,80.9,A,0
+P02800,Diana Antonetti,1959-05-20,Pezze Di Greco,67,F,27.9,6.1,1,0,116,79.2,A,0
+P00936,Saverio Gotti,1999-04-11,Cortiglia,27,M,19.2,1.8,0,0,126,75.7,A,0
+P04941,Paola Lamborghini,1979-12-05,Casan,46,F,24.2,7.0,0,0,123,90.0,D,0
+P00824,Alessia Novaro,1969-06-22,Croce Valanidi,57,F,31.1,5.5,0,0,145,110.2,D,0
+P04321,Fiamma Bonomo,1980-03-15,Ponte Ete,46,F,28.7,3.0,0,0,139,76.3,C,1
+P03401,Carla Sobrero,1951-06-29,Sava,75,F,19.9,5.4,0,0,153,87.5,A,1
+P01389,Rosaria Fibonacci,1951-08-03,Acquanegra Sul Chiese,75,F,24.6,2.8,0,1,127,93.6,D,1
+P03564,Fabia Cerquiglini,1959-06-14,Ripacorbaria,67,F,23.2,7.3,0,1,129,84.6,A,0
+P00884,Giulio Sabatini,1957-08-13,San Pietro In Gu,69,M,25.5,1.3,0,0,125,105.7,A,1
+P01868,Renata Villadicani,2007-03-08,Cusano Mutri,19,F,25.5,0.3,0,1,113,70.3,A,0
+P00010,Piero Galuppi,1975-03-20,Germignaga,51,M,27.9,1.2,0,1,130,104.8,A,0
+P03415,Baccio Farinelli,1983-05-02,Lauro,43,M,22.2,3.2,0,0,126,87.8,D,1
+P01463,Concetta Milanesi,2004-11-14,Garniga Terme,21,F,33.9,0.5,0,1,121,84.8,B,0
+P00806,Antonio Giorgetti,1974-07-25,Capaccio,52,M,26.4,0.2,0,0,117,92.8,E,0
+P04715,Fabrizio Stucchi,1977-07-25,San Martino Di Valmozzola,49,M,29.6,0.1,0,0,114,107.0,A,0
+P04068,Pomponio Ponti,1962-03-19,Ponte Dell'Olio,64,M,19.3,0.7,0,0,108,78.5,E,0
+P02108,Lara Zanazzo,1991-04-21,Asparetto,35,F,27.4,14.2,0,0,130,95.0,A,0
+P05062,Gianni Gargallo,1969-12-20,Mondavio,56,M,35.9,8.6,0,0,123,96.8,B,0
+P05946,Gilberto Giannetti,1991-12-18,Castellino Brocco,34,M,30.3,0.3,1,0,99,99.6,C,0
+P02234,Bartolomeo Ferrante,1971-07-31,Borgata Marina,55,M,25.9,15.0,1,0,139,89.5,D,0
+P00963,Marina Giusti,1995-08-21,Guidonia,31,F,32.9,5.7,0,0,123,97.3,C,0
+P04494,Vittorio Peano,1988-11-28,Cortemilia,37,M,16.0,7.6,0,0,112,69.5,D,0
+P02632,Giorgio Barracco,1951-09-18,Torre Beretti E Castellaro,75,M,24.9,0.0,0,0,125,102.0,D,0
+P00704,Donna Correr,2000-06-02,Crosa,26,F,32.9,1.0,0,1,109,84.1,D,0
+P00431,Ida Carriera,1961-12-10,Tufo Di Minturno,64,F,24.2,0.4,0,0,126,83.7,E,0
+P04388,Antonello Badoglio,1987-03-02,Volpedo,39,M,23.4,0.9,0,1,135,89.1,E,0
+P00145,Susanna Mantegazza,1955-04-01,Dogliola,71,F,19.9,0.3,0,0,151,99.6,C,1
+P02033,Gianfranco Moretti,1966-01-13,Villa Felice,60,M,23.3,0.2,0,0,125,115.1,C,0
+P05030,Simone Cendron,1989-01-30,Castello Di Godego,37,M,27.7,1.7,1,0,117,82.5,A,0
+P01165,Gianfrancesco Ponti,2002-07-14,Rapolano Terme,24,M,28.0,5.3,1,1,102,80.8,B,0
+P03500,Nedda Monti,2005-08-14,Ponte Dell'Olio,21,F,41.8,0.4,0,0,122,106.7,A,1
+P02050,Bernardo Sauro,1998-05-29,Esine,28,M,26.2,2.1,0,0,105,86.8,B,0
+P03760,Evangelista Collina,1998-09-26,Lottulo,28,F,27.3,0.5,0,1,134,95.2,B,0
+P02624,Eraldo Valguarnera,1950-01-01,Carpinello,76,M,26.4,2.4,0,0,136,111.9,B,0
+P04484,Martino Gatto,1978-12-06,Torre Di Palme,47,M,22.1,2.0,0,0,130,73.5,D,0
+P04435,Ermenegildo Palumbo,1950-08-21,Volpedo,76,M,21.3,7.8,0,0,135,94.0,E,1
+P04778,Riccardo Carpaccio,2002-09-25,Piaggione,24,M,28.2,0.1,0,0,114,94.0,A,0
+P04648,Carlo Dovara,1990-07-08,Leone Santa Elisabetta,36,M,24.3,2.9,1,1,120,84.1,D,0
+P04361,Renata Collodi,1959-04-06,Vergemoli,67,F,26.7,5.1,0,1,126,102.1,D,1
+P02424,Piergiuseppe Nitti,1987-03-27,Raffadali,39,M,22.0,2.5,0,1,108,109.4,C,0
+P01262,Eva Zito,1980-05-04,Granozzo Con Monticello,46,F,26.7,5.1,0,0,153,81.3,C,0
+P01771,Giustino Lombardi,1985-09-24,Fabiano,41,M,24.6,5.1,0,0,109,105.0,E,0
+P03511,Melissa Zacchia,1971-12-25,Angolo Terme,54,F,27.9,3.5,0,0,148,97.2,A,0
+P00271,Annunziata Foconi,2006-10-21,Asta Nell'Emilia,19,F,19.6,2.7,0,0,104,69.7,C,0
+P00244,Bianca Raurica,1969-04-24,Viserba,57,F,25.7,1.3,0,0,136,92.7,D,0
+P05820,Concetta Argenti,1969-12-11,Cappuccini,56,F,20.6,1.0,1,1,145,98.6,C,0
+P04572,Micheletto Emanuelli,1977-04-21,Saonara,49,M,17.9,0.5,0,0,123,86.2,C,0
+P02032,Alessandra Trezzini,2003-03-15,Castiglione Delle Stiviere,23,F,35.3,1.3,1,0,128,99.0,E,0
+P04740,Annunziata Infantino,1992-05-08,Bresega,34,F,28.1,1.0,0,1,127,98.2,B,0
+P00813,Luigina Abbagnale,1991-07-17,Spongano,35,F,23.8,2.9,0,0,113,93.7,D,0
+P03810,Gabriella Dovara,1993-10-25,Monteverdi Marittimo,32,F,27.0,8.4,0,1,109,85.9,D,0
+P04868,Guglielmo Caccioppoli,1949-12-07,Villa,76,M,16.5,0.1,0,0,133,79.1,B,0
+P01804,Martina Mannoia,1999-11-06,Lomello,26,F,26.3,11.3,0,1,127,104.5,B,0
+P04346,Pina Ceci,2005-08-11,Ronchis,21,F,26.3,2.7,0,0,95,87.3,B,0
+P02461,Ilaria Opizzi,1995-01-24,Ciconio,31,F,30.4,7.9,0,0,124,94.2,A,0
+P00545,Liana Iacobucci,2005-09-08,Meletole,21,F,25.8,5.3,0,1,120,99.0,D,0
+P03241,Leopoldo Piccio,1995-02-14,Altidona,31,M,27.8,0.1,0,0,103,90.7,D,0
+P00738,Orlando Loredan,1962-06-21,Segromigno In Piano,64,M,31.4,0.9,0,1,133,122.8,B,1
+P00310,Paride Fieramosca,1966-12-31,Piobesi D'Alba,59,M,25.4,2.4,0,1,146,114.5,C,0
+P03521,Antonia Opizzi,1988-02-26,Sant'Ippolito,38,F,27.5,0.1,0,0,117,81.3,E,0
+P01131,Amanda Ludovisi,1966-06-06,Albanese,60,F,27.2,0.7,0,0,150,112.9,B,1
+P05906,Vanessa Nugnes,1979-07-11,Valle Mosso,47,F,23.1,6.2,0,0,120,77.3,E,0
+P04111,Adelmo Sanguineti,1978-07-01,Marocco,48,M,16.3,1.6,0,0,139,68.8,E,0
+P02769,Tonia Capuana,1948-02-28,Barzaniga,78,F,34.5,0.5,0,1,145,96.9,D,1
+P00920,Mattia Travaglio,1954-07-16,Prosto,72,M,21.2,3.0,1,0,121,85.8,E,0
+P03587,Vittoria Goldstein,1965-07-19,Marana Di Montereale,61,F,22.6,4.7,0,1,146,87.7,C,0
+P03959,Vanessa Malpighi,1995-08-12,Pietraviva,31,F,20.4,6.2,0,0,107,82.3,D,0
+P00038,Giancarlo Mocenigo,1991-07-22,Bardalone,35,M,27.3,2.4,0,0,112,99.1,A,0
+P04459,Gabriele Moneta,1967-07-11,Valleandona,59,M,25.3,5.1,0,0,123,88.1,A,0
+P04278,Silvio Orsini,1961-10-03,Mariana Mantovana,64,M,31.7,2.3,0,0,133,114.8,B,0
+P02983,Fiamma Palazzo,1957-07-23,Scrofiano,69,F,32.5,2.1,0,0,141,90.2,C,0
+P05985,Giulietta Brenna,1989-05-19,San Giovanni Montebello,37,F,19.8,0.9,0,0,115,78.4,C,0
+P02667,Benedetto Andreotti,1948-05-17,San Gregorio D'Ippona,78,M,29.8,0.7,1,0,152,93.5,D,0
+P03223,Rembrandt Guidone,1960-04-09,Fumeri,66,M,28.7,2.1,0,0,133,106.1,D,0
+P01182,Donato Pedroni,1965-08-25,Cusino,61,M,24.9,8.6,0,0,178,117.6,A,0
+P00614,Rocco Geraci,1965-04-15,Passo Di Ripe,61,M,26.8,0.5,1,1,117,92.4,A,1
+P05889,Benedetto Morricone,1991-04-10,Salvirola,35,M,27.7,2.2,0,0,139,81.3,B,0
+P01466,Priscilla Ioppi,1968-05-12,Taibon Agordino,58,F,21.8,2.1,1,0,134,85.3,B,0
+P04497,Rocco Marinetti,1984-04-08,Buttapietra,42,M,35.1,0.7,0,1,141,106.4,C,1
+P03042,Lisa Falcone,1988-09-09,Lama Di Setta,38,F,35.1,0.8,0,0,126,88.9,C,0
+P00934,Stefano Verga,1981-09-16,Rottanova,45,M,25.3,0.2,1,0,95,96.2,E,0
+P02419,Romeo Babato,1981-11-06,Marling,44,M,25.9,2.4,0,0,115,105.1,D,0
+P05411,Francesco Pugliese,1978-12-16,Pietramurata,47,M,24.2,2.6,0,0,118,101.6,A,0
+P04856,Carolina Giusti,1955-05-16,Villassio,71,F,22.4,3.1,0,0,130,100.7,D,1
+P00826,Filippa Cammarata,1965-11-25,Lamporecchio,60,F,34.5,3.6,0,1,154,113.5,C,1
+P01521,Claudia Castioni,1963-11-12,Castello Di Brianza,62,F,24.8,2.9,0,0,136,105.3,C,1
+P02930,Lucia Trezzini,1998-01-22,Ardenza,28,F,32.1,0.2,1,0,142,84.9,A,1
+P04232,Piersanti Vittadello,1970-03-17,Santa Maria,56,M,30.9,3.4,0,1,137,110.0,E,1
+P00628,Marcello Castellitto,1977-03-28,Protonotaro,49,M,32.1,3.8,1,0,154,107.2,C,0
+P04430,Eugenia Galilei,1949-10-18,Bellino,76,F,32.0,2.5,0,1,136,119.4,D,1
+P03853,Sabatino Nolcini,1986-02-07,Puos D'Alpago,40,M,31.2,5.1,1,0,132,81.1,D,0
+P00390,Donna Villarosa,1961-06-26,Montecarotto,65,F,32.0,9.0,0,0,137,106.3,B,1
+P04345,Rita Ferrante,1976-10-28,Villanova Monferrato,49,F,35.2,3.6,0,1,125,122.8,B,1
+P05850,Martino Savorgnan,1997-11-12,Banzano,28,M,38.6,0.5,0,0,124,119.3,E,0
+P03990,Sebastiano Serao,1961-09-25,Campodonico,65,M,24.2,7.1,0,1,134,86.1,E,0
+P00400,Ludovica Carosone,1945-12-13,Corbara,80,F,25.4,1.3,0,1,134,98.1,C,0
+P03359,Marisa Liguori,1975-01-07,La Maddalena,51,F,26.8,0.0,0,1,135,87.9,D,0
+P00046,Emilio Iannuzzi,1980-09-04,Petriano,46,M,30.6,0.8,0,1,126,99.0,E,0
+P05753,Victoria Juvara,1990-12-08,Rosciolo Dei Marsi,35,F,27.5,2.1,0,0,117,83.9,E,0
+P05909,Vittorio Goldoni,1975-10-29,Venaus,50,M,32.3,0.8,0,0,127,118.3,E,1
+P03642,Marcantonio Corradi,1950-01-01,Albaneto,76,M,26.9,2.4,0,1,156,99.7,C,1
+P03726,Tina Mantegazza,2002-07-27,Villaggio Santa Barbara,24,F,27.3,1.2,1,0,130,85.9,E,0
+P05824,Valeria Vergerio,1976-07-11,Bocenago,50,F,24.2,2.2,0,1,149,108.0,C,0
+P02421,Gabriella Boito,1961-08-04,Polinago,65,F,26.1,4.1,0,0,117,91.0,E,0
+P01750,Melissa Pareto,1950-07-11,Piedimonte Di Sessa Aurunca,76,F,32.9,7.6,0,0,168,114.3,C,1
+P05798,Vincenza Bernardini,1972-12-17,Carzago Della Riviera,53,F,21.8,10.2,0,0,120,89.0,A,0
+P04907,Giampiero Oliboni,1958-11-11,Pergine Valsugana,67,M,28.7,1.5,0,0,141,90.6,A,1
+P04062,Donatella Bresciani,1968-11-18,Gifflenga,57,F,31.4,5.9,1,1,123,109.8,C,0
+P00338,Elisa Briccialdi,1996-03-10,Abbadia San Salvatore,30,F,34.5,15.0,0,1,104,99.8,E,0
+P00215,Stella Montalcini,1991-03-12,Scacciano,35,F,22.5,1.3,0,0,111,103.3,A,0
+P03663,Costantino Storladi,1948-08-13,Pontboset,78,M,31.7,3.5,0,1,153,96.4,C,1
+P01341,Raimondo Maderno,2000-07-05,Sessa Cilento,26,M,27.4,1.6,0,0,128,89.5,E,0
+P05484,Giulietta Ferrante,1975-09-11,Le Prese,51,F,22.5,3.3,1,1,123,94.8,E,1
+P03894,Giacomo Agnesi,1969-12-06,Usigliano,56,M,23.0,0.8,0,1,101,86.7,E,0
+P03640,Telemaco Avogadro,1963-02-19,Fuorni,63,M,20.9,6.8,0,0,142,82.3,D,0
+P00329,Maria Gori,1974-04-03,Braone,52,F,31.3,6.3,0,0,119,99.6,C,0
+P03004,Anita Camiscione,1964-03-06,Paciano,62,F,34.0,1.8,1,1,148,93.6,A,1
+P05731,Umberto Munari,2001-09-27,Sule',25,M,22.8,3.7,0,1,136,88.2,E,0
+P03115,Romina Alfieri,1977-06-11,Zerman,49,F,28.0,2.9,0,1,132,100.9,D,0
+P05801,Melissa Cianciolo,1983-11-20,Schmuders,42,F,37.3,2.9,0,1,111,105.3,E,1
+P02322,Romana Cocci,1987-04-04,Casasco,39,F,26.4,7.3,0,0,117,109.6,D,0
+P04197,Carla Calbo,2001-03-24,Odalengo Piccolo,25,F,29.0,3.3,0,0,119,79.6,D,0
+P03549,Massimiliano Cuzzocrea,1968-04-19,Paderno Franciacorta,58,M,29.1,0.4,0,0,134,93.2,C,0
+P01458,Uberto Caetani,1992-09-08,Flumignano,34,M,16.0,1.6,1,0,125,66.2,B,0
+P00171,Ernesto Rossini,2003-01-24,Casamicciola Terme,23,M,28.9,0.1,1,1,125,105.8,C,0
+P04203,Fabrizio Biagiotti,2000-05-27,Rosignano Monferrato,26,M,30.4,2.8,0,0,98,81.7,C,0
+P05020,Adelmo Oliboni,1953-07-05,Rutino,73,M,30.6,0.0,0,0,120,95.2,C,0
+P03569,Ludovica Caracciolo,1993-06-10,Ghedi,33,F,22.1,15.0,0,0,125,103.4,C,0
+P04226,Leopoldo Zoppetto,1980-06-07,Ribera,46,M,18.2,2.4,0,0,102,89.6,C,0
+P04888,Girolamo Barbarigo,1987-07-24,Marigliano,39,M,25.3,2.8,0,1,128,86.0,D,0
+P04936,Cassandra Duodo,1948-02-11,San Bartolomeo In Galdo,78,F,21.8,1.0,0,1,134,108.6,D,0
+P00938,Mariana Bonomo,1979-02-08,Li Mori,47,F,24.6,5.2,1,0,118,92.7,D,0
+P00060,Goffredo Morpurgo,1949-10-24,Castellar,76,M,40.6,8.5,0,0,151,113.0,B,1
+P01240,Michela Ricci,1976-07-04,Villaromagnano,50,F,29.8,1.0,0,1,129,100.2,D,1
+P05009,Cassandra Squarcione,1991-01-31,Lazzeretto,35,F,20.4,2.2,0,0,146,81.5,E,0
+P02120,Gastone Vendetti,1960-03-03,L'Alzoni,66,M,27.0,0.5,0,0,122,83.0,E,0
+P01524,Elladio Granatelli,1970-05-18,San Pietro Magisano,56,M,30.5,0.5,0,0,142,113.1,E,0
+P00153,Gioele Pacomio,1990-02-08,Cugliate Fabiasco,36,M,22.1,1.1,0,0,116,85.5,C,0
+P00481,Antonina Seddio,1956-09-04,Fossalon,70,F,23.0,2.5,1,1,138,89.1,A,0
+P04460,Fortunata Marazzi,2001-12-22,Storo,24,F,31.2,3.9,0,0,110,87.4,D,0
+P03920,Osvaldo Pinamonte,1949-05-30,Cozzano,77,M,28.4,3.6,0,0,115,110.4,D,0
+P01762,Paloma Caboto,2008-01-14,Santa Reparata,18,F,22.8,3.3,1,1,90,82.5,E,0
+P00750,Alessia Orlando,1947-11-22,Cascinette D'Ivrea,78,F,26.7,1.7,1,0,134,93.8,A,1
+P01785,Livia Semitecolo,1993-09-24,Gabbioneta,33,F,33.9,2.4,0,1,119,95.2,B,1
+P04501,Severino Avogadro,1974-11-21,Comuneglia,51,M,27.7,4.1,1,0,117,108.1,A,0
+P02711,Angelica Sbarbaro,2007-03-29,Valbrona,19,F,21.9,1.9,1,0,119,85.9,B,0
+P04845,Lauretta Camanni,1960-09-13,Borgo,66,F,23.6,3.7,0,0,137,90.2,C,0
+P04193,Elena Pozzecco,2006-08-04,Castellarano,20,F,27.1,2.1,0,0,100,91.2,D,0
+P01333,Gioachino Modugno,1958-07-30,Villa Biscossi,68,M,33.3,0.7,1,0,148,106.4,D,0
+P05335,Eleanora Scaduto,2003-11-14,Torri In Sabina,22,F,24.0,0.4,0,1,130,102.1,B,0
+P02854,Rosa Parpinel,1962-10-24,Valduga,63,F,24.1,6.0,1,0,143,95.8,E,0
+P00186,Piergiuseppe Armellini,1998-02-12,Canedole,28,M,31.2,1.5,0,0,106,82.0,D,0
+P01136,Lidia Botticelli,1963-09-08,Crispano,63,F,27.4,0.6,0,0,126,98.4,A,0
+P02058,Paoletta Vezzali,1984-03-16,Cimbro,42,F,26.9,5.1,0,0,131,113.5,E,0
+P05022,Elisa Lucarelli,1965-05-15,Torreorsina,61,F,25.7,6.7,0,0,130,95.1,D,0
+P00148,Roman Zanzi,1956-12-01,Ahornach,69,M,18.8,3.0,1,0,112,92.4,B,0
+P04124,Victoria Ravaglioli,1959-02-03,Capistrello,67,F,31.0,8.9,0,0,125,90.3,D,0
+P03363,Gianfrancesco Contarini,1957-09-13,Passo Di Mirabella,69,M,23.1,0.3,0,1,111,80.9,C,1
+P02866,Leopoldo Lucciano,1989-06-17,Quittengo,37,M,28.6,1.4,0,0,140,99.7,E,0
+P03776,Fortunata Viola,1974-12-16,Limana,51,F,21.4,3.0,0,1,127,87.9,C,0
+P01386,Loredana Fallaci,1973-02-07,Iolo,53,F,31.5,0.6,0,1,125,87.3,A,1
+P05671,Gino Bodoni,1968-02-19,Sapri,58,M,29.9,4.4,0,0,128,100.2,C,0
+P04959,Giada Rensi,1948-10-27,Cerchio,77,F,37.0,3.1,0,0,157,128.5,C,1
+P03629,Gustavo Leblanc,1956-06-10,Blera,70,M,26.9,6.8,1,0,139,99.8,B,0
+P05396,Lara Pellegrini,1949-02-12,Gallipoli,77,F,25.9,5.1,1,1,153,106.7,B,1
+P03028,Annamaria Brichese,1993-11-16,Vivo D'Orcia,32,F,26.1,0.1,1,0,117,88.2,D,1
+P02969,Viridiana Mennea,1968-04-23,Chianocco,58,F,26.4,1.3,0,0,129,93.2,B,1
+P05207,Rossana Ludovisi,1960-10-06,Mirasole,65,F,32.3,0.7,0,0,122,95.8,C,0
+P01708,Lodovico Duodo,1993-08-22,Campomaggiore San Luca,33,M,16.0,0.7,1,0,120,78.1,D,0
+P02953,Antonia Marzorati,1981-03-21,Aquilonia,45,F,24.8,0.3,0,1,120,83.3,E,0
+P00454,Rolando Vigorelli,1971-04-05,Rodello,55,M,26.7,7.8,0,1,115,75.3,D,0
+P00609,Giuliana Sansoni,1954-02-19,Castelfirmiano,72,F,28.2,6.5,0,0,117,111.7,A,0
+P04263,Panfilo Varano,1961-01-03,Villetta Sant'Antonio,65,M,20.3,0.4,1,0,129,104.6,D,1
+P05081,Berenice Andreozzi,1976-10-27,Torella Dei Lombardi,49,F,28.7,2.6,1,0,133,92.7,A,0
+P02074,Dolores Surian,1965-06-09,Armungia,61,F,24.3,4.6,1,0,139,96.5,D,1
+P04052,Vittoria Maggioli,1960-05-09,La Morra,66,F,29.2,2.3,0,0,143,96.5,D,1
+P04873,Bettina Modigliani,1971-08-09,Lona,55,F,22.1,0.9,0,0,118,97.2,A,0
+P01622,Raffaella Caetani,1950-05-04,San Vittore,76,F,25.0,2.8,0,0,149,108.8,C,0
+P04683,Livio Bondumier,2004-09-20,Fragagnano,22,M,22.0,3.2,1,1,99,95.0,E,0
+P05252,Mirko Cipolla,1963-10-21,Gries,62,M,23.6,1.9,0,1,124,83.6,B,0
+P00040,Amedeo Mennea,1998-08-16,Bivio San Polo,28,M,26.2,0.2,0,0,134,82.1,E,0
+P02089,Torquato Eco,2007-02-15,Linate Aeroporto,19,M,35.2,1.9,0,0,126,107.0,B,0
+P03924,Lodovico Chechi,1967-12-04,Stazione Di Campiglia Marittima,58,M,28.2,2.2,0,0,116,108.6,C,1
+P02175,Ida Tosi,1960-05-20,Spezzano Della Sila,66,F,20.1,1.0,0,0,133,93.1,A,0
+P00074,Gloria Giradello,1965-02-19,Fontanella Grazioli,61,F,21.4,7.3,0,0,135,81.4,D,0
+P05925,Biagio Villadicani,2002-05-01,Buccino,24,M,34.3,0.7,0,0,111,95.0,E,0
+P05916,Martino Quasimodo,1987-10-11,Monti D'Arena,38,M,27.3,7.9,0,0,101,86.2,E,0
+P02657,Berenice Treves,1991-07-11,Saltino Sulla Secchia,35,F,29.0,4.2,0,0,132,94.4,B,0
+P03180,Berenice Turci,1994-06-18,Monteleone Di Spoleto,32,F,21.2,0.2,0,0,123,84.9,C,0
+P02076,Bianca Grossi,1979-03-21,Ca' Emo,47,F,30.0,3.9,0,0,137,94.0,B,0
+P00441,Raimondo Spadafora,1989-10-23,Este,36,M,21.6,2.4,1,1,115,87.0,D,0
+P02051,Maria Sagnelli,1989-01-17,Malgrate,37,F,18.5,0.6,0,0,115,78.1,A,0
+P02541,Silvia Udinese,1946-10-14,Pian Di Pieca,79,F,30.2,1.5,0,0,134,115.6,D,1
+P01301,Ubaldo Pizzamano,1982-10-28,Steckholz,43,M,28.7,0.6,0,1,121,90.5,D,0
+P03430,Azeglio Argento,1993-02-23,Isola Di Capo Rizzuto,33,M,18.6,0.5,0,0,120,84.8,C,0
+P01304,Paola Caboto,1970-05-29,Vatolla,56,F,30.3,1.4,1,0,138,100.4,E,0
+P00236,Concetta Armellini,1967-01-23,Rosignano Monferrato,59,F,32.0,5.8,0,1,147,95.0,C,0
+P04995,Liberto Totino,1994-10-23,Tagliata,31,M,30.3,1.7,0,0,132,83.9,D,0
+P02599,Emma Scaduto,1984-07-10,Maclodio,42,F,27.7,7.3,0,0,117,97.6,E,0
+P04616,Donna Merisi,1989-11-08,Francica,36,F,24.3,8.0,0,0,130,95.7,D,0
+P02573,Rosina Sandi,1984-07-08,Bomba,42,F,31.3,3.4,0,0,114,99.2,D,0
+P03280,Luigina Morellato,2003-01-25,Valle San Bartolomeo,23,F,18.0,1.1,1,0,91,91.9,E,0
+P03186,Romolo Goldstein,1959-12-24,Crispiero,66,M,29.1,0.5,0,1,139,106.3,C,1
+P03953,Giovanni Bragadin,1979-06-26,Vezzano,47,M,29.2,2.3,0,1,128,88.3,C,1
+P02768,Alberto Munari,1977-10-30,Fiuminata,48,M,27.9,0.5,0,0,125,102.5,E,0
+P04223,Paola Calvo,1975-04-15,Baunei,51,F,18.2,1.6,1,0,111,106.1,D,0
+P02106,Tiziano Venier,1960-06-13,Secchiano Marecchia,66,M,22.9,3.7,0,0,124,87.6,A,0
+P02679,Nina Pavarotti,1985-03-02,Serravalle Di Carda,41,F,22.7,3.4,0,0,137,85.4,E,0
+P02761,Rossana Combi,1980-12-03,Pezzaze,45,F,31.1,1.5,0,1,124,99.2,D,0
+P04688,Francesca Navarria,2008-05-17,Marischio,18,F,22.2,3.0,0,0,112,76.8,B,0
+P01387,Eliana Righi,1987-12-11,Alberona,38,F,24.5,0.1,1,1,102,82.8,E,0
+P05631,Morena Mazzi,1973-08-17,Molinara,53,F,24.5,3.2,0,1,118,105.9,E,0
+P05426,Eleanora Sauli,1956-05-23,Lovero,70,F,34.1,2.4,1,0,151,106.0,E,1
+P01279,Antonina Morricone,1954-06-15,Farnetta,72,F,31.2,1.0,0,0,155,122.6,A,1
+P05879,Fortunata Stradivari,2008-02-02,Santa Domenica Vittoria,18,F,31.0,7.3,0,0,147,107.5,D,0
+P01555,Marcantonio Pepe,1998-09-17,Scerne Di Pineto,28,M,23.2,1.1,1,0,107,84.5,C,0
+P05422,Lucia Poerio,2004-09-13,Pantano Di Teggiano,22,F,26.1,0.8,0,1,131,86.4,D,0
+P03190,Agostino Alighieri,2008-08-01,Galbiate,18,M,22.3,6.7,1,0,132,76.0,E,0
+P04566,Federigo Majewski,1964-03-01,Sant'Agata Di Esaro,62,M,30.1,4.5,0,0,134,100.1,D,0
+P04802,Nino Abbagnale,1994-11-23,Capo Di Ponte,31,M,24.1,7.8,0,0,116,74.9,B,0
+P05626,Susanna Gaggini,1981-12-27,Comenduno,44,F,32.0,2.8,0,0,125,91.1,B,1
+P03594,Giampaolo Terragni,1992-10-09,Oliveto Lario,33,M,24.9,8.0,0,1,101,80.7,E,0
+P01920,Lando Scarfoglio,1984-07-11,Serravalle Pistoiese,42,M,26.1,5.0,1,0,129,107.2,E,0
+P00513,Giorgio Saracino,1957-09-25,Castel Baronia,69,M,27.7,1.1,1,1,132,107.0,D,0
+P04177,Patrizia Catalano,1963-07-18,Sant'Anna Avagnina,63,F,27.5,5.4,0,0,141,94.7,B,0
+P01308,Aurora Zacchia,1982-09-01,Borgo Tufico,44,F,26.3,1.3,0,0,121,87.8,E,0
+P00914,Domenico Rinaldi,1971-05-23,Calvello,55,M,23.1,3.3,1,0,125,76.5,D,0
+P03452,Liana Fallaci,1979-11-23,Ceretta Di San Maurizio Canavese,46,F,30.7,0.9,0,0,127,106.7,D,0
+P03695,Mercedes Tedesco,1968-05-17,Calozzo,58,F,26.3,2.2,0,0,137,77.2,A,0
+P04242,Ramona Tonisto,1957-02-18,Dolegna Del Collio,69,F,28.5,1.8,0,0,145,101.3,C,0
+P03156,Donna Gussoni,1959-12-25,Cereglio,66,F,23.9,1.1,0,0,153,109.1,D,0
+P02198,Ramona Beccheria,1972-11-20,Gattolino,53,F,25.0,0.2,0,0,129,118.0,C,1
+P00774,Nicoletta Proietti,1955-08-27,Pragelato,71,F,25.4,3.6,0,0,144,109.1,C,1
+P04425,Victoria Paltrinieri,1954-06-30,Brucianesi,72,F,29.5,0.6,1,0,128,108.0,D,1
+P00943,Massimiliano Colletti,1979-05-10,Sant'Anatolia,47,M,24.7,1.0,0,1,116,88.3,B,0
+P00822,Anita Pederiva,1999-10-06,Mezzanone,26,F,25.7,2.0,1,1,119,86.3,C,0
+P04277,Gianfrancesco Giannuzzi,1960-10-01,Sterzing,66,M,28.2,0.1,0,1,141,94.4,A,1
+P00164,Giustino Togliatti,1981-12-07,Penia,44,M,27.4,0.2,0,0,131,101.6,C,0
+P04547,Maria Dandolo,1955-08-07,Caprona,71,F,28.5,1.2,1,0,144,87.8,E,1
+P03983,Sandra Vasari,1966-01-28,Quarata,60,F,30.7,2.8,0,1,127,111.4,A,1
+P02538,Federigo Saracino,1975-03-07,Pofi,51,M,24.6,0.8,0,0,125,99.6,C,1
+P05724,Roberto Trombetta,1995-03-22,Casabona,31,M,18.3,2.3,0,1,105,74.9,D,0
+P01311,Fabrizio Cignaroli,1986-12-12,Serre,39,M,24.6,0.6,0,0,107,94.2,E,0
+P05838,Amico Ruggieri,1991-05-07,Collesano,35,M,24.0,0.6,0,0,121,80.1,E,0
+P04997,Sergius Bettoni,1957-06-26,Jolanda Di Savoia,69,M,28.8,5.3,1,0,163,93.3,A,0
+P05568,Annalisa Tafuri,1989-04-22,Isolella,37,F,17.8,1.1,0,0,127,79.4,C,0
+P03300,Dino Foa,1967-12-12,Savognatica,58,M,33.2,1.2,0,0,125,127.8,A,1
+P03310,Carolina Turati,1976-09-07,Arcugnano,50,F,28.0,13.3,1,0,110,93.3,D,0
+P00327,Ida Govoni,2006-04-17,Madregolo,20,F,25.8,0.2,1,0,109,73.9,B,0
+P02490,Roberto Monteverdi,1987-08-12,Moraro,39,M,31.2,1.7,0,0,98,103.2,A,0
+P05620,Victoria Bramante,2007-07-24,Quassolo,19,F,28.9,0.8,1,1,118,102.3,C,0
+P04408,Vito Papetti,1992-01-19,Militello In Val Di Catania,34,M,24.5,0.3,0,0,116,100.2,A,0
+P00832,Durante Bocca,1980-04-23,Glorie,46,M,24.5,5.9,0,0,135,90.4,B,1
+P03079,Lamberto Pellico,1979-11-01,Villa Castelli,46,M,26.6,4.8,0,0,130,100.5,B,0
+P03462,Lucio Crespi,1954-09-19,Bergeggi,72,M,37.9,3.3,0,1,148,108.0,E,1
+P05253,Aria Gotti,1972-11-18,Limone Sul Garda,53,F,28.3,8.1,0,0,113,100.6,B,0
+P00054,Sandra Curatoli,1977-09-18,Reno Finalese,49,F,27.3,3.9,0,0,119,83.3,E,0
+P04064,Pierluigi Onio,1960-10-15,Longobardi Marina,65,M,25.2,1.0,1,0,115,107.1,D,1
+P03451,Ranieri Gullotta,2005-09-24,Borgo Sassoferrato,21,M,25.8,5.4,1,0,126,89.8,B,0
+P01901,Alfredo Tamburini,1975-06-25,Recanati,51,M,29.4,2.7,0,0,123,108.0,D,0
+P01481,Martino Verri,2008-02-14,Pramaggiore Blessaglia,18,M,27.3,4.5,0,0,108,95.8,D,0
+P04150,Licia Marini,1988-09-20,Ginostra,38,F,29.0,1.3,0,0,128,93.8,D,0
+P03335,Piergiuseppe Filippini,1994-02-13,Calvello,32,M,35.2,3.1,1,1,132,92.2,E,0
+P00946,Pasqual Ceschi,1947-02-02,Possidente,79,M,30.9,0.1,0,0,141,100.1,B,0
+P03293,Serafina Paoletti,1990-09-03,Viotto,36,F,28.0,5.1,0,0,100,78.7,C,0
+P02161,Lando Galeati,1993-04-24,Rosignano Solvay,33,M,24.5,1.8,1,0,121,104.3,D,1
+P05076,Hugo Callegaro,1987-11-30,Banzano,38,M,29.5,4.8,1,0,119,93.6,C,0
+P03057,Gino Gori,1999-09-21,Cassibile,27,M,21.5,0.3,0,0,113,65.0,B,0
+P00768,Nina Giovine,2000-05-05,Itala,26,F,28.7,4.9,1,0,146,83.5,D,0
+P05640,Ludovica Dallara,1961-09-16,San Martino Sinistra,65,F,26.5,0.2,1,0,149,93.5,E,0
+P03495,Giovanna Dallapé,1974-11-28,Camporotondo Di Fiastrone,51,F,20.8,4.4,0,1,115,97.3,C,0
+P00285,Allegra Pertile,1948-10-02,Balzola,77,F,23.6,9.8,1,0,143,101.2,D,0
+P05926,Sante Cesaroni,1962-07-07,Ortisei,64,M,29.6,1.4,0,0,131,97.2,B,1
+P04524,Riccardo Boccherini,1958-09-20,Orbignano,68,M,18.8,5.7,0,0,119,88.9,A,0
+P05332,Antonia Littizzetto,1984-03-20,Briona,42,F,24.8,4.9,0,0,103,86.0,E,0
+P02332,Cristina Caffarelli,1991-11-22,Oriola,34,F,32.5,5.7,0,0,121,98.1,A,0
+P02717,Pasqual Gaiatto,1965-06-21,Campolongo Sul Brenta,61,M,35.4,4.3,0,0,115,122.7,B,0
+P02079,Evangelista Saragat,2001-01-02,Beverare,25,F,29.6,1.3,0,0,133,73.1,D,0
+P03389,Giacinto Bottigliero,1966-09-20,Pezzana,60,M,24.2,0.0,0,0,140,76.3,C,0
+P00722,Francesco Migliaccio,1954-11-08,Montecreto,71,M,26.3,13.1,0,1,134,96.1,D,0
+P00951,Roberto Granatelli,1989-06-21,Majano,37,M,21.6,0.9,0,0,117,94.5,C,0
+P05583,Antonia Segni,2004-04-13,Gessate,22,F,31.4,8.5,0,0,103,86.5,C,0
+P02262,Sophia Condoleo,2006-05-06,Cameri,20,F,33.8,3.0,0,0,118,102.5,E,0
+P00989,Ugolino Saracino,1958-12-12,Sottomarina,67,M,36.4,4.8,0,0,153,98.6,D,1
+P03212,Annunziata Pasolini,1987-04-13,Arielli,39,F,24.1,1.5,0,1,110,97.9,C,0
+P01759,Massimo Donati,1972-10-01,Romanoro,54,M,25.7,2.0,0,1,112,106.6,C,0
+P04919,Niccolò Zarlino,1975-03-28,Val Brembilla,51,M,29.5,1.7,0,1,114,105.8,B,0
+P04422,Licia Tarantino,1960-02-02,Barra,66,F,33.5,7.1,0,0,139,99.3,D,0
+P01724,Giuseppina Mimun,1975-03-16,Cozzuolo,51,F,30.6,3.1,1,1,147,91.8,D,1
+P00341,Filippa Simeoni,1990-02-07,Valvestino,36,F,26.0,4.9,0,0,113,71.3,C,0
+P03701,Giustino Bellocchio,1993-11-08,Gorgofreddo,32,M,27.0,1.3,0,1,111,96.8,B,0
+P04243,Ignazio Beccheria,2005-10-31,Resina,20,M,17.5,1.1,0,0,113,71.4,B,0
+P00688,Rosina Sbarbaro,1980-06-24,Beura Cardezza,46,F,27.0,3.8,0,0,137,100.7,D,0
+P03432,Sole Morabito,1995-01-08,Murazzo,31,F,21.4,13.2,0,1,139,79.5,A,0
+P00966,Giorgia Taliani,1971-09-16,San Paolo Cervo,55,F,25.0,2.5,0,0,109,104.4,B,1
+P05666,Corrado Benigni,1995-12-24,Morrano Nuovo,30,M,24.6,0.2,0,1,117,95.4,D,0
+P02203,Rosa Broggini,1986-10-13,Belmonte Calabro Marina,39,F,23.8,1.4,0,0,109,75.2,E,0
+P02713,Claudia Iannuzzi,1975-12-04,Cervo,50,F,29.1,0.7,1,0,143,94.6,C,0
+P04757,Dario Turchetta,2000-04-06,Quartu Sant'Elena,26,M,28.5,0.1,0,0,109,106.2,A,0
+P05732,Dario Rismondo,1955-09-28,Moso In Passiria,71,M,32.0,8.1,0,0,117,121.5,C,0
+P05942,Raimondo Casagrande,1996-04-06,Campo Di Fano,30,M,28.2,6.1,0,1,126,91.3,D,0
+P03572,Ansaldo Ferretti,1965-08-15,Zinasco Nuovo,61,M,30.5,4.3,0,1,149,112.5,B,1
+P04805,Franco Pedrazzini,1961-02-16,Bellante,65,M,24.7,1.0,0,0,127,98.9,C,0
+P01990,Gaspare Odescalchi,1975-02-20,Mugarone,51,M,37.6,0.8,0,0,150,117.4,C,1
+P04120,Bianca Mondadori,1963-06-20,Viganella,63,F,22.2,2.2,0,0,130,95.1,D,0
+P04759,Liana Salvo,1964-12-21,Camino Al Tagliamento,61,F,26.4,2.8,1,0,138,93.2,C,0
+P04914,Bruno Grossi,1959-12-24,Sassano,66,M,24.5,3.3,0,0,132,101.8,E,0
+P05553,Licia Columbo,1967-10-30,Redagno,58,F,32.0,8.7,0,1,143,107.8,E,0
+P05793,Coriolano Montecchi,1947-09-08,Periasc,79,M,28.3,1.6,0,0,133,106.3,B,0
+P03600,Eva Toso,1980-01-28,Moniego Di Noale,46,F,27.6,2.1,0,0,143,90.7,D,1
+P05472,Sandra Guinizzelli,1958-04-21,Casto,68,F,25.9,3.2,0,0,124,96.7,C,0
+P05971,Arnulfo Naccari,1993-02-02,Rocca San Zenone,33,M,26.5,1.7,1,0,128,89.5,E,1
+P04938,Renata Stein,1990-06-08,Castelnuovo Di Conza,36,F,27.1,0.9,0,1,121,76.0,E,0
+P00385,Gloria Bignami,2001-04-21,Benestare,25,F,24.5,2.8,0,0,115,78.9,D,0
+P05228,Vittorio Surian,2002-12-12,Compiano D'Enza,23,M,24.9,0.1,0,0,123,85.9,B,0
+P05474,Ida Fischetti,2005-01-29,Amato,21,F,22.1,1.5,1,0,133,84.1,E,0
+P00536,Santino Malacarne,1980-02-02,Ceresara,46,M,21.9,2.7,0,0,131,82.6,D,0
+P05621,Lara Zaccagnini,2006-05-25,Squinzano,20,F,23.0,0.5,0,1,107,66.5,A,0
+P04212,Annamaria Finzi,1982-02-28,Burana,44,F,21.4,4.4,0,0,104,82.8,E,0
+P03507,Flavio Paruta,1956-10-18,Morolo,69,M,33.4,0.0,0,0,132,104.7,D,1
+P00201,Lolita Valguarnera,1951-05-27,Mogorella,75,F,29.5,1.0,0,1,154,93.3,B,0
+P01332,Lamberto Stradivari,1982-08-03,Prasco,44,M,23.5,1.3,0,0,111,82.8,B,0
+P03502,Camillo Alboni,1989-08-16,Vinovo,37,M,16.7,2.2,1,0,114,65.0,A,0
+P02708,Alessio Leopardi,1962-05-27,Santa Maria Di Zevio,64,M,21.7,4.1,0,0,131,87.2,E,0
+P04662,Ranieri Raimondi,1999-04-20,Dagnente,27,M,29.3,1.7,0,0,115,89.0,C,0
+P04021,Ernesto Fogazzaro,2005-11-27,Morrano Vecchio,20,M,25.9,4.2,0,0,123,81.0,A,0
+P01854,Loredana Chittolini,2002-09-12,St. Pankraz,24,F,33.5,1.2,0,0,121,108.9,B,0
+P05358,Maurilio Schiaparelli,2004-06-20,Nemoli,22,M,25.4,5.4,0,0,129,84.6,E,0
+P02872,Beatrice Tasca,1957-01-13,Cattolica,69,F,25.7,2.4,0,1,137,100.8,B,1
+P03030,Ferdinando Sabatini,1962-05-13,Maslianico,64,M,20.8,3.3,0,1,128,97.0,C,0
+P01205,Bettina Seddio,1951-11-09,Castello Del Matese,74,F,16.2,1.4,1,0,117,93.8,C,0
+P01645,Ilaria Comolli,1990-01-02,Comignago,36,F,23.0,0.5,0,1,144,94.2,E,0
+P03417,Biagio Pepe,1953-01-23,Montaldo Di Mondovi',73,M,26.1,0.1,0,1,138,109.4,B,1
+P03476,Marcantonio Bersani,1974-04-29,Cappella Cangiani,52,M,25.0,3.5,0,0,133,93.7,D,0
+P02861,Paolo Barracco,1950-08-06,Pozzonovo,76,M,25.4,12.6,0,0,129,83.1,C,0
+P01792,Gelsomina Rosselli,1986-10-25,Zisa,39,F,30.2,2.7,0,1,124,93.9,C,0
+P03797,Tonia Babato,2004-02-15,Lauco,22,F,33.2,0.2,0,0,106,84.8,D,0
+P03368,Nicoletta Pertini,1982-03-08,San Fili,44,F,29.2,0.5,0,1,133,94.5,E,0
+P03367,Amanda Ravaglioli,1990-04-05,Ca' Di Sola,36,F,24.9,2.5,0,1,144,97.0,D,0
+P03533,Germana Onisto,1946-07-23,Sestino,80,F,27.7,1.3,0,1,130,119.7,B,1
+P05259,Ruggiero Polesel,1993-08-16,Mezzolombardo,33,M,29.2,0.9,0,0,131,93.6,A,0
+P03449,Daniele Basadonna,1977-04-05,Barisano,49,M,23.0,1.3,0,0,126,87.7,E,0
+P00603,Benito Bottigliero,2000-07-01,Grassobbio,26,M,20.8,1.5,0,0,111,77.9,E,0
+P03056,Rita Ponti,1958-03-25,Redipiano,68,F,25.9,3.3,0,1,138,96.5,B,0
+P05212,Adamo Condoleo,1978-11-14,Canaglia,47,M,28.5,3.6,0,0,134,96.5,E,0
+P00126,Sergius Costanzi,2003-12-31,Spera,22,M,27.9,5.1,0,0,135,71.4,C,0
+P03876,Stefani Rossellini,1964-12-26,San Fili,61,F,24.5,0.8,0,0,151,89.8,C,0
+P02935,Viridiana Luna,1994-05-14,Treggiaia,32,F,32.8,1.7,0,0,123,117.5,C,0
+P04451,Micheletto Bragaglia,1993-09-12,Avoscan,33,M,32.6,1.5,0,1,133,99.5,D,0
+P03531,Durante Novaro,2004-03-18,Castel Gabbiano,22,M,31.8,11.9,0,0,117,95.9,A,1
+P02730,Annamaria Marini,1948-08-27,Sennariolo,78,F,27.4,3.1,0,0,122,105.5,A,0
+P00827,Mariano Chiesa,1952-04-27,Gualdo Di Massarosa,74,M,36.1,2.5,0,1,136,116.8,A,1
+P01639,Laura Foletti,1991-06-02,Claviere,35,F,16.1,0.3,0,0,138,87.9,D,0
+P00984,Emma Tomei,1972-09-21,Grognardo,54,F,25.5,8.8,0,0,127,98.6,C,0
+P03281,Pasquale Mocenigo,1961-01-26,Castellaro Nel Frignano,65,M,28.8,4.2,1,1,141,106.0,C,0
+P05962,Geronimo Taliani,1956-06-20,Tramatza,70,M,25.6,0.9,1,0,138,110.1,B,1
+P02188,Arnulfo Emanuelli,1979-07-18,Trafoi,47,M,28.9,1.1,0,1,117,98.8,A,0
+P05523,Maura Filippelli,1951-01-20,Marling,75,F,22.3,1.0,0,0,139,93.4,B,1
+P02443,Ansaldo Sonnino,1995-05-03,Castelnuovo Rangone,31,M,29.6,5.0,0,1,140,95.3,D,1
+P00362,Giuliana Gentili,1994-04-01,Borgo Zurini,32,F,27.1,1.3,1,0,140,85.9,A,0
+P02349,Giorgia Venturi,1976-10-18,Calvisano,49,F,26.2,3.8,0,0,114,88.0,E,0
+P00345,Fabia Pirandello,1992-02-20,Acquasanta Terme,34,F,23.1,5.6,0,1,103,97.2,E,0
+P00814,Mauro Giunti,1959-08-01,San Giacomo Di Teglio,67,M,26.3,1.7,0,1,128,102.3,A,1
+P04807,Mirco Ceci,1952-09-27,Trinita',74,M,32.5,14.6,0,0,170,89.7,D,0
+P03205,Fortunata Majorana,1966-09-08,San Bernardo D'Ivrea,60,F,34.6,0.2,0,1,145,116.8,C,1
+P05414,Giampiero Natta,1989-04-04,Santa Margherita Di Atri,37,M,35.5,3.2,0,0,113,96.9,C,0
+P05749,Giorgio Cicala,2000-10-29,Cengles,25,M,25.5,3.4,0,0,127,72.9,A,0
+P03325,Federigo Cuda,1959-05-29,Brindisi,67,M,23.9,1.4,0,1,133,91.2,C,1
+P04106,Licia Guidotti,2001-11-18,Valmadrera,24,F,25.3,3.7,0,1,113,91.2,A,0
+P02116,Galasso Interiano,1947-12-23,Moncucco,78,M,30.8,1.0,0,0,121,94.8,E,0
+P01834,Rosina Pigafetta,1983-06-11,Milanino,43,F,24.0,4.1,0,0,130,83.0,A,0
+P00793,Cirillo Monti,1956-08-21,Nogarole Rocca,70,M,33.9,1.5,0,0,137,112.2,C,1
+P05935,Vittorio Parini,1991-02-10,Loiri Porto San Paolo,35,M,26.9,0.1,0,1,103,76.9,C,0
+P02674,Nicoletta Barzini,1949-12-18,San Vito Taranto,76,F,28.6,1.0,0,0,140,132.4,A,0
+P00094,Baldassare Bajardi,1952-02-10,San Mauro Di Saline,74,M,22.4,1.7,0,0,128,97.4,E,0
+P04225,Sonia Cavanna,1997-09-10,Gradisca D'Isonzo,29,F,26.6,0.6,1,0,140,82.8,A,0
+P03756,Carlo Giolitti,1968-08-10,Grosotto,58,M,20.1,15.0,0,0,130,79.1,A,0
+P02891,Ettore Collodi,1972-12-19,San Floriano Del Collio,53,M,23.5,3.7,0,1,132,88.9,B,0
+P02371,Federica Sabbatini,1957-02-22,San Giacomo Di Boves,69,F,27.4,0.5,0,0,155,104.4,D,0
+P04965,Gino Cabrini,2002-02-18,Ponte Selva,24,M,22.8,6.1,0,0,107,83.9,C,0
+P05667,Sole Grasso,1956-02-26,San Brizio,70,F,27.5,0.4,0,1,136,93.6,A,0
+P03228,Mercedes Condoleo,1962-07-30,Santa Caterina Valfurva,64,F,21.0,0.4,0,1,129,98.3,C,1
+P05342,Loretta Cerutti,1972-12-18,Roccamontepiano,53,F,27.3,3.1,0,0,99,97.0,B,0
+P02853,Pellegrino Bassi,2003-07-24,Malborghetto Valbruna,23,M,33.2,0.2,0,0,123,97.3,D,0
+P02912,Annetta Navone,1978-11-19,Laterina Stazione,47,F,18.6,1.6,0,1,117,76.6,A,0
+P01865,Licia Stefanelli,1983-07-09,Maddalena,43,F,34.4,0.7,1,0,110,107.0,B,1
+P04612,Giorgio Cadorna,1959-07-28,Casarsa Della Delizia,67,M,24.7,0.2,0,0,138,84.5,E,0
+P01857,Galasso Bevilacqua,1972-02-02,Ribera,54,M,20.0,3.5,1,0,130,95.4,B,0
+P02645,Letizia Sansoni,2008-04-14,Lovere,18,F,19.7,0.1,0,0,121,69.3,D,0
+P02243,Victoria Roero,2000-10-18,Azeglio,25,F,18.4,6.4,0,0,125,79.3,B,0
+P02336,Danilo Caboto,1979-10-25,Buccheri,46,M,21.8,2.1,1,1,113,92.1,E,0
+P00950,Cassandra Interminei,2003-05-18,Introbio,23,F,27.2,2.2,0,0,90,68.1,E,0
+P03068,Ilaria Vittadello,1998-11-14,Riva Valdobbia,27,F,31.4,3.3,0,0,106,105.9,A,0
+P01120,Morena Prada,2007-11-08,Mandatoriccio,18,F,24.8,8.5,0,1,109,87.8,B,0
+P02597,Lilla Ruberto,1963-05-06,Ascensione,63,F,28.9,3.5,0,0,124,108.6,A,0
+P02204,Ignazio Romiti,1980-06-26,Rionero In Vulture,46,M,29.1,2.8,0,0,139,102.4,B,1
+P00419,Gustavo Fabrizi,1976-11-30,Chizzola,49,M,39.9,1.7,0,0,131,103.9,C,1
+P00922,Giorgio Ferretti,1980-06-07,Albisola Capo,46,M,25.2,5.4,0,0,123,82.4,B,0
+P01254,Nino Paolucci,1968-02-10,Centa San Nicolo',58,M,28.0,0.6,1,0,115,95.3,E,0
+P00477,Ranieri Calgari,2007-08-08,Barasso,19,M,27.2,0.8,0,0,121,84.1,A,0
+P02035,Cesare Rinaldi,1955-07-17,Gassano,71,M,31.0,2.8,0,0,128,113.2,D,0
+P01202,Livio Gussoni,1946-06-27,San Benedetto In Alpe,80,M,34.9,3.1,0,0,149,139.1,A,1
+P02626,Melania Giannini,1947-07-23,San Mauro Di Saline,79,F,23.7,3.2,0,1,146,83.5,D,1
+P05773,Edoardo Troisi,2007-02-11,Paternopoli,19,M,31.2,0.8,0,0,131,96.6,C,0
+P01970,Nicola Guarana,1956-07-21,Cavernago,70,M,28.4,1.7,0,0,136,105.4,D,0
+P03110,Rodolfo Tommaseo,1975-08-31,Adrano,51,M,26.6,0.0,1,0,115,86.4,D,0
+P04018,Cecilia Magnani,1997-01-12,Fossa,29,F,37.3,0.8,0,0,127,90.9,E,0
+P02151,Micheletto Bonomo,1987-12-18,Cappelle Dei Marsi,38,M,20.9,4.8,1,0,123,86.3,B,0
+P03687,Uberto Pulci,1948-10-16,Grangia,77,M,24.7,2.9,0,0,146,96.0,C,0
+P04916,Emilio Valentino,2002-07-14,Nonantola,24,M,29.5,1.6,0,0,129,86.8,C,0
+P01997,Camillo Cappelli,1946-09-05,Roccasecca Dei Volsci,80,M,32.1,6.9,0,1,138,129.8,D,1
+P04033,Donna Tencalla,1991-04-20,Laganadi,35,F,36.8,2.4,1,0,130,116.3,B,0
+P05883,Nicoletta Ferrabosco,1994-07-13,Ischia Di Castro,32,F,28.5,3.6,0,0,105,95.3,A,0
+P03054,Giuseppina Tuzzolino,1959-07-23,Chesallet,67,F,29.9,1.8,0,0,133,90.6,C,1
+P01248,Pellegrino Sauro,1988-06-03,Cataratti,38,M,22.1,5.8,0,0,105,99.0,B,0
+P02192,Osvaldo Salvemini,1990-07-23,Magliano Di Tenna,36,M,25.4,3.5,0,0,109,79.5,D,0
+P02712,Laura Crespi,1949-03-18,Misano Adriatico,77,F,17.7,3.7,1,0,143,105.0,C,0
+P00992,Lucio Cutuli,1995-11-13,Rivalta Di Torino,30,M,24.9,0.1,1,0,122,99.6,A,1
+P02190,Benedetto Gentilini,1986-03-11,Pian Di Mugnone,40,M,28.1,2.8,0,0,117,100.5,B,1
+P04670,Nino Scarfoglio,2002-02-13,Tecchiena,24,M,35.6,2.0,0,0,147,84.2,B,0
+P03762,Eva Leoncavallo,1971-10-18,Donzella,54,F,26.5,3.1,0,0,121,92.4,D,0
+P03597,Margherita Canevascini,1974-03-26,Bellano,52,F,35.2,12.4,0,0,117,111.8,A,0
+P04711,Bianca Murialdo,1958-08-04,Calbola,68,F,27.7,9.7,0,1,123,103.2,A,0
+P01318,Antonina Onisto,1980-06-22,Chiomonte,46,F,26.0,0.7,0,0,106,86.4,B,0
+P01863,Livia Catalano,1985-09-03,Pietraroja,41,F,35.1,4.9,0,0,148,84.8,B,0
+P02343,Federica Sonnino,1962-03-17,Santo Stefano Ticino,64,F,25.2,4.4,0,1,132,86.2,B,0
+P02449,Dionigi Bernini,1998-05-26,Brindisi Montagna,28,M,27.6,3.9,0,0,120,97.8,A,0
+P02136,Viridiana Ferrante,1974-05-15,Maratea,52,F,29.1,0.0,0,0,111,95.3,E,0
+P01065,Lazzaro Zoppetto,1984-08-11,Porto Fuori,42,M,25.9,1.5,0,0,128,79.4,A,0
+P05950,Anita Anguillara,1982-12-05,Beccacivetta,43,F,28.6,1.8,0,1,127,104.8,C,1
+P04227,Loretta Sabatini,1970-09-08,Stella Di Monsampolo,56,F,22.4,3.1,0,1,123,89.1,A,0
+P02621,Tina Morgagni,1984-05-02,Talsano,42,F,32.7,3.8,1,0,130,103.5,B,0
+P00077,Sebastiano Bompiani,1994-09-23,Breda Cisoni,32,M,30.1,2.3,0,0,126,103.3,E,1
+P02898,Rossana Grisoni,1957-12-16,Amandola,68,F,34.1,15.0,0,0,139,121.9,A,0
+P04820,Serafina Gadda,1974-12-31,Selci,51,F,27.0,3.2,0,1,144,93.6,C,1
+P01314,Concetta Bocca,1952-08-31,Terrazze,74,F,29.2,5.7,1,0,128,106.1,D,0
+P05231,Bruno Quasimodo,1977-06-08,Occhiobello,49,M,19.1,0.0,1,0,128,84.8,E,0
+P00872,Amanda Cortese,2001-08-13,San Marco La Catola,25,F,30.0,3.7,0,0,128,88.5,D,0
+P03850,Cesare Volta,1962-07-12,Castelnuovo Dell'Abate,64,M,20.8,1.3,0,0,137,90.7,E,0
+P05842,Adriana Cugia,1973-12-12,Bene Vagienna,52,F,29.6,5.0,0,0,130,113.5,A,0
+P02965,Ninetta Monti,1970-10-17,Sant'Angelo Lodigiano,55,F,30.5,3.0,0,0,111,91.5,E,0
+P03391,Morena Ortolani,1976-03-09,Sasso Morelli,50,F,30.4,0.6,0,0,109,90.7,E,0
+P02560,Marcella Peruzzi,1972-09-13,Consandolo,54,F,28.2,4.0,0,0,119,87.2,D,0
+P05876,Lidia Chiaramonte,1951-06-12,Le Casine,75,F,35.6,4.8,0,0,141,114.0,B,0
+P02635,Olga Stoppani,2007-03-17,Talmassons,19,F,37.0,7.2,0,0,106,96.5,A,0
+P03530,Griselda Scalera,1985-09-03,Marina Di Camerota,41,F,19.3,5.2,0,0,116,83.3,E,0
+P00375,Carla Bocelli,2003-07-10,San Sostene,23,F,20.4,0.4,0,0,119,83.1,D,0
+P01908,Salvi Offredi,2006-04-30,Piobbico,20,M,33.1,3.1,0,0,136,95.2,C,0
+P04429,Pasquale Barcella,1950-02-09,Fondachello Di Raccuja,76,M,31.1,1.4,0,0,161,105.1,D,1
+P05182,Matilda Costalonga,1968-01-13,Ceto,58,F,24.3,0.1,1,1,113,102.2,A,1
+P05240,Claudia Majorana,1986-09-30,Serrara,40,F,23.9,1.4,0,0,132,80.4,E,0
+P04027,Bettina Praga,1980-11-19,Romagnano,45,F,23.3,3.7,0,0,121,68.4,E,0
+P01604,Ronaldo Pacetti,2001-01-09,Granerolo,25,M,25.0,5.7,0,1,122,76.4,A,0
+P01118,Riccardo Bertoli,1963-01-31,Altarello,63,M,35.0,1.5,1,1,139,106.4,D,1
+P03677,Piergiorgio Nicolucci,1960-09-21,Acquaficara,66,M,29.0,1.8,0,0,134,95.3,A,0
+P03490,Matteo Nicolucci,2002-03-28,Monte Oliveto,24,M,25.1,1.4,0,0,99,80.0,E,0
+P05835,Marina Casellati,1955-09-25,Caprigliola,71,F,27.0,1.6,0,0,115,99.1,B,0
+P02958,Alphons Duodo,1975-11-23,Camoneone,50,M,30.7,2.6,1,0,116,108.9,E,1
+P01994,Tiziana Solimena,1961-08-17,Verres,65,F,27.9,6.6,1,1,125,79.5,A,0
+P05945,Marcella Bevilacqua,2000-01-10,Mombello Monferrato,26,F,19.4,4.4,0,0,110,79.7,E,0
+P05206,Enzio Manzoni,1963-11-08,Casenove,62,M,37.5,0.3,0,0,142,124.3,C,1
+P02376,Arnaldo Curiel,1955-09-18,Menniti,71,M,29.1,2.9,0,0,129,104.6,C,0
+P01342,Tonia Bompiani,2001-09-10,Avena,25,F,24.4,1.2,1,0,104,98.1,B,0
+P00320,Bianca Rismondo,1988-01-02,Orgosolo,38,F,17.3,6.0,1,1,95,73.2,E,0
+P01619,Fernanda Travia,1945-12-19,Gioiosa Ionica,80,F,26.4,2.6,1,1,140,97.6,A,0
+P03713,Pierluigi Pignatti,1994-01-01,Pontecagnano,32,M,30.4,6.8,1,0,128,67.6,E,0
+P02060,Leopoldo Tomasini,1952-05-06,Maenza,74,M,22.9,6.8,0,0,140,107.9,C,1
+P02219,Eva Pontecorvo,1996-09-21,Cerreto Castello,30,F,22.1,0.2,0,0,113,94.5,C,0
+P01673,Giada Littizzetto,1961-04-20,Botrugno,65,F,29.3,0.7,0,1,127,128.4,C,1
+P00260,Beppe Lucciano,1959-05-19,Lusiana,67,M,31.7,6.0,0,0,114,125.5,D,0
+P05291,Lodovico Farina,1953-06-15,Quarata,73,M,29.0,10.1,0,0,146,108.1,A,0
+P02039,Paoletta Berrè,1979-10-16,Tresnuraghes,46,F,31.2,3.7,0,0,136,104.1,B,1
+P04785,Lilla Liverotti,1986-04-06,Miracoli,40,F,23.9,4.0,0,0,111,99.5,C,0
+P00901,Paola Pacillo,2006-05-26,Codemondo,20,F,33.9,4.1,0,1,127,80.8,D,0
+P03744,Eleanora Basso,1993-10-01,San Valentino Torio,33,F,32.6,0.8,1,0,117,97.6,A,0
+P02026,Tina Ceschi,1970-03-06,Trambileno,56,F,20.1,1.5,0,1,108,76.1,C,0
+P04234,Adelasia Scarpa,1992-06-21,Quarrata,34,F,32.3,0.4,0,0,114,108.4,E,0
+P01917,Gianfranco Martinelli,1978-09-06,Montefoscoli,48,M,28.7,2.8,1,0,108,96.0,C,1
+P01828,Ninetta Muratori,1970-07-30,Cimnago,56,F,28.2,1.6,0,1,116,95.8,B,1
+P01573,Nedda Boccaccio,1956-10-23,Pens,69,F,16.1,6.7,0,1,119,65.0,A,0
+P04415,Annamaria Littizzetto,1981-06-10,Ronca',45,F,23.3,2.1,0,0,108,94.4,E,0
+P04749,Teresa Mozart,1985-10-29,Vinca,40,F,18.3,9.6,1,0,108,98.6,E,0
+P05260,Martino Ruggeri,1946-08-26,Onno,80,M,25.5,0.9,0,0,136,123.9,E,1
+P04654,Gioele Rapisardi,2001-03-02,Ripalta Guerina,25,M,27.3,7.8,0,0,124,85.9,B,1
+P04208,Bettina Micca,1994-08-07,Seppio,32,F,30.7,8.5,1,1,131,108.4,D,0
+P04627,Licia Tarantino,1997-08-07,Terralba,29,F,24.9,3.2,0,0,120,96.7,A,0
+P00224,Pellegrino Vespa,1962-10-31,Dumenza,63,M,30.9,1.2,0,0,139,99.0,E,1
+P00723,Salvi Tasso,2000-11-07,Trasanni,25,M,25.2,8.9,1,0,109,97.2,D,0
+P05378,Giacomo Argurio,1978-08-20,Caprino Bergamasco,48,M,25.5,3.3,0,0,114,87.9,D,0
+P01141,Caterina Garobbio,1986-12-24,Terruggia,39,F,26.0,6.3,1,1,122,99.3,B,0
+P02762,Margherita Bazzi,1986-01-06,San Pietro Polesine,40,F,21.5,4.0,0,0,121,89.4,E,0
+P00846,Pasqual Rosselli,1999-09-27,San Pietro Di Barbozza,27,M,31.0,1.9,0,0,114,88.4,B,0
+P04289,Dionigi Guidotti,1989-05-17,Fiumicello,37,M,32.1,2.9,0,1,103,95.8,E,0
+P05042,Sebastiano Bramante,1982-10-28,Pra',43,M,30.5,4.0,0,0,116,98.7,D,0
+P02551,Ivan Scotto,1988-04-13,Brixen,38,M,22.4,1.8,0,0,110,76.9,D,0
+P02928,Cassandra Leoncavallo,1997-05-26,Vallo Della Lucania,29,F,19.2,1.6,1,1,138,77.7,D,0
+P00117,Alberto Cabrini,2000-02-21,Rossana,26,M,20.0,0.5,0,0,114,95.6,B,0
+P00645,Clelia Zichichi,1987-11-26,Villetta Barrea,38,F,27.5,2.2,1,0,115,79.1,E,0
+P00003,Claudia Camicione,1981-07-26,Piagge,45,F,18.8,1.6,1,0,122,76.9,B,0
+P04170,Osvaldo Giannini,1984-10-12,Tavernole Sul Mella,41,M,29.8,0.4,0,0,125,94.7,A,0
+P00467,Ludovico Farnese,1970-11-22,Montaldo Torinese,55,M,28.2,1.0,0,0,119,102.9,B,0
+P00005,Amedeo Baggio,1954-02-22,Pallerone,72,M,33.6,3.5,0,0,144,113.3,A,1
+P00919,Ida Gatto,1968-07-22,Melissano,58,F,26.8,0.7,1,1,113,104.5,E,1
+P02595,Liliana Anastasi,1998-06-30,Torrevecchia Pia,28,F,24.2,1.7,0,0,121,66.4,D,0
+P04324,Raffaella Cattaneo,1947-02-26,Sant'Antonio Tortal,79,F,31.4,7.7,0,1,163,98.6,A,1
+P01063,Flavio Luxardo,1964-03-21,Cinto Caomaggiore,62,M,22.1,3.3,0,0,129,102.8,E,0
+P02590,Ennio Bertolucci,2004-09-17,Porte,22,M,21.9,6.2,0,0,118,81.8,B,0
+P00242,Lolita Gori,2003-02-03,Bisceglie,23,F,28.5,0.5,0,0,122,86.8,C,0
+P05213,Enrico Micca,1970-01-02,Cremolino,56,M,16.0,15.0,1,0,124,75.2,A,0
+P01160,Jacopo Giannuzzi,1972-03-03,Frangart,54,M,24.0,0.2,0,0,137,84.6,E,0
+P02870,Ugo Coardi,1991-07-04,Massascusa,35,M,28.4,3.5,1,1,129,98.5,A,1
+P03735,Fredo Babato,1995-10-22,Cornedo All'Isarco,30,M,24.8,3.8,0,0,122,74.4,B,0
+P02397,Guido Piazzi,1990-06-27,Calvello,36,M,28.4,13.7,1,0,121,78.4,E,0
+P03517,Piermaria Errani,1952-02-20,Ceraso,74,M,28.3,0.6,0,0,140,105.3,B,0
+P03421,Camilla Comolli,1958-12-29,Montegiovi,67,F,18.1,0.2,1,0,113,83.2,A,0
+P02563,Nicolò Galuppi,1983-04-18,Campazzo,43,M,29.7,0.2,1,0,119,97.7,B,1
+P01605,Silvio Ferrata,1951-10-12,Contigliano,74,M,31.2,1.5,0,1,113,109.6,C,1
+P05785,Rosina Vento,1970-01-16,Caselle,56,F,20.9,0.5,0,0,126,109.2,E,1
+P02324,Gelsomina Detti,1960-12-22,Vara,65,F,35.8,0.8,0,0,147,117.2,B,1
+P02709,Paola Tornatore,1953-06-26,Pralormo,73,F,29.3,2.5,0,0,143,95.7,B,0
+P05265,Tiziano Curci,1953-08-16,Botto,73,M,25.8,0.4,0,1,134,97.9,C,1
+P01312,Gemma Manunta,1958-11-17,Barile,67,F,34.7,0.1,0,0,143,109.0,C,1
+P03448,Dina Giolitti,1970-08-06,Palagano,56,F,27.4,3.0,1,0,129,115.6,C,1
+P03812,Ignazio Fieramosca,1966-05-20,Stilfes,60,M,33.3,2.8,0,0,107,93.8,D,0
+P05580,Angelica Ubaldi,1975-02-04,Vallo,51,F,22.1,12.7,0,0,127,84.6,A,0
+P02362,Letizia Leonetti,1948-01-15,Presa,78,F,31.5,1.9,0,1,131,103.9,B,1
+P01975,Renzo Parmitano,2005-02-21,Uras,21,M,33.3,1.1,1,0,105,98.6,B,0
+P03514,Daria Iacovelli,1992-09-21,Joppolo Giancaxio,34,F,23.6,0.6,0,0,92,85.3,C,0
+P01761,Zaira Borromeo,1983-09-20,Calice Al Cornoviglio,43,F,28.6,1.0,0,0,128,89.1,C,0
+P02739,Jacopo Pertini,1987-04-01,Saltara,39,M,31.1,0.1,0,0,106,101.7,C,0
+P05587,Pasqual Bottaro,1946-04-14,Argenta,80,M,24.2,1.1,1,0,146,116.9,A,1
+P02472,Filippo Chechi,1982-09-21,Vedano Olona,44,M,33.4,2.8,0,0,137,110.3,B,1
+P04007,Graziano Priuli,1967-07-21,Filattiera,59,M,21.0,2.4,0,1,132,85.9,A,0
+P04718,Venancio Prati,1983-04-19,Capriolo,43,M,29.9,2.0,0,1,138,88.9,E,0
+P01493,Giorgio Bragaglia,1988-03-13,San Ferdinando Di Puglia,38,M,21.8,3.7,0,0,122,93.9,B,0
+P04206,Victoria Biagi,1951-09-15,Novedrate,75,F,27.8,4.0,0,0,138,98.5,D,0
+P02158,Jolanda Gangemi,1957-07-27,Macerone,69,F,34.5,1.7,0,0,149,95.9,D,1
+P01169,Paoletta Tamborini,1950-10-18,Bagnolo Di Po,75,F,35.4,1.1,0,1,136,114.4,A,0
+P05415,Eugenia Federico,1993-11-06,Gravere,32,F,31.0,5.7,1,0,127,98.0,B,0
+P00232,Ippazio Totino,2007-01-28,Corpo Reno,19,M,29.3,1.3,1,1,111,81.8,B,0
+P00066,Coriolano Mancini,1951-09-08,Vernante,75,M,30.0,0.4,1,0,140,112.4,D,1
+P01603,Leopoldo Golgi,1988-10-21,Palazzuolo,37,M,29.2,0.2,1,1,124,92.3,B,0
+P03283,Edoardo Migliaccio,2002-05-07,Paringianu,24,M,30.0,1.7,0,0,111,82.7,E,0
+P03596,Valentina Fantini,1987-05-26,Cervara,39,F,25.3,13.6,0,0,126,100.2,C,0
+P04632,Imelda Chigi,1991-08-04,Bucita,35,F,29.9,0.4,1,1,106,89.4,B,0
+P00125,Ivan Ramazzotti,1973-05-05,Versano,53,M,24.6,0.3,0,0,112,91.3,A,0
+P01296,Michelotto Jilani,1991-11-23,Bodio,34,M,27.7,1.0,0,0,127,93.7,E,0
+P01976,Delfino Verri,1950-09-20,San Pancrazio,76,M,28.4,3.4,0,0,140,107.5,C,0
+P05416,Tatiana Angiolello,1985-10-29,Lassolaz,40,F,28.7,0.4,1,1,114,115.2,A,1
+P05373,Lucio Zoppetto,1993-01-24,Ummari,33,M,25.5,13.3,0,0,143,84.2,C,0
+P02075,Claudia Pizzo,1983-07-01,Antegnate,43,F,28.7,0.8,0,0,117,86.6,C,0
+P04580,Romana Agostinelli,1995-12-27,Castegnato,30,F,18.4,1.4,0,0,97,65.0,E,0
+P03086,Rosalia Tonisto,1996-11-19,Battuda,29,F,24.9,0.0,0,0,124,79.8,D,0
+P05196,Fabrizio Capone,1948-10-02,Sant'Anna Pelago,77,M,19.7,1.5,0,1,144,94.1,B,1
+P03345,Micheletto Jilani,1960-10-16,Ospedaletto Di Gemona,65,M,32.7,5.7,1,0,110,112.2,C,0
+P05818,Gabriella Rosmini,1983-10-14,Kaltenbrunn,42,F,28.0,9.5,1,0,130,82.8,E,1
+P02797,Gioffre Trussardi,1972-10-12,Montichiari,53,M,30.4,1.2,0,0,114,103.5,D,1
+P00918,Ezio Cutrufo,1991-11-06,Pove Del Grappa,34,M,32.8,4.0,0,0,114,101.9,D,0
+P01646,Beatrice Grassi,1986-11-30,La Lima,39,F,23.3,4.7,0,0,124,81.7,E,0
+P05122,Giuliano Marconi,1970-06-18,Mezzomonte Di Sopra,56,M,22.0,0.8,0,1,139,92.0,E,0
+P05126,Gianfranco Beccheria,1993-09-19,St. Felix,33,M,28.4,6.2,0,0,130,100.6,C,0
+P04978,Flavia Tropea,1950-02-17,Brignano Frascata,76,F,24.7,2.1,0,0,143,104.7,E,1
+P04621,Tiziano Andreozzi,1946-06-29,Coderno,80,M,23.1,0.3,0,0,133,102.6,E,0
+P00364,Giuseppina Angeli,2000-12-15,Cassina De' Pecchi,25,F,26.8,0.9,1,1,119,84.3,E,0
+P03287,Guglielmo Cipolla,1996-06-30,Badia Pavese,30,M,28.2,2.0,0,0,127,98.5,B,0
+P02125,Ottavio Gioberti,1992-08-19,Telve Di Valsugana,34,M,26.7,0.8,0,0,120,88.3,C,1
+P04123,Cirillo Comencini,1992-08-28,Acquaria,34,M,31.6,6.2,0,0,134,87.4,B,0
+P04569,Beppe Amaldi,1996-03-07,Pinzolo,30,M,27.0,1.7,0,0,121,98.8,E,0
+P00525,Giorgio Ciani,1988-11-27,Caulonia Marina,37,M,19.5,0.1,0,0,104,94.1,B,0
+P04821,Simone Maderno,1966-06-23,Casadio,60,M,30.6,1.4,1,1,147,99.9,D,1
+P00055,Teresa Querini,2006-08-26,San Gennaro,20,F,27.7,1.0,0,0,107,85.1,E,0
+P00638,Gianna Gemito,1959-07-13,Ascoli Piceno,67,F,33.3,3.0,0,1,133,101.7,D,0
+P00302,Gino Ceci,2007-10-27,Gnocchetto,18,M,35.1,1.5,1,0,101,106.3,B,0
+P02766,Arnulfo Golino,1985-09-04,Laas,41,M,26.1,6.0,0,0,119,79.4,D,0
+P01276,Temistocle Muti,1967-08-04,Villa San Leonardo,59,M,43.5,2.1,0,0,145,119.7,B,1
+P04720,Puccio Donatoni,1972-07-07,Balvano,54,M,24.2,8.5,0,0,116,96.2,B,0
+P02055,Sophia Antonello,1985-01-26,Olbia,41,F,27.6,4.2,1,0,124,104.8,B,0
+P05145,Virginia Pascarella,1961-04-06,Fornase,65,F,24.7,8.7,0,0,159,101.2,A,0
+P04432,Gianpietro Petrassi,1952-07-15,Porto Corsini,74,M,27.9,7.2,0,0,129,107.8,C,0
+P03644,Beppe Travia,1948-01-12,Brusciano,78,M,25.6,10.0,0,1,163,108.7,E,1
+P04143,Ermenegildo Zaccardo,1980-04-29,San Felice A Ema,46,M,27.3,15.0,0,1,132,65.1,A,0
+P02878,Gaspare Santorio,1953-10-18,Pievescola,72,M,29.2,2.1,0,0,128,98.2,B,1
+P04202,Gloria Pistoletto,1986-10-30,Taquisara,39,F,22.5,3.5,0,0,137,104.8,B,0
+P02286,Guglielmo Iannelli,1950-10-05,San Giovanni Bianco,75,M,29.2,1.2,0,0,122,90.7,A,0
+P02261,Olga Serlupi,1946-09-17,Ceranova,80,F,23.0,0.2,0,0,141,119.1,D,1
+P02296,Michela Cignaroli,1998-05-14,Madonna Della Pace,28,F,27.2,3.2,0,0,110,89.6,D,0
+P01753,Sante Gatto,1984-02-04,Caraverio,42,M,23.6,2.6,0,0,106,91.1,E,0
+P01968,Fabrizio Castioni,1956-05-13,Pallerone,70,M,37.3,6.1,0,1,135,138.1,B,1
+P05202,Enzo Emanuelli,1956-05-24,Pecetto Di Valenza,70,M,22.7,0.4,0,0,139,108.0,C,1
+P03117,Temistocle Jacuzzi,1968-09-12,La Briglia,58,M,24.0,12.1,0,0,130,92.9,D,0
+P02393,Fabrizio Barcaccia,1994-11-08,Gornate Superiore,31,M,27.8,1.5,0,1,107,92.9,A,0
+P00523,Rosa Niggli,1956-10-27,Veglie,69,F,37.4,4.7,0,0,133,130.7,E,1
+P03900,Giorgia Castelli,1976-02-02,Boscomare,50,F,26.0,6.9,0,0,139,100.2,D,0
+P05711,Veronica Montesano,1949-07-30,Sinopoli Inferiore,77,F,39.8,1.1,0,0,145,119.0,A,1
+P04699,Ernesto Anastasi,2007-05-05,Unsere liebe Frau i. W.,19,M,32.0,4.8,0,0,117,85.5,C,0
+P05489,Clelia Ariasso,1985-12-29,Roddino,40,F,36.5,0.8,1,0,114,115.3,A,1
+P03122,Vanessa Pacetti,1979-06-28,Bivona,47,F,28.8,2.1,1,0,118,89.0,E,0
+P04156,Ippazio Gadda,1963-12-12,San Pellegrino,62,M,21.2,3.7,0,1,127,90.1,E,0
+P01969,Mirko Baresi,1999-03-14,Ponte Della Pietra,27,M,37.6,5.4,0,0,136,84.3,D,0
+P00671,Giovanni Luxardo,1970-09-07,Romanengo,56,M,34.9,2.0,1,0,155,95.3,C,1
+P04188,Calcedonio Ubaldi,2006-03-24,San Fantino,20,M,26.5,1.4,0,0,114,93.8,C,0
+P00666,Livio Beccheria,1977-03-18,Sarnico,49,M,33.4,2.9,0,0,129,95.0,A,1
+P05532,Bianca Mazzacurati,1977-05-19,Cerveteri,49,F,28.1,0.6,0,0,133,104.3,A,0
+P01887,Giuseppina Treccani,1982-07-25,Saint Denis,44,F,21.2,1.5,1,0,119,77.9,B,0
+P03266,Marina Valguarnera,1961-11-05,Pogliola,64,F,30.0,1.1,1,0,136,86.0,D,1
+P00280,Raffaello Spanevello,1991-03-25,Roccafiorita,35,M,36.8,7.5,0,1,122,108.1,C,1
+P01719,Elmo Capuana,1975-10-05,Orani,50,M,31.7,6.5,1,0,133,114.0,D,0
+P02947,Giacinto Pozzecco,1977-08-11,Coiromonte,49,M,29.4,1.4,0,0,114,90.5,E,0
+P04455,Gianluigi Caironi,2004-02-08,Torre San Patrizio,22,M,27.4,1.3,0,1,133,95.8,E,0
+P00899,Fiamma Tafuri,1969-12-03,Boschetto,56,F,25.1,2.9,0,0,124,97.0,C,0
+P05814,Arsenio Castelli,1971-09-22,Siderno Superiore,55,M,27.2,1.6,0,0,114,94.4,C,0
+P00760,Donatello Paolini,1996-12-23,Lesina,29,M,34.1,0.4,1,1,114,101.8,D,0
+P01906,Isa Garibaldi,1990-05-17,Bobbio Pellice,36,F,28.2,2.5,1,0,117,70.8,C,0
+P04042,Enzo Totino,1961-06-28,Limite Sull'Arno,65,M,26.5,1.5,0,0,121,105.4,C,1
+P03823,Enzio Bruno,1997-03-09,Attimis,29,M,18.5,0.3,1,1,118,67.2,C,0
+P04138,Sebastiano Satriani,1953-07-29,Santa Maria Lo Piano,73,M,27.9,0.3,0,0,124,98.0,A,1
+P03818,Gianmarco Bruno,1969-03-25,Varcaturo,57,M,26.2,1.8,1,0,116,86.9,A,0
+P04300,Rosario Taliercio,1991-06-03,Cerignale,35,M,26.7,1.5,0,1,113,79.7,C,0
+P02593,Ruggiero Fabrizi,2003-03-10,Villasmundo,23,M,28.6,1.4,1,1,96,77.7,E,0
+P04164,Nicolò Siffredi,1963-09-28,Cesana Torinese,63,M,25.5,0.6,0,1,123,96.3,B,1
+P03031,Michele Mazzanti,1990-10-22,Bluma,35,M,30.6,3.9,0,0,113,90.8,C,0
+P03579,Stella Altera,2004-01-04,Santa Maria Coghinas,22,F,19.8,1.8,1,0,116,78.9,D,0
+P02832,Bianca Cheda,1990-01-02,Carrega Ligure,36,F,31.1,3.3,0,0,139,94.5,C,0
+P03472,Carla Marzorati,1962-08-18,Sant'Eusanio Forconese,64,F,31.3,3.8,1,1,153,101.0,E,1
+P00137,Carolina Gozzi,2006-10-12,Piscina,19,F,20.1,3.1,1,0,110,88.8,A,0
+P04892,Fausto Ramazzotti,2004-10-24,Sartirana Lomellina,21,M,35.3,0.9,0,0,121,115.6,B,1
+P02180,Giampaolo Rapisardi,1964-09-27,Stolvizza,62,M,30.8,0.7,0,1,116,105.4,C,0
+P02128,Orazio Pedersoli,2004-06-13,Sottoselva,22,M,27.7,0.3,0,1,121,79.0,C,0
+P03177,Giovanna Salandra,1990-03-09,Monterubiaglio,36,F,24.2,0.8,0,0,144,96.6,A,1
+P04854,Enzio Piovani,2004-12-18,Rivolto,21,M,29.6,2.7,0,0,102,86.1,A,0
+P04637,Marco Moschino,1976-10-21,Baio Dora,49,M,17.8,7.0,0,0,105,82.5,C,0
+P05115,Ottavio Piccio,1991-12-11,San Mauro,34,M,27.3,1.4,0,0,116,94.3,E,0
+P05223,Maura Porcellato,1957-06-18,Cipressa,69,F,34.2,0.9,0,1,131,90.7,C,1
+P04261,Fedele Ponti,1996-04-16,Villanovaforru,30,M,31.0,15.0,0,1,119,103.4,D,0
+P04344,Alessandra Boito,1985-06-26,Finale,41,F,25.8,0.8,0,1,116,95.1,B,1
+P01331,Paride Meucci,1962-12-31,Sterpete,63,M,22.2,0.7,0,0,119,97.6,C,1
+P02017,Guarino Pavarotti,1963-03-28,Kolfusch,63,M,30.8,3.1,0,0,126,100.0,D,1
+P04542,Melissa Polesel,1949-12-05,Settecrociari,76,F,25.0,6.7,1,1,130,100.4,B,1
+P02482,Nina Mennea,1996-12-04,Roccarainola,29,F,17.9,1.0,0,0,91,92.2,C,0
+P01358,Adriana Caironi,2002-05-27,Cadegliano,24,F,30.3,7.5,0,0,117,90.9,A,0
+P01329,Galasso Soffici,1987-02-18,Romito Magra,39,M,21.6,0.8,0,1,118,92.4,A,0
+P05908,Giovanna Borromeo,1957-11-24,Testa Di Lepre,68,F,25.9,0.8,0,1,122,121.8,D,0
+P02150,Melina Vidoni,1988-05-20,Mogliano,38,F,27.7,7.3,0,0,93,92.3,C,0
+P04530,Ivo Saraceno,2006-11-12,Montepulciano Stazione,19,M,29.8,0.1,0,0,114,75.4,A,0
+P02122,Maria Camicione,1972-09-27,Granarolo Dell'Emilia,54,F,28.8,1.8,0,0,139,107.4,E,0
+P04673,Patrizia Solimena,1954-01-09,Pontinia,72,F,34.1,0.5,0,0,153,116.1,E,1
+P03981,Santino Columbo,2003-01-30,San Giovanni In Croce,23,M,29.7,9.5,0,0,136,93.4,B,0
+P01252,Sophia Bajardi,2004-09-19,Marein,22,F,19.5,5.0,0,0,90,74.6,E,0
+P03278,Mercedes Galuppi,1946-09-12,Vocogno,80,F,29.6,2.9,0,0,134,101.1,D,1
+P03374,Micheletto Malaparte,1966-08-13,Casazza,60,M,31.1,4.7,0,1,127,86.3,A,1
+P02814,Pompeo Mazzanti,1996-06-12,Trecchina,30,M,16.0,3.1,0,0,104,83.4,C,1
+P04719,Sophia Luria,1999-07-02,Roisan,27,F,30.9,2.1,1,0,107,91.6,D,0
+P01848,Giacomo Pisaroni,1976-08-07,Acquaseria,50,M,24.2,0.1,0,1,142,94.4,E,0
+P04858,Leone Dossetti,1991-10-11,Secchiano Marecchia,34,M,31.0,13.4,0,0,129,103.1,D,0
+P03037,Berenice Sanudo,1999-07-06,Lammari,27,F,22.7,0.4,1,1,122,81.9,A,0
+P00388,Giustino Bova,1952-01-25,Bornago,74,M,25.7,0.3,0,0,166,77.9,A,0
+P00235,Fabrizia Filangieri,1963-05-09,Nocelleto,63,F,22.8,2.4,0,0,134,93.2,C,0
+P01077,Alberto Morellato,1998-08-16,Gerocarne,28,M,26.5,2.7,0,1,115,97.8,A,1
+P01984,Lucrezia Campano,1967-11-12,San Nazzaro D'Ongina,58,F,29.9,2.1,1,0,136,111.8,A,0
+P04363,Tonino Zacchia,1948-01-16,Belmonte Piceno,78,M,29.2,0.1,0,0,144,93.1,E,1
+P03962,Rossana Iannuzzi,1967-05-12,San Pietro Clarenza,59,F,26.4,0.7,0,0,126,83.0,A,0
+P00770,Elvira Pacelli,1966-10-26,Torre Di Palme,59,F,24.7,4.9,0,1,125,91.4,A,1
+P02165,Filippa Gori,1949-10-18,Selvino,76,F,31.6,0.4,0,0,152,95.5,B,0
+P04533,Pierluigi Gravina,1961-05-17,Montaperto,65,M,24.5,3.0,0,0,137,105.8,B,1
+P00673,Adele Tamburini,2003-01-24,Sonnino Scalo,23,F,34.1,0.5,1,1,130,95.3,E,1
+P00249,Rolando Chiesa,2006-04-02,Vallecrosia,20,M,25.9,1.7,0,1,124,82.3,D,0
+P01574,Gelsomina Borsiere,1999-09-29,Troviggiano,27,F,32.4,5.7,0,0,116,101.1,E,0
+P03419,Beppe Cantimori,1991-09-02,San Giorgio Di Livenza,35,M,20.3,4.4,0,0,117,81.7,C,0
+P02081,Corrado Porzio,2003-02-10,Vorno,23,M,28.0,3.2,0,1,115,81.1,A,0
+P01823,Costanzo Porzio,1952-12-15,Musei,73,M,19.4,4.4,0,0,121,94.1,B,0
+P05550,Micheletto Govoni,1970-10-31,Ponte Rio Di Monterado,55,M,24.2,1.5,0,1,112,91.5,D,0
+P05738,Valerio Luzi,1993-11-04,Blevio,32,M,27.5,3.6,0,0,111,70.6,C,0
+P04544,Liana Borsellino,1980-09-24,Adelfia,46,F,33.5,0.7,0,0,132,112.7,E,1
+P00716,Angelica Bettin,1976-02-15,Ospedaletto Lodigiano,50,F,19.0,4.3,0,0,137,108.2,B,1
+P05344,Morena Mazzini,1990-11-01,Perzacco,35,F,19.9,2.7,0,1,118,78.6,C,0
+P05599,Camillo Federico,1960-01-28,Trasanni,66,M,32.8,2.3,0,0,156,92.4,A,0
+P02048,Simonetta Pareto,1961-03-01,Ponteromito,65,F,30.0,5.5,0,0,142,108.8,A,0
+P04178,Simonetta Zacchia,1980-08-06,Cinisi,46,F,33.3,2.0,1,0,135,118.4,A,0
+P04809,Bianca Petralli,1958-06-18,Fasani,68,F,24.7,3.7,0,1,132,95.0,E,0
+P02724,Aria Bertolucci,1959-09-10,Toblach,67,F,30.0,4.5,0,0,145,109.1,E,1
+P05420,Cassandra Tarchetti,1958-08-20,Serra Pistoiese,68,F,26.4,6.1,1,0,124,115.3,D,0
+P01460,Annunziata Lerner,1958-11-28,Guilmi,67,F,34.3,1.1,1,1,137,123.2,C,1
+P01668,Raffaele Peruzzi,1975-03-03,Guasto,51,M,25.4,2.2,1,0,119,91.5,C,0
+P02756,Jolanda Federici,1953-06-04,Scheggia,73,F,27.3,0.8,0,0,136,85.2,A,1
+P02000,Antonina Calvo,1952-12-10,Santa Maria Rezzonico,73,F,21.9,4.1,1,0,139,93.0,B,0
+P04571,Eraldo Rossetti,2003-03-26,Zwischenwasser,23,M,23.6,6.8,1,0,109,86.2,A,0
+P04613,Romana Mocenigo,1976-06-22,Villanova Monteleone,50,F,25.4,0.0,1,0,124,90.2,B,0
+P00404,Annunziata Delle,1977-09-18,Castelsardo,49,F,29.1,0.4,0,0,124,116.9,A,0
+P00384,Lazzaro Respighi,2006-03-19,Valperga,20,M,22.7,12.2,1,1,114,77.4,A,0
+P05385,Giulietta Salvini,1953-02-21,Colonnata,73,F,20.8,5.7,0,0,144,100.5,D,0
+P02152,Luciano Trincavelli,1955-04-25,Falcinello,71,M,22.8,8.0,0,0,126,108.9,E,0
+P01633,Gaspare Ciampi,1952-10-14,Fossalon,73,M,34.5,3.4,0,0,131,111.5,A,1
+P05494,Gelsomina Esposito,1960-02-23,Albi,66,F,30.5,0.7,0,1,122,92.3,B,1
+P04784,Dina Mogherini,1955-07-03,Marina Di Cerveteri,71,F,28.6,1.2,1,0,133,113.2,A,1
+P03925,Micheletto Cafarchia,1972-02-18,Fico,54,M,28.0,1.6,0,0,147,102.7,A,0
+P04158,Adelasia Castellitto,1996-10-01,San Romedio,30,F,25.8,0.9,0,0,130,71.2,B,0
+P04948,Rita Ceravolo,1991-12-27,Rivera,34,F,28.2,0.6,1,1,134,91.4,E,0
+P00223,Federico Manunta,1996-02-26,Staglieno,30,M,20.1,2.1,0,1,109,88.7,D,0
+P02193,Serafina Pirandello,1994-11-24,Veglie,31,F,27.6,7.1,0,0,107,94.3,D,1
+P03136,Marta Montanari,1972-04-18,Sant'Agata De' Goti,54,F,34.2,1.4,0,1,125,116.9,E,1
+P04469,Cristina Petruzzi,1960-11-26,Castelnuovo Dei Sabbioni,65,F,29.7,0.2,0,0,154,87.7,A,0
+P01824,Cristina Comolli,1960-02-19,Entiklar,66,F,28.2,11.4,0,0,122,110.3,C,0
+P05509,Massimo Nadi,1953-06-27,Guazzino,73,M,22.3,0.8,0,0,120,104.6,A,0
+P05124,Veronica Inzaghi,2001-08-27,Villa D'Aiano,25,F,36.4,2.8,0,0,110,95.0,E,0
+P04972,Tina Tutino,1956-01-20,Vasto Marina,70,F,16.0,0.4,1,0,114,90.5,B,0
+P00797,Vanessa Scotto,1979-12-08,Pietracupa,46,F,17.9,3.5,1,0,118,97.2,C,0
+P02871,Marisa Salvo,1947-07-02,Saponara,79,F,26.3,0.1,0,1,112,104.9,D,1
+P00009,Gaetano Verdone,2003-04-08,San Marco,23,M,39.2,8.0,1,0,134,117.7,E,0
+P01944,Adele Barillaro,1985-08-12,Casale Marittimo,41,F,20.7,7.3,1,1,118,76.9,B,0
+P01838,Gemma Palladio,1994-05-11,Peroulaz,32,F,24.4,6.1,0,1,116,95.9,A,0
+P04804,Rita Ungaretti,1964-12-09,Riglione,61,F,23.1,0.7,0,0,110,98.2,B,0
+P00255,Roberto Guidone,1999-08-31,Pennisi,27,M,21.4,2.2,0,1,122,90.8,B,0
+P04485,Piero Ravaglioli,1985-01-22,Sant'Andrea Di Sorbello,41,M,24.6,1.8,0,0,97,94.9,C,0
+P05402,Roman Comisso,1965-10-07,Corte,60,M,26.3,0.6,1,1,141,95.1,A,1
+P01581,Daniele Geraci,1994-12-20,Castano Primo,31,M,21.4,3.1,0,0,122,90.5,B,0
+P02956,Carla Montecchi,2002-01-25,Sitagliacciu,24,F,26.1,1.3,0,1,130,77.7,D,0
+P00924,Guglielmo Cavalcanti,1992-10-07,Montefegatesi,33,M,18.2,1.6,0,0,90,92.0,A,0
+P05547,Amalia Carocci,2005-08-13,Calavorno,21,F,27.4,0.4,0,1,122,83.9,A,0
+P02508,Luca Mercalli,1983-03-17,Monterosi,43,M,29.3,1.1,1,0,121,83.7,E,0
+P05024,Paolo Pulci,1954-06-01,Castel Goffredo,72,M,24.3,0.8,0,0,153,103.2,E,1
+P03775,Tiziana Giradello,1997-06-09,Guardistallo,29,F,24.4,0.8,0,0,134,79.4,C,0
+P04835,Giorgia Ferraris,1975-01-26,Gavardo,51,F,27.6,0.8,0,1,123,91.8,D,1
+P04136,Ettore Collina,1947-02-26,San Pietro A Vico,79,M,32.6,1.6,1,0,146,99.0,C,1
+P04964,Bernardo Borsiere,1948-11-07,Cussorgia,77,M,32.3,2.5,0,1,133,96.4,D,1
+P02779,Anita Guarana,2005-12-19,Cataeggio,20,F,35.7,1.1,0,0,113,93.7,D,0
+P00539,Elmo Gelli,2007-05-25,Monte Oriolo,19,M,22.2,11.4,0,0,108,78.0,E,0
+P02745,Michela Rizzo,1983-07-08,Forme,43,F,20.3,3.2,1,1,118,82.9,D,0
+P05391,Ezio Fieramosca,1998-08-05,Visso,28,M,32.7,9.8,0,0,125,96.5,A,0
+P05476,Alfredo Romano,1991-10-26,Oppido Mamertina,34,M,26.0,2.6,0,0,100,103.5,E,0
+P01145,Nino Giacometti,1978-03-20,Serravalle Di Bibbiena,48,M,19.1,0.2,0,0,124,91.3,C,0
+P05127,Vittorio Giolitti,1976-06-30,Redipiano,50,M,22.1,0.1,0,0,133,90.1,D,0
+P04468,Marta Toscani,1952-10-21,Pastene,73,F,31.2,0.4,0,0,129,105.3,E,1
+P00667,Giancarlo Petralli,1954-07-25,Caldopiano,72,M,16.0,1.4,0,0,123,93.1,C,0
+P03019,Elmo Lopresti,1962-06-01,Mirabello,64,M,26.6,0.3,0,0,124,86.7,A,0
+P00357,Fiorino Fermi,1952-05-27,Arzano,74,M,23.5,1.5,1,0,143,100.8,D,0
+P05063,Irma Redi,1968-04-14,Cavalese,58,F,30.2,9.1,0,1,127,103.9,B,0
+P02831,Cristina Farina,1958-04-16,Stazione Di Fiumefreddo Bruzio,68,F,24.8,1.2,0,0,144,99.5,A,1
+P02783,Marissa Alighieri,1956-02-12,Castelvetere In Val Fortore,70,F,25.3,2.0,1,1,150,103.9,B,1
+P01353,Calcedonio Cantimori,1951-03-01,Collalbo,75,M,19.6,4.5,0,0,118,97.9,E,0
+P05131,Greco Bergoglio,1984-02-28,Tuscania,42,M,29.3,4.4,0,0,129,104.8,C,0
+P00470,Piergiorgio Battelli,1962-07-09,Ponte San Pellegrino,64,M,25.8,1.1,0,0,140,94.2,B,1
+P02703,Ippazio Antelami,1955-12-13,Treglio,70,M,22.5,2.8,0,0,144,98.8,C,0
+P03330,Manuel Pucci,1969-12-09,Solignano Nuovo,56,M,20.5,0.4,0,0,120,84.8,C,0
+P03637,Fernanda Chindamo,1977-02-23,Stretti,49,F,21.7,3.9,0,1,121,65.0,B,0
+P01396,Manuel Ferrucci,1969-07-12,Croce Ferrata,57,M,34.0,2.5,0,1,114,110.3,B,0
+P03584,Concetta Letta,1961-06-25,Casamorcia,65,F,22.7,2.0,0,0,133,91.5,B,1
+P05379,Tina Ramazzotti,1976-03-11,Monta',50,F,20.1,1.8,0,1,123,80.5,A,0
+P05262,Camilla Crespi,1971-07-10,Serle,55,F,27.3,2.3,0,1,114,80.9,C,0
+P03376,Alderano Sokolov,1977-01-16,Triggiano,49,M,26.2,3.9,0,0,126,79.9,D,0
+P01256,Annetta Aloisio,1995-01-03,Montenerodomo,31,F,25.2,4.6,0,0,128,79.4,E,0
+P03512,Ronaldo Garzoni,2000-10-01,Orbassano,26,M,31.4,0.0,0,0,117,96.0,E,0
+P01250,Gianluca Mantegazza,1993-03-18,Castelpagano,33,M,32.8,2.0,0,0,141,102.6,E,0
+P05762,Lorenzo Dossi,1996-01-30,Villarboit,30,M,32.3,6.2,0,1,111,85.4,D,0
+P04298,Loretta Leonardi,2006-04-11,Missaglia,20,F,22.5,3.9,0,1,136,82.0,D,0
+P03284,Giampaolo Beccheria,1982-02-18,Cornaredo,44,M,24.9,0.2,0,0,123,100.5,E,0
+P02933,Corrado Trupiano,1981-07-30,Santa Lucia,45,M,33.9,0.2,0,0,141,109.2,A,1
+P04175,Ezio Armellini,1987-06-25,San Benigno,39,M,23.5,4.1,0,0,116,81.7,A,0
+P05268,Paola Guglielmi,1964-03-06,Loewenviertel Elisabethsiedlun,62,F,18.7,0.7,0,0,99,80.5,A,0
+P04910,Antonina Vidoni,1948-11-16,Dolceacqua,77,F,34.5,6.4,1,0,138,110.3,C,1
+P01852,Baccio Matteotti,1980-06-24,Romito Magra,46,M,23.4,1.1,0,0,132,104.6,A,1
+P05612,Silvia Saffi,1968-08-28,Gavazzana,58,F,29.5,4.6,0,0,130,109.7,B,0
+P05841,Roman Lerner,1945-10-22,Massa Finalese,80,M,30.4,1.9,0,0,159,123.2,D,1
+P02105,Veronica Emanuelli,1991-06-06,Pernocari,35,F,30.1,4.9,0,0,123,71.6,A,0
+P00133,Arturo Tomasetti,1973-09-06,Colbuccaro,53,M,19.7,6.8,0,0,119,90.6,E,0
+P05236,Lauretta Zaccagnini,1973-04-18,Romagnano Al Monte,53,F,36.2,2.9,0,0,139,90.4,B,0
+P05029,Severino Vidoni,1994-07-30,Vologno Di Sotto,32,M,26.5,0.8,0,0,127,84.5,D,0
+P00928,Donatella Moresi,1982-07-04,Pisa,44,F,30.7,0.4,0,1,103,82.7,E,0
+P00823,Nico Gritti,1968-01-15,Darfo Boario Terme,58,M,18.4,0.3,0,0,131,85.3,E,0
+P05446,Marisa Pontecorvo,1966-03-09,Torre Del Mangano,60,F,21.5,2.1,1,1,113,98.8,C,0
+P01531,Lisa Malaparte,2008-04-28,Triei,18,F,28.9,2.6,0,0,117,79.8,A,0
+P01214,Gabriele Monicelli,2003-12-01,Montecuccolo,22,M,29.9,0.8,0,1,105,82.7,D,0
+P00504,Stefano Cociarelli,1991-02-09,Baraggia,35,M,35.6,1.4,0,1,119,81.8,A,0
+P04285,Fulvio Ziani,1960-03-16,Ponterio,66,M,40.1,0.3,0,0,153,114.7,A,0
+P01996,Adelasia Andreotti,1974-07-21,Pietrapaola Stazione,52,F,25.8,0.5,0,0,107,102.1,E,0
+P03072,Corrado Parini,1993-05-30,Careri,33,M,35.1,1.1,0,1,113,92.2,C,0
+P01958,Vittoria Trebbi,1967-03-14,Gadoni,59,F,27.1,1.5,0,1,138,94.6,C,0
+P01384,Patrizia Regge,1984-03-13,Villalba,42,F,20.4,0.3,0,1,130,81.1,A,0
+P00894,Giulietta Cristoforetti,1961-05-17,Asola,65,F,24.7,2.2,1,0,134,83.7,E,0
+P04924,Nino Aulenti,1988-06-17,San Leonardello,38,M,25.0,0.4,0,0,121,69.9,E,0
+P00455,Ennio Passalacqua,1973-12-05,Lisciano Di Colloto,52,M,24.3,2.7,0,0,112,84.5,B,0
+P05558,Pierina Migliaccio,1974-12-14,Sonnino Scalo,51,F,29.8,2.5,0,1,130,109.5,D,0
+P03709,Leone Tiepolo,1955-01-15,Erbezzo,71,M,17.2,1.7,0,0,136,99.8,C,0
+P05533,Ezio Fo,1980-01-03,Cosenza,46,M,27.5,1.9,0,0,129,100.4,C,0
+P04849,Laura Sgalambro,1952-04-07,Pietracamela,74,F,24.4,1.2,0,0,115,100.3,E,0
+P04748,Martino Pagliaro,1954-03-16,Piova' Massaia,72,M,25.7,8.2,0,0,137,101.0,C,0
+P04268,Osvaldo Eco,2005-10-10,Casteldelfino,20,M,29.6,3.3,1,1,106,88.3,A,0
+P03522,Raffaella Solimena,1956-05-15,Catona,70,F,31.5,3.7,1,0,150,109.0,E,0
+P04134,Piersanti Rossellini,1946-01-04,Monte Castello,80,M,26.7,4.0,0,0,111,103.4,C,1
+P03602,Costanzo Mazzocchi,1999-03-21,Isola Morosini,27,M,19.8,0.9,0,1,90,65.0,B,0
+P00713,Lara Tomaselli,1960-03-14,Terdobbiate,66,F,26.6,1.8,0,0,129,100.7,B,0
+P04186,Guglielmo Fo,1992-08-18,Orsago,34,M,23.2,1.3,0,1,105,104.7,E,0
+P02214,Delfino Bassi,2001-01-17,Caltagirone,25,M,26.7,2.4,0,1,97,92.4,B,0
+P05301,Giorgia Pezzali,1946-02-19,Cattolica Eraclea,80,F,32.8,0.2,0,0,151,98.7,A,1
+P02923,Luigi Pacetti,1974-04-27,Villastanza,52,M,29.1,1.0,0,1,149,102.9,A,1
+P01810,Dolores Franscini,1993-09-13,Gaudiano,33,F,32.2,4.3,0,0,142,95.0,C,1
+P03486,Paride Comisso,1987-04-21,Calvecchia,39,M,25.6,0.9,0,0,134,78.4,B,0
+P03141,Giulio Binaghi,1983-06-23,Fontanini,43,M,21.3,0.2,0,1,124,73.7,B,0
+P01827,Ciro Lucciano,1946-01-02,Preselle,80,M,23.1,3.5,0,0,151,93.9,B,0
+P01155,Gioele Battisti,1972-08-15,Formigara,54,M,29.4,0.2,0,0,129,106.7,D,1
+P01324,Mariano Parmitano,1954-02-16,Villamiroglio,72,M,23.9,5.0,0,0,129,87.2,E,0
+P04312,Marcello Mattarella,1987-01-26,Tavernelle,39,M,32.4,5.2,0,0,99,94.1,C,0
+P00510,Ermenegildo Borgia,1946-08-25,Roghudi Nuovo,80,M,24.7,6.1,1,0,150,86.1,D,0
+P01680,Oreste Cibin,1949-08-22,Pereto,77,M,25.0,0.4,0,1,138,87.7,B,0
+P00499,Virgilio Polizzi,1982-09-16,Andrate,44,M,36.2,3.3,0,0,122,102.6,E,0
+P05437,Stefano Verdi,2007-11-24,Col San Giovanni,18,M,32.7,0.1,0,0,132,94.9,E,0
+P01856,Fedele Ferragamo,1985-05-10,Giovo,41,M,26.5,1.3,0,1,116,79.9,D,0
+P01388,Paolo Badoer,1952-07-11,Ravagnese,74,M,22.2,0.9,0,0,151,102.0,C,1
+P03719,Giampaolo Schicchi,1992-01-12,Scoglitti,34,M,21.6,1.1,0,0,108,74.9,D,0
+P02386,Giovanna Bettoni,1947-10-18,Maslianico,78,F,33.5,1.2,0,0,147,100.8,E,1
+P03236,Loredana Bonatti,1986-04-18,Larderia,40,F,24.8,1.0,0,0,112,81.3,D,0
+P01540,Letizia Vergassola,1978-11-23,Montedoro,47,F,19.6,10.7,0,0,107,71.4,C,0
+P01217,Telemaco Vigliotti,1962-05-02,Paderno Dugnano,64,M,28.7,2.9,0,1,148,77.0,D,0
+P02681,Vincentio Grasso,2001-12-16,Malafrasca,24,M,31.7,1.1,0,0,123,78.8,C,0
+P02993,Massimiliano Sordi,1955-02-26,Cernobbio,71,M,19.9,6.0,0,0,142,87.0,B,0
+P01191,Elisa Zaccardo,1990-12-12,Cinquemiglia,35,F,36.8,4.6,0,0,134,93.2,D,0
+P05293,Silvia Balbo,1963-09-20,Siris,63,F,27.7,3.5,1,1,136,91.1,B,0
+P01542,Sabatino Bonomo,2003-04-01,Sarteano,23,M,41.0,6.1,0,0,151,103.8,D,1
+P03301,Clelia Juvara,1991-11-29,Duino,34,F,25.5,8.5,1,0,122,86.1,A,0
+P03324,Arnaldo Valmarana,1981-04-12,Salza Irpina,45,M,29.8,0.1,0,1,117,74.3,C,0
+P02539,Serafina Zecchini,1977-01-10,Villaggio Aldisio,49,F,32.8,1.4,0,0,131,98.9,D,0
+P00953,Annalisa Maccanelli,1982-01-22,Mandaradoni,44,F,27.2,0.5,0,0,119,85.8,A,0
+P04846,Enrico Paolini,1956-05-01,Taceno,70,M,29.7,1.0,0,0,131,86.4,B,0
+P04330,Leone Rienzo,1996-11-17,Brindisi Montagna,29,M,24.9,0.1,0,1,139,84.0,E,0
+P00732,Licia Longhena,1950-06-12,Musil,76,F,23.9,4.5,0,0,134,87.7,C,0
+P05991,Gianfranco Fo,1978-10-06,Cimone,47,M,28.2,0.8,0,0,110,97.9,B,0
+P01156,Lolita Rosiello,2001-04-03,Erto E Casso,25,F,23.0,0.1,0,0,111,86.4,C,0
+P05557,Eva Scarponi,1991-12-30,Sant'Ambrogio Olona,34,F,34.9,1.6,0,1,99,84.7,E,0
+P03294,Ermenegildo Anichini,1996-05-02,St. Peter b. Lajen,30,M,27.6,2.2,0,0,129,75.7,C,0
+P02982,Barbara Tamburi,1958-03-24,Macchia Albanese,68,F,33.5,1.1,0,0,136,103.4,D,1
+P05305,Cecilia Cagnotto,1957-03-25,Felegara,69,F,28.3,1.1,0,1,129,115.7,A,1
+P05161,Dina Einaudi,2007-09-09,Castello Di Cisterna,19,F,36.6,6.6,0,0,108,104.4,E,0
+P02156,Pierluigi Vento,1981-05-31,Ponte Messa,45,M,34.8,12.9,1,0,164,100.5,B,1
+P01062,Livia Taliercio,1999-04-09,Corsione,27,F,26.8,2.1,0,0,119,86.3,E,0
+P02616,Raffaella Siffredi,1946-07-09,Barbasso,80,F,20.6,2.5,0,0,118,122.3,A,0
+P01167,Annunziata Volta,1983-08-04,San Martino In Pedriolo,43,F,29.5,0.3,1,0,105,82.0,C,0
+P03222,Gian Canali,1960-05-20,Percha,66,M,25.0,1.6,0,1,118,96.2,C,1
+P03636,Melina Tamburini,1974-01-06,Pollina,52,F,32.4,11.9,1,0,144,114.7,C,1
+P02938,Priscilla Nitto,1951-10-10,San Terenzo Monti,74,F,30.8,5.7,1,0,133,102.3,D,1
+P04491,Pierina Pepe,1996-05-12,Granieri,30,F,24.3,5.1,0,0,124,86.5,C,0
+P03140,Tonia Marenzio,1978-09-25,Gallignano,48,F,27.5,1.5,0,0,130,84.0,C,0
+P04980,Rosa Sagredo,1952-03-04,Offlaga,74,F,34.4,3.4,0,0,152,111.4,C,1
+P00143,Filippa Impastato,1982-10-02,Semelano,43,F,29.7,1.4,0,0,146,102.5,E,0
+P03577,Giosuè Battaglia,1955-06-02,Falerone,71,M,28.1,3.5,0,1,165,123.9,C,1
+P04946,Tatiana Turci,1985-06-12,Poggio San Francesco,41,F,23.2,1.3,0,1,129,76.9,B,0
+P02782,Greco Bernardini,1960-12-31,Frosolone,65,M,29.5,1.4,0,1,143,95.5,D,0
+P00717,Liana Ludovisi,1977-01-25,Villarotta,49,F,29.4,0.5,0,1,147,108.4,C,0
+P01819,Paola Modugno,1990-09-17,Castelletto Cervo,36,F,29.7,5.3,0,0,124,84.0,C,0
+P02502,Ivan Scarfoglio,1961-09-04,Villa Santina,65,M,28.2,1.0,0,1,144,99.7,C,0
+P04360,Agnolo Trapani,2007-12-04,Macerata,18,M,22.3,0.3,0,1,121,92.6,E,0
+P04171,Paolo Morlacchi,1992-09-15,Voghiera,34,M,37.4,3.5,0,1,120,110.0,E,0
+P00395,Gianni Luria,1953-04-18,Marcedusa,73,M,27.1,1.9,0,1,141,117.6,E,1
+P05797,Cassandra Torlonia,1969-06-21,Ternate,57,F,26.6,3.6,0,1,134,96.5,B,0
+P04492,Orazio Fittipaldi,1964-10-15,Monteorsello,61,M,23.8,0.4,0,0,146,100.4,B,0
+P01365,Enzo Murri,2006-12-05,Bedizzole,19,M,29.7,1.5,0,1,109,88.4,A,0
+P05900,Giulietta Callegaro,1950-09-15,Rubiana,76,F,24.3,2.9,0,0,155,94.8,E,0
+P00595,Corrado Salvo,1958-02-28,Riparbella,68,M,28.3,13.8,0,1,133,88.1,C,0
+P03952,Giosuè Norbiato,1963-02-19,Curino,63,M,29.8,8.7,0,0,132,92.5,C,1
+P05392,Maurilio Pucci,1957-10-02,Piedimonte D'Ischia,68,M,28.7,0.9,1,1,153,97.7,B,1
+P04968,Silvio Altera,2005-11-16,Loreggiola,20,M,24.6,0.8,0,1,117,94.2,D,0
+P02914,Amanda Mancini,1983-04-02,Frascarolo,43,F,30.1,2.9,0,1,130,95.7,C,0
+P02326,Rodolfo Bombieri,1987-06-27,Grand Villa Cravon,39,M,30.3,0.0,0,1,119,117.9,A,1
+P03766,Nico Carfagna,1966-08-03,Sicignano Degli Alburni,60,M,33.0,3.7,0,0,141,101.2,B,0
+P03440,Gianluigi Sorrentino,1949-04-09,Zanco,77,M,28.9,3.1,1,0,138,96.2,A,1
+P03851,Atenulf Berlusconi,2005-11-03,Castellina Marittima,20,M,25.9,2.0,0,0,107,89.1,C,0
+P04132,Nadia Peruzzi,1961-11-17,Treviolo,64,F,23.9,3.6,0,0,141,108.2,B,0
+P05499,Alina Porcellato,2005-12-14,Villa Di Baggio,20,F,29.6,5.2,1,1,125,82.4,A,0
+P02143,Paoletta Iannucci,1969-10-15,Torchiara,56,F,17.7,5.2,0,0,119,79.0,E,0
+P05822,Stefani Giunti,1954-02-12,Coderno,72,F,17.5,0.3,0,0,97,75.1,C,0
+P05073,Achille Berlusconi,1959-02-03,Mondovi',67,M,18.3,0.2,0,0,126,90.9,E,0
+P01571,Amalia Monti,1986-04-26,Malborghetto Valbruna,40,F,30.8,2.3,0,0,106,79.1,A,0
+P04079,Stefania Coppola,1960-07-19,Calamecca,66,F,23.0,2.0,0,1,120,82.7,E,0
+P01122,Annetta Zaccardo,1992-06-12,Ariano Ferrarese,34,F,21.6,0.2,0,1,99,96.2,A,0
+P02786,Michelotto Canil,1991-07-24,Mollaro,35,M,24.7,8.2,0,1,139,90.2,C,0
+P02967,Arsenio Tremonti,1994-07-30,Santuario Di Montevergine,32,M,30.4,0.6,0,0,113,98.8,C,0
+P02504,Martino Quasimodo,2005-07-19,Ulignano,21,M,24.2,5.0,1,0,110,95.8,A,0
+P03465,Laureano Sgalambro,1961-04-05,St. Veit in Prags,65,M,28.8,11.8,1,0,136,128.7,C,1
+P00675,Cecilia Parmitano,1963-09-17,Nizzeti,63,F,21.3,0.3,0,0,126,87.4,A,0
+P02808,Cristina Mortati,1958-12-02,Terzolas,67,F,30.8,5.4,1,0,132,97.0,A,0
+P03348,Atenulf Liverotti,2000-12-25,Poggio Moiano,25,M,26.8,3.1,0,0,99,93.0,B,0
+P00728,Annibale Granatelli,1978-05-10,Domaso,48,M,28.9,1.1,0,0,121,81.4,A,1
+P00412,Annibale Rienzo,1991-08-02,Contrada Val D'Ega,35,M,26.4,2.4,0,0,112,91.7,A,0
+P03146,Melania Bragaglia,1968-08-29,Zeccone,58,F,16.0,4.6,0,1,124,78.2,D,0
+P01516,Ranieri Nicolucci,1978-06-01,San Martino Val Masino,48,M,20.3,4.5,0,1,102,109.3,E,0
+P00825,Antonia Murri,2002-12-26,Loppeglia,23,F,21.6,0.3,0,0,107,81.9,E,0
+P03267,Enzio Giannone,1965-09-29,Marana Di Montereale,61,M,31.8,0.5,1,0,136,97.6,D,1
+P03974,Giuseppina Onio,2003-02-21,Castelnuovo Di Ceva,23,F,23.7,4.6,0,0,111,103.5,A,0
+P00616,Rodolfo Piacentini,1992-12-30,Tocco Da Casauria,33,M,24.3,1.0,1,0,128,82.4,D,0
+P00114,Benvenuto Ruberto,1977-04-13,Salboro,49,M,25.0,8.9,0,0,139,94.4,E,0
+P00417,Federico Segrè,2001-07-14,Contursi Terme,25,M,16.2,0.8,0,1,94,77.6,C,0
+P03069,Berenice Russo,2003-11-01,Biassono,22,F,19.9,8.2,0,1,131,65.0,E,0
+P01625,Antonina Zoppetti,1946-05-02,Ponte Buggianese,80,F,31.8,0.4,1,0,135,108.0,A,0
+P05939,Valentina Cavalcanti,1997-09-02,Acquasanta Terme,29,F,21.6,3.7,0,0,131,74.7,B,0
+P04185,Filippo Antonini,1972-07-27,Franche,54,M,17.8,5.0,0,1,137,83.7,A,0
+P02896,Danilo Cheda,1967-01-30,Gorlago,59,M,25.3,2.9,0,0,141,81.4,C,0
+P05602,Gabriella Battaglia,2008-05-23,Valenza,18,F,18.1,3.4,0,0,109,65.0,E,0
+P02082,Anita Castioni,1988-02-15,Lughezzano,38,F,26.3,0.3,0,0,125,99.8,A,0
+P00753,Sebastiano Ferrabosco,1950-07-21,Gavasseto,76,M,29.9,3.9,0,0,139,112.3,C,0
+P02546,Letizia Pometta,1958-07-16,Sturla,68,F,32.0,15.0,0,0,148,102.7,A,0
+P03969,Paolo Carullo,1970-07-13,Casalbellotto,56,M,31.2,0.2,0,0,135,96.6,A,1
+P03373,Gian Chiappetta,1977-08-24,Roversano,49,M,27.0,4.6,0,0,130,114.5,E,1
+P04107,Tonino Nolcini,1955-07-22,Visco,71,M,32.2,2.3,0,1,150,107.1,C,1
+P02444,Licia Mengolo,1971-09-28,Carpegna,55,F,19.9,0.2,0,0,141,85.3,D,0
+P04380,Etta Piccinni,1948-12-07,Porciorasco,77,F,26.4,1.7,0,1,149,120.5,C,1
+P01066,Coriolano Monti,1949-12-11,San Fele,76,M,23.2,1.7,0,0,147,113.1,A,0
+P03913,Annetta Bonaventura,1974-08-10,Cardona,52,F,28.2,1.7,0,1,131,90.7,E,0
+P05287,Gino Lombardo,1954-09-18,Caporosso,72,M,24.7,0.4,0,0,132,116.7,A,0
+P05387,Eva Guidotti,1945-11-03,Ventotene,80,F,23.0,1.4,0,0,129,114.0,B,1
+P03498,Clelia Foletti,2000-10-19,Orria,25,F,25.2,1.3,0,1,131,65.0,A,0
+P02738,Fabia Rienzo,1977-02-03,Meina,49,F,29.0,3.9,0,1,126,86.0,D,1
+P05052,Elisa Condoleo,1947-10-28,Fiorano Canavese,78,F,32.6,4.4,0,0,144,113.9,B,1
+P04000,Sergius Piazzi,1988-02-20,Argusto,38,M,27.4,2.4,0,0,123,88.1,B,0
+P01568,Fabio Palazzo,1951-05-14,Polesella,75,M,23.4,1.3,0,0,142,109.6,D,0
+P02427,Gionata Luna,1983-10-04,Bosco Caggione,42,M,29.3,4.6,0,0,121,82.8,A,0
+P03746,Alessandro Bertoli,1980-07-11,Ricigliano,46,M,34.8,3.1,1,0,109,95.6,C,0
+P05561,Giorgia Franzese,2001-05-12,Bardi,25,F,20.2,0.9,0,0,102,93.4,A,0
+P01687,Melania Muratori,1983-07-18,Tenna,43,F,29.4,0.6,0,0,126,115.1,C,0
+P00851,Aurora Rastelli,1958-02-04,Beverate,68,F,23.1,0.4,1,0,138,95.7,B,0
+P03546,Edoardo Travaglia,1983-06-27,Villa Paterno,43,M,34.6,0.1,1,0,141,100.4,E,0
+P00895,Victoria Draghi,1970-01-25,Stazione Masotti,56,F,21.0,2.3,0,0,115,96.2,A,0
+P04592,Antonello Praga,2004-09-15,Prata D'Ansidonia,22,M,25.8,2.3,0,0,90,90.9,E,0
+P00335,Giuliano Morricone,1958-08-14,Bardonecchia,68,M,29.8,0.0,0,0,133,93.4,D,1
+P02839,Chiara Tebaldi,1947-03-30,Presicce,79,F,20.9,2.9,0,1,141,94.2,B,0
+P03087,Patrizio Ceravolo,1996-10-20,Beura,29,M,32.8,3.8,1,1,107,101.4,D,0
+P04611,Pierina Donà,1987-10-30,Comino,38,F,28.5,1.6,0,1,119,84.3,D,0
+P01348,Maria Soffici,1961-12-04,Aria Di Lupi,64,F,25.5,0.9,1,1,130,90.7,D,1
+P01015,Eugenia Zamengo,1955-11-12,Ponte Giurino,70,F,24.6,0.5,0,0,148,92.3,C,1
+P02816,Donatello Foconi,1966-08-14,Bazzana,60,M,20.2,1.3,0,1,132,85.4,A,0
+P01631,Rocco Lancisi,1952-07-25,Casinina,74,M,17.8,1.1,0,0,130,85.9,D,0
+P02489,Serafina Caffarelli,1985-10-16,Pietraroja,40,F,25.3,0.2,0,0,117,98.8,E,0
+P03730,Lucia Interiano,1963-05-27,Cremosano,63,F,29.4,4.3,0,0,130,92.5,A,1
+P03251,Bianca Oliboni,1960-10-31,Ortona Dei Marsi,65,F,25.5,14.5,0,1,132,93.2,D,0
+P05555,Adriana Metella,1976-04-01,Ceretolo,50,F,22.8,2.0,0,1,133,81.5,B,0
+P02070,Massimiliano Norbiato,1997-04-30,Spotorno,29,M,31.5,1.7,0,0,112,113.3,A,0
+P04452,Giuliana Tassoni,1978-04-17,Staletti,48,F,22.0,0.2,0,0,122,82.1,E,0
+P05858,Vincentio Guidone,1987-07-13,Mongiuffi Melia,39,M,20.9,10.0,0,0,115,79.9,E,0
+P05408,Serena Salata,1973-05-04,Sparta',53,F,30.4,0.4,0,1,120,92.3,E,1
+P01635,Coriolano Dallara,1975-05-18,Omate,51,M,28.1,2.3,0,0,104,88.1,B,0
+P04646,Arnaldo Cipolla,1962-03-24,Oyace,64,M,33.3,1.5,1,0,132,89.4,E,0
+P02479,Adriana Duse,1999-11-04,Torrazza Coste,26,F,26.8,5.0,1,1,114,77.6,A,0
+P02265,Donato Scarpa,2003-04-16,Gambarare,23,M,33.6,8.2,0,0,123,105.6,B,0
+P02959,Elvira Montalcini,1977-12-22,Giudecca Di Burano,48,F,29.1,14.4,0,0,144,72.0,C,0
+P05323,Gino Fornaciari,1984-08-18,Centola,42,M,26.5,1.3,1,0,121,112.8,E,1
+P05672,Nina Callegaro,1948-08-29,Orciano Pisano,78,F,22.5,4.6,0,0,140,108.1,C,0
+P03059,Maura Pastine,1990-10-10,Veruno,35,F,30.1,5.1,0,0,111,77.6,E,0
+P05053,Gianmarco Casellati,1950-10-23,Tall,75,M,21.0,1.0,0,0,124,95.2,B,0
+P02141,Nicolò Barzini,1953-07-18,Colbordolo,73,M,24.7,4.7,0,0,150,109.7,A,0
+P05104,Saverio Pucci,2002-05-03,Occhiobello,24,M,25.8,0.3,0,1,116,88.8,A,0
+P03118,Piergiorgio Vergassola,2007-07-02,Furato,19,M,29.3,6.9,0,1,128,91.5,C,0
+P05188,Monica Prada,1957-03-01,Ponteterra,69,F,20.0,1.1,0,0,120,81.4,C,0
+P05664,Rosa Taccola,1974-03-31,Mezzano Inferiore,52,F,33.3,3.2,0,0,95,107.4,D,0
+P04045,Margherita Saragat,2008-04-12,Montechiaro,18,F,33.2,3.0,0,0,145,97.2,C,0
+P03356,Lucia Trentin,2005-04-25,Ginestra Fiorentina,21,F,27.7,0.7,0,0,106,65.0,E,0
+P02744,Calcedonio Piacentini,1995-11-06,Atrani,30,M,36.0,9.6,0,0,134,120.0,D,0
+P05092,Fredo Rusticucci,2006-06-11,Gagliole,20,M,23.8,0.4,0,0,104,85.6,D,0
+P03506,Edoardo Filippelli,1956-02-03,Camaldoli,70,M,23.6,1.5,0,1,118,97.8,C,1
+P01679,Calogero Lippomano,1976-06-24,Orco Feglino,50,M,25.0,4.2,0,0,104,101.1,B,0
+P04249,Gianna Rienzo,1984-10-07,Ossona,41,F,21.6,3.7,0,1,128,93.9,B,0
+P03147,Dino Togliatti,1955-11-16,Quarto Di Sarsina,70,M,18.6,3.0,0,0,138,104.6,B,0
+P02294,Sergius Sonnino,1963-04-09,Cerna,63,M,26.0,3.0,1,1,123,116.1,D,1
+P00580,Gianpaolo Mondaini,2003-02-17,Quattroventi,23,M,33.2,8.4,0,0,127,91.4,D,0
+P01470,Loredana Totino,1952-09-16,Torre Maura,74,F,25.2,1.8,0,1,135,102.5,E,0
+P04799,Francesco Carriera,1974-07-31,Cogollo Del Cengio,52,M,20.6,0.4,0,0,126,95.6,B,1
+P04070,Ugo Opizzi,2002-02-14,Porto Valtravaglia,24,M,25.7,3.5,0,1,104,107.0,B,0
+P05308,Tiziano Conti,2004-05-19,Burgusio,22,M,32.5,0.2,0,1,112,82.6,A,0
+P03343,Durante Satriani,1970-05-06,Sicili',56,M,25.6,2.1,0,0,142,95.6,B,0
+P04992,Giuliana Iannuzzi,1946-07-03,Chef Lieu,80,F,20.5,6.1,0,1,129,102.5,A,0
+P04583,Nico Giorgetti,1964-03-09,Vara,62,M,30.8,1.7,0,1,144,99.1,A,1
+P03672,Caterina Ottino,1972-07-11,Montegibbio,54,F,26.1,2.3,0,1,128,95.8,B,0
+P00559,Durante Pedroni,1955-05-21,Cannavo',71,M,30.2,9.0,0,0,145,83.6,C,0
+P05237,Martina Chiesa,1957-07-26,Castel D'Azzano,69,F,34.6,5.8,1,0,149,109.7,C,1
+P05215,Maria Sobrero,1993-10-16,Collobiano,32,F,27.9,2.2,0,0,98,104.1,C,0
+P02849,Antonella Eco,1986-02-07,Pitigliano,40,F,24.1,1.2,0,0,146,76.7,E,0
+P00512,Leonardo Rapisardi,1956-07-29,Bulfons,70,M,23.7,12.7,0,1,115,112.3,C,1
+P04729,Elvira Guidotti,1967-05-20,Chiusa Di Pesio,59,F,29.5,2.0,1,1,141,91.4,E,0
+P01081,Morena Mondadori,1946-06-20,Collegio,80,F,28.8,4.8,0,1,138,112.3,A,1
+P01664,Caterina Busoni,1975-08-13,Monterosso Etneo,51,F,24.7,0.9,0,1,132,95.5,A,0
+P01012,Lucia Tassoni,1992-11-10,Ruta,33,F,20.9,7.7,0,0,111,89.5,C,0
+P01931,Emilio Mercadante,1977-11-30,San Martino Vallata,48,M,25.0,0.9,0,0,123,81.2,D,0
+P01150,Stefania Pucci,1985-09-25,Toppo,41,F,25.0,4.3,0,1,114,99.9,B,0
+P02838,Tiziana Sinisi,1995-04-02,Gossolengo,31,F,20.1,1.2,0,1,114,77.9,B,0
+P00116,Sonia Veltroni,2006-09-22,Camarza,20,F,24.2,4.3,0,0,136,91.3,C,0
+P00740,Mariano Bova,1957-06-02,Tiezzo,69,M,30.2,4.6,0,0,118,91.1,C,1
+P05761,Giulio Marangoni,1998-07-05,Selva Di Progno,28,M,33.2,2.5,1,1,125,79.5,D,0
+P05177,Martino Bresciani,1979-10-11,Morazzone,46,M,27.0,1.1,0,0,116,110.1,C,0
+P03675,Cipriano Rensi,1981-01-16,Bivio Palomonte,45,M,30.2,0.8,0,0,117,88.2,E,0
+P00830,Tina Scarpa,1993-08-16,Bassignana,33,F,20.8,12.2,0,0,117,93.4,C,0
+P00119,Pier Spanevello,2000-12-09,Ceretolo,25,M,34.5,2.0,0,0,123,90.7,D,0
+P04752,Nicolò Bettoni,1958-06-20,Kaltenbrunn,68,M,29.5,1.5,1,0,123,115.2,A,0
+P05728,Renata Priuli,1981-11-28,Gioiosa Marea,44,F,33.0,1.9,1,0,137,84.8,C,1
+P05681,Adamo Caccioppoli,1959-03-17,Verrua Po,67,M,33.1,1.0,1,1,136,105.3,D,1
+P05928,Bianca Barberini,2001-03-20,Granze,25,F,24.1,2.3,1,1,120,104.1,E,0
+P00635,Santino Garzoni,1965-05-23,Valsanzibio,61,M,31.3,5.4,0,0,126,90.5,D,0
+P04465,Leonardo Lombardo,2003-02-28,Carciano,23,M,25.2,3.2,0,0,109,98.4,B,0
+P04364,Annamaria Querini,1972-09-04,Villa Ottone,54,F,27.1,8.3,0,0,131,108.8,C,0
+P04142,Salvatore Balbo,1998-01-28,Meran Sinic,28,M,31.1,2.7,0,0,116,89.1,A,0
+P00991,Claudia Mondadori,1974-02-10,Sgonico,52,F,20.5,7.8,0,1,136,78.7,D,0
+P00876,Virgilio Ovadia,1974-07-06,Escolca,52,M,24.0,3.2,0,0,126,84.5,C,1
+P04869,Rita Fabbri,1965-04-21,Pinarella,61,F,16.0,0.1,1,0,127,89.4,E,0
+P05315,Evangelista Cimini,1973-06-18,Sant'Eufemia Della Fonte,53,F,30.2,0.2,0,0,120,110.8,B,1
+P05222,Simone Rapisardi,1950-02-20,Nusenna,76,M,28.4,0.8,1,0,144,123.3,D,1
+P00004,Calogero Querini,1980-10-26,Cairano,45,M,25.6,1.9,1,1,118,90.5,D,0
+P03051,Bianca Pisacane,1996-11-08,Dolegnano,29,F,29.6,1.1,0,0,107,89.0,D,0
+P03124,Bernardo Civaschi,1981-02-27,Portula,45,M,23.7,4.2,1,0,113,72.5,E,0
+P02660,Amanda Finotto,1980-12-30,Leonforte,45,F,27.0,1.3,0,0,143,87.1,B,0
+P02491,Giulio Onisto,1992-04-28,Basovizza,34,M,20.7,15.0,0,1,123,103.4,B,0
+P05173,Cecilia Grassi,1987-02-26,Albera Ligure,39,F,34.2,0.5,0,0,117,101.5,E,0
+P03854,Rosa Beccheria,1978-05-28,Stravignino,48,F,18.1,5.4,0,0,126,81.2,B,0
+P04933,Adriana Cainero,1956-06-09,Limone Sul Garda,70,F,20.8,0.8,0,1,129,89.7,B,0
+P04777,Ruggero Dibiasi,1961-02-08,San Sebastiano Da Po,65,M,34.0,3.6,0,0,145,99.9,E,0
+P01715,Domenico Morricone,1953-01-03,Prato,73,M,26.9,0.5,0,0,147,87.7,E,0
+P01148,Guido Farnese,1965-04-21,Grancetta,61,M,19.7,0.9,0,0,124,89.0,E,0
+P03261,Alderano Barese,1978-01-30,Castel Volturno,48,M,29.4,1.2,1,0,124,92.0,B,0
+P00574,Carlo Franzese,2008-04-14,Sciara,18,M,31.5,0.8,0,1,125,108.9,B,0
+P03769,Teresa Gozzi,1987-07-23,Laerru,39,F,35.4,2.1,0,1,141,99.5,A,0
+P03736,Gioele Mastroianni,1985-07-13,Isola Della Scala,41,M,24.6,1.5,0,0,132,79.6,A,0
+P04146,Carolina Pacomio,1982-09-21,Guardia Sanframondi,44,F,18.5,2.4,0,0,130,91.6,A,1
+P00853,Filippo Verga,1993-01-14,Galloro,33,M,21.3,1.9,0,0,100,76.2,C,0
+P01982,Stefania Trebbi,2004-10-25,Santa Marina Salina,21,F,31.6,0.5,1,0,125,95.6,D,1
+P02774,Ornella Treves,1974-06-14,Perrazze,52,F,28.1,3.8,1,1,134,87.9,E,0
+P04929,Marcello Bruno,1994-10-21,Molinaccio,31,M,18.4,8.6,1,0,102,65.0,B,0
+P05211,Victoria Borsellino,1999-03-09,Soligo,27,F,34.7,3.6,1,0,126,107.0,A,0
+P01166,Giulietta Leone,2007-08-26,Dolceacqua,19,F,25.7,1.8,0,0,108,78.8,E,0
+P00971,Gelsomina Ostinelli,1981-10-25,Tortona,44,F,21.3,1.4,0,1,105,83.9,D,0
+P02701,Ricciotti Petrucelli,1957-12-25,Fontanetto Po,68,M,28.1,1.1,0,1,138,108.9,B,1
+P04495,Francesco Sibilia,1969-05-15,Lauco,57,M,26.5,2.6,0,1,127,108.2,D,1
+P03847,Victoria Passalacqua,1985-11-16,Roccaforzata,40,F,25.3,0.2,1,0,106,91.0,E,0
+P02368,Livio Murialdo,1998-03-25,Castelromano,28,M,29.3,1.9,1,1,120,106.8,A,1
+P04115,Roberta Giannotti,1978-11-07,Gropello Cairoli,47,F,23.6,0.7,1,1,126,77.9,D,0
+P04780,Gioacchino Gonzaga,1955-01-12,Sant'Alfio,71,M,22.8,1.2,0,1,128,93.6,B,0
+P04131,Loredana Zaccardo,1949-12-02,Gaggiano,76,F,30.5,0.7,1,0,163,105.2,B,1
+P02950,Giacomo Amato,2007-02-02,Ridotti,19,M,29.1,2.3,0,0,127,92.4,B,0
+P00524,Giancarlo Favata,1988-05-25,San Brizio,38,M,34.4,1.7,0,1,121,99.2,A,0
+P02455,Roman Casellati,1979-06-29,Lancusi,47,M,16.0,3.6,0,0,104,65.5,A,0
+P05016,Gemma Canova,2004-10-22,Cerasomma,21,F,29.2,6.0,0,0,92,89.3,B,0
+P01841,Hugo Strangio,2002-03-11,Alia,24,M,25.5,1.8,0,0,106,99.8,C,0
+P00537,Irma Carosone,2001-07-23,Taverna Di Monte Colombo,25,F,30.6,5.1,0,0,135,96.8,B,0
+P02806,Amalia Vittadello,1989-11-08,Vico Equense,36,F,24.9,2.2,0,1,107,72.1,E,0
+P05596,Claudia Campise,1975-04-08,Camisasca,51,F,29.9,5.4,1,1,108,107.6,D,1
+P04341,Mariana Trapanese,1982-06-13,Struda',44,F,16.0,3.9,0,0,122,87.0,A,0
+P03175,Concetta Turchetta,1973-02-02,Pozzi San Michele Tagliamento,53,F,33.9,0.1,0,0,123,115.1,A,1
+P00784,Raffaello Buscetta,1978-03-14,Colere,48,M,23.1,0.8,0,0,130,107.8,E,0
+P04057,Cassandra Finotto,1975-06-17,Campo Di Giove,51,F,36.2,0.3,0,1,140,113.4,A,1
+P01409,Daniele Fagotto,1991-03-17,Ponte Del Giglio,35,M,30.4,0.0,0,0,138,94.4,E,0
+P02537,Maria Chinnici,1977-09-14,Sarre,49,F,30.9,1.2,1,1,136,91.9,C,0
+P00154,Ippazio Cuda,1981-04-12,Vittuone,45,M,32.1,0.2,0,0,139,92.1,A,0
+P03009,Ivan Lercari,1957-05-18,Roncocesi,69,M,34.3,1.5,0,0,138,104.9,E,1
+P01686,Sante Verdi,1982-10-01,Scrofiano,44,M,30.8,1.8,1,1,111,97.6,E,0
+P02901,Ornella Ajello,1957-11-16,Pergola,68,F,23.6,0.8,1,0,126,88.9,A,0
+P05938,Lina Paolucci,1945-10-08,Casalino Di Mombello,80,F,26.9,1.7,0,0,154,105.1,C,0
+P04721,Eleanora Panatta,1956-08-10,Isolalta,70,F,34.7,0.1,0,1,129,109.8,C,1
+P03863,Cecilia Bruscantini,1970-06-16,Cornacchiaia,56,F,18.2,0.2,0,0,106,67.4,B,0
+P02733,Enzio Molesini,1995-03-05,Vezzo,31,M,26.1,0.4,0,1,117,85.8,C,0
+P01895,Manuel Lerner,1955-01-05,Bessude,71,M,28.1,5.0,0,0,150,100.4,B,0
+P05442,Gianfranco Santorio,1950-02-07,San Leonardo Valcellina,76,M,20.8,11.5,0,0,123,111.8,A,0
+P00569,Cirillo Pace,1972-10-17,Mazze',53,M,28.0,6.4,1,0,121,92.6,E,0
+P01816,Griselda Boitani,1994-07-05,Serravalle Pistoiese,32,F,25.0,3.0,0,0,113,75.2,C,0
+P02065,Imelda Zaguri,1975-10-11,Duino Aurisina,50,F,23.1,4.6,0,1,133,88.1,D,0
+P00127,Elisa Malenchini,1960-08-07,Sissa Trecasali,66,F,24.5,1.5,0,1,138,103.8,A,0
+P03394,Rosario Barzini,1987-09-26,Guidizzolo,39,M,26.7,2.1,0,0,130,104.0,B,0
+P03327,Uberto Carriera,1995-05-13,Poggio Capanne,31,M,31.4,0.4,0,0,139,77.7,E,0
+P05977,Eugenia Castiglione,1998-09-29,Vezza D'Oglio,28,F,25.6,0.6,0,0,92,86.2,D,0
+P02975,Martino Panicucci,1978-12-17,Focene,47,M,24.9,2.3,0,0,112,98.8,D,1
+P00980,Dionigi Cagnin,1971-06-09,Rocchetta Di Vara,55,M,30.7,1.6,1,0,121,88.5,B,0
+P02300,Eva Conti,1992-01-13,Fanano,34,F,21.2,7.4,0,0,108,103.6,C,0
+P00190,Valeria Cannizzaro,1965-01-06,Arbizzano,61,F,21.0,2.7,0,0,111,68.7,B,0
+P01139,Danilo Emo,1975-02-13,Pra',51,M,22.5,3.9,0,1,112,86.0,D,0
+P05088,Giacobbe Pastine,2000-04-08,Laurito,26,M,31.2,1.2,0,1,140,92.2,C,0
+P00699,Tullio Ferrara,2003-01-18,Pesche,23,M,18.3,3.0,1,1,105,85.6,A,0
+P05729,Giada Maspero,1981-11-21,Costano,44,F,32.2,8.0,0,0,161,103.0,E,0
+P00606,Giada Vespucci,1987-12-08,Sailetto,38,F,40.0,0.1,1,0,134,109.0,C,0
+P04276,Rosaria Marcacci,2004-04-13,Chiusi Della Verna,22,F,27.6,3.5,0,0,111,96.6,A,0
+P00301,Alessandro Corradi,1956-04-05,Fezzano,70,M,24.6,1.1,0,0,139,101.5,A,0
+P03420,Ezio Leopardi,1976-01-31,Marina Di Caulonia,50,M,29.6,0.4,1,0,118,83.9,E,0
+P05775,Tiziano Nugnes,1949-01-31,Marocchi,77,M,17.8,4.5,0,0,125,86.2,B,0
+P01060,Federico Procacci,1960-09-16,Orte Scalo,66,M,26.0,1.4,0,0,123,83.7,B,0
+P02565,Ludovica Giradello,1981-05-22,Vaprio D'Agogna,45,F,27.6,8.0,0,0,135,106.2,E,0
+P05988,Melissa Antonini,1953-10-19,Mondadizza,72,F,33.0,1.6,0,1,156,103.6,D,0
+P01069,Nedda Tafuri,2008-08-03,Passatempo,18,F,31.1,0.1,0,1,123,93.0,D,0
+P02524,Paride Trevisani,2005-05-21,Nova Levante,21,M,27.9,6.7,0,1,117,97.0,B,0
+P02205,Liliana Petralli,1958-05-12,Zenzalino,68,F,21.6,2.6,0,0,128,101.4,E,0
+P01243,Enzio Giusti,1977-11-13,Chiesa Di Rossano,48,M,26.3,1.2,0,0,142,83.8,B,0
+P00016,Martino Camicione,1976-01-22,Acquafondata,50,M,33.4,0.1,0,1,114,127.1,D,1
+P03120,Amanda Barillaro,1969-06-13,San Vittorino,57,F,16.2,0.7,1,0,127,99.5,C,0
+P05979,Amleto Gibilisco,1970-09-21,Calceranica Al Lago,56,M,32.4,1.3,0,0,111,98.8,D,1
+P04642,Elena Roth,1948-05-29,Pozzolatico,78,F,30.3,1.0,0,0,138,98.2,C,0
+P04754,Bettina Adinolfi,1995-01-03,Valli Mocenighe,31,F,20.8,0.1,1,1,124,85.5,A,0
+P00815,Piermaria Faranda,1956-01-12,Aiello Del Friuli,70,M,25.0,1.7,0,1,123,117.1,B,1
+P03067,Damiano Scaramucci,1963-10-30,Sciaves,62,M,23.5,1.8,0,0,125,95.3,D,0
+P05993,Stefani Ricciardi,1967-07-27,San Sebastiano Curone,59,F,27.0,0.7,1,0,127,102.3,E,0
+P05600,Viridiana Pacillo,1987-08-05,Casalattico,39,F,27.1,1.3,0,0,117,86.3,A,0
+P00959,Marissa Tarantino,1983-07-15,Cigliano,43,F,22.0,4.5,0,0,113,93.7,D,1
+P04893,Stefani Abatantuono,2005-03-02,Mongrassano,21,F,24.1,4.7,0,0,113,74.6,C,0
+P00225,Adelasia Marenzio,1989-06-19,Roccabruna,37,F,30.6,2.1,0,0,136,92.5,E,0
+P03354,Fausto Virgilio,1947-07-14,Fusignano,79,M,19.9,0.6,0,0,158,84.6,C,0
+P02485,Antonio Pezzali,1985-10-09,Roccascalegna,40,M,28.4,0.8,0,1,118,86.1,E,0
+P00562,Piero Costalonga,1977-05-30,Solero,49,M,26.8,1.9,0,1,125,88.9,E,1
+P03436,Renzo Satriani,1990-09-23,Grado,36,M,22.4,0.9,0,0,129,86.9,A,0
+P01693,Annetta Serlupi,1983-12-04,Tula,42,F,27.8,1.3,1,0,131,109.6,A,0
+P01045,Gioachino Benussi,1999-07-27,Querciola,27,M,27.2,1.7,0,0,149,103.1,C,0
+P03446,Giovanna Fagiani,1987-10-09,Moio Alcantara,38,F,24.9,8.1,0,0,133,92.0,A,0
+P04565,Rosa Callegari,1986-10-23,Capovalle,39,F,27.6,0.3,0,1,129,99.0,C,0
+P00954,Oreste Prodi,1959-02-13,Baricella,67,M,24.3,1.7,0,0,118,104.1,D,0
+P05976,Gloria Virgilio,1949-12-10,Cumignano Sul Naviglio,76,F,20.2,1.2,0,1,128,108.2,C,1
+P02735,Daria Benussi,2000-08-28,Pizzoli,26,F,29.7,0.8,0,0,130,81.8,E,0
+P05884,Barbara Armani,1999-10-15,Savuto Di Cleto,26,F,19.3,2.8,0,0,91,69.6,B,0
+P04735,Giada Boccherini,1981-11-30,Bolzano Vicentino,44,F,26.2,11.1,0,0,115,83.7,D,0
+P05778,Lucrezia Poerio,1964-03-09,Ospitale Di Cadore,62,F,29.1,7.9,1,0,126,114.3,B,0
+P01218,Martino Gucci,1958-07-23,Domanico,68,M,33.1,2.3,0,0,137,97.2,C,1
+P05254,Antonina Anastasi,1987-09-23,Rosolini,39,F,29.6,0.5,0,1,122,88.8,C,0
+P05511,Adele Cugia,1957-11-27,Postalesio,68,F,32.4,1.8,0,0,145,110.6,E,1
+P01527,Ippazio Avogadro,2000-04-14,Gessopalena,26,M,26.5,6.9,1,1,94,76.1,C,0
+P03987,Piersanti Argenti,2003-12-10,Cassano Spinola,22,M,26.9,1.1,1,0,107,80.9,E,0
+P05919,Elladio Fittipaldi,1950-10-27,Cresta,75,M,18.8,0.9,0,1,135,104.4,E,1
+P01300,Paoletta Vittadello,1961-06-13,Pila,65,F,24.9,1.8,0,0,137,101.9,D,0
+P05869,Pierpaolo Boccherini,1966-08-26,Camagna Monferrato,60,M,25.8,0.7,0,0,146,93.4,A,0
+P00160,Daniele Canevascini,1946-06-25,Vezzi Portio,80,M,26.3,1.9,0,0,141,114.4,D,1
+P04067,Federica Cicala,1982-09-10,Villo',44,F,27.6,0.2,1,1,114,101.7,B,0
+P00956,Marcantonio Mazzeo,1983-04-22,Portopalo Di Capo Passero,43,M,27.7,6.5,0,0,113,91.0,D,0
+P03791,Mariano Raimondi,1997-04-15,Torcegno,29,M,30.5,3.3,0,0,118,90.6,A,0
+P03234,Uberto Storladi,1972-09-12,Citta' Del Mare,54,M,25.7,0.1,0,1,125,86.3,B,0
+P02869,Rosalia Berrè,1995-11-06,Sorga',30,F,26.9,0.5,0,1,122,109.4,A,0
+P03777,Oreste Maspero,1954-11-29,Murci,71,M,29.6,1.6,0,0,152,112.1,A,0
+P04433,Gian Marrone,2000-10-03,Olivetta San Michele,25,M,29.9,0.7,0,0,109,71.8,B,0
+P04973,Valentina Cattaneo,1960-01-29,Quercioli,66,F,25.8,4.1,1,0,142,89.4,D,0
+P02961,Salvatore Barberini,1981-11-09,Santa Lucia Di Battipaglia,44,M,26.5,8.1,0,0,142,105.7,A,0
+P02200,Micheletto Tedesco,1985-06-16,Scicli,41,M,33.4,15.0,0,0,127,98.8,B,0
+P00098,Eva Vattimo,1968-07-03,Castelnuovo Bormida,58,F,25.0,3.9,0,1,126,100.0,D,0
+P05834,Amalia Lopresti,1992-01-16,Verucchio,34,F,30.3,1.9,1,0,118,90.1,C,0
+P02557,Adriano Vespa,1954-09-10,Valstrona,72,M,29.1,1.3,0,0,149,99.6,C,0
+P03183,Mario Jovinelli,2004-10-29,Casale Sul Sile,21,M,26.1,6.7,1,0,120,83.4,C,0
+P00253,Paloma Sabatini,1988-08-25,La California,38,F,34.3,2.3,0,0,125,107.9,B,0
+P03923,Silvestro Righi,1982-08-05,Santa Maria A Vico,44,M,27.8,1.6,1,0,143,88.0,B,0
+P04199,Giovanna Colletti,1993-02-17,San Michele Mondovi',33,F,23.0,1.5,1,1,111,100.9,D,0
+P01445,Maria Iadanza,2006-04-06,Macugnaga,20,F,17.9,1.1,0,0,125,81.7,D,0
+P05539,Luigina Filippini,1945-10-05,Marocchi,80,F,32.4,4.1,0,0,128,132.2,C,1
+P01648,Morena Bembo,1947-01-23,Capriano,79,F,31.9,10.8,0,0,143,107.5,C,0
+P04682,Lilla Stein,1965-08-14,Vicomoscano,61,F,25.9,1.5,0,1,138,93.0,E,0
+P04723,Gaetano Spinelli,2005-04-11,Montalto Delle Marche,21,M,30.4,2.4,0,1,116,107.9,E,0
+P03991,Alessandro Salata,1960-10-06,Gazzada Schianno,65,M,29.8,8.6,0,1,130,97.9,E,0
+P01696,Diana Callegari,1979-08-08,Badia Polesine,47,F,24.6,6.1,0,0,122,90.8,A,0
+P03191,Antonia Ammaniti,1966-04-06,Villanova Di Bagnacavallo,60,F,29.3,0.6,0,0,124,95.8,A,0
+P04499,Bianca Virgilio,1986-10-28,Calamonaci,39,F,23.0,1.6,0,0,143,91.8,E,0
+P01154,Riccardo Bellò,1989-01-08,Stignano,37,M,34.4,12.4,0,0,117,97.4,C,0
+P02255,Aldo Tolentino,1965-05-30,Pratovecchio Stia,61,M,21.4,0.3,0,1,133,88.7,E,1
+P01682,Simonetta Trincavelli,2006-08-14,Flains,20,F,20.0,5.8,0,0,128,80.9,E,0
+P03170,Lolita Simeoni,1969-08-03,Cavaglia',57,F,34.1,6.1,0,0,132,111.3,C,0
+P02056,Bianca Pininfarina,1962-02-21,Concerviano,64,F,29.9,8.2,1,1,125,115.4,A,1
+P04090,Pellegrino Fibonacci,1962-05-16,Ramate,64,M,31.0,3.5,0,0,138,112.4,D,0
+P05853,Lisa Boldù,1964-12-26,Muggiano,61,F,24.3,3.7,0,0,133,95.1,B,0
+P03108,Pierluigi Sanudo,1951-10-14,Bardonecchia,74,M,28.6,0.3,0,0,147,98.5,E,1
+P04548,Giosuè Fogazzaro,1975-07-08,Matigge,51,M,24.3,0.8,0,0,122,85.8,C,0
+P03723,Erika Oscuro,1946-05-26,Vallesella,80,F,27.5,1.6,0,0,140,112.7,D,0
+P05423,Lara Niggli,1993-01-15,Sorbolo,33,F,21.4,1.9,1,0,125,85.3,D,0
+P02049,Loredana Gibilisco,1967-09-29,Barrea,59,F,25.7,4.3,0,0,136,101.9,D,0
+P04976,Victoria Raurica,1971-12-18,Barzio,54,F,29.1,2.1,0,0,124,109.2,E,0
+P03643,Leopoldo Caffarelli,1978-08-16,Borgo Carillia,48,M,31.7,0.7,0,1,133,99.6,E,1
+P05914,Sabatino Iadanza,1974-10-19,Nugola Nuova,51,M,29.6,5.5,0,0,118,94.3,E,1
+P00623,Aurora Caboto,1981-11-27,Carbonare,44,F,24.2,7.7,1,0,131,88.9,B,0
+P00262,Mario Mezzetta,1989-10-14,Dorno,36,M,25.6,3.6,0,0,120,95.0,E,0
+P05730,Elisa Basadonna,1956-06-16,Arco Felice,70,F,29.6,3.1,0,1,152,103.9,B,1
+P03369,Matilda Cainero,2001-02-11,Borca Di Cadore,25,F,27.6,3.5,0,0,128,97.5,E,0
+P04061,Ivan Tirabassi,2007-03-29,Fratta Terme,19,M,29.8,0.0,0,0,96,89.2,B,0
+P05534,Virginia Sraffa,2003-06-16,Cosio Stazione,23,F,29.3,10.1,1,0,124,93.6,A,0
+P01802,Ninetta Sibilia,1980-01-08,Castel Di Lama,46,F,24.3,8.1,0,0,115,85.8,A,0
+P04736,Massimo Badoglio,2005-07-03,Rigoni,21,M,29.2,1.6,0,1,102,94.3,D,0
+P05986,Atenulf Liguori,1951-04-12,Laspezia,75,M,28.4,2.0,1,0,134,94.6,A,1
+P02385,Lolita Tremonti,1953-03-19,Balze,73,F,21.3,0.1,0,0,123,103.2,C,0
+P01959,Roberta Trevisani,1996-11-02,Prezzo,29,F,32.0,10.9,0,0,120,87.5,D,0
+P02976,Sandra Udinesi,1976-10-11,Mezzomonreale Boccadifalco,49,F,19.5,0.6,1,0,122,89.0,C,1
+P00488,Amleto Bombieri,1960-06-30,Casacorba,66,M,28.9,4.8,1,0,120,104.8,B,0
+P01843,Federica Chindamo,1955-08-31,Montano Lucino,71,F,24.9,1.0,0,0,131,104.5,C,0
+P01734,Amedeo Faggiani,1954-01-17,Gravellona Toce,72,M,26.9,4.5,0,0,127,99.7,B,1
+P02911,Fiorino Comolli,2003-01-12,Bibola,23,M,19.5,5.1,0,1,115,82.4,B,0
+P03219,Sole Stucchi,1980-12-09,San Lorenzo In Campo,45,F,25.6,0.2,0,0,138,97.5,E,1
+P00146,Marina Mercadante,2005-12-29,Drubiaglio,20,F,26.1,5.7,0,0,118,74.3,D,0
+P05630,Eugenia Tron,1979-09-14,Bellaria Igea Marina,47,F,27.9,5.2,0,1,97,90.1,B,0
+P01986,Giorgia Carnera,1956-05-02,Roccapipirozzi,70,F,19.5,3.2,0,0,158,98.5,D,0
+P01369,Daniele Civaschi,1968-10-18,Piubega,57,M,32.3,0.6,0,0,148,113.2,A,0
+P02811,Natalia Gentili,1990-05-12,Isolabella,36,F,32.6,6.8,0,0,132,100.8,D,0
+P00659,Pietro Spanevello,1990-08-29,Fuipiano Valle Imagna,36,M,30.8,3.6,1,1,137,88.0,B,1
+P01794,Gianluca Ioppi,1978-02-06,Tufino,48,M,21.5,1.9,0,0,146,72.5,C,0
+P02511,Paolo Lamborghini,1955-05-06,Bivio Cascinare,71,M,33.9,1.4,0,0,125,97.8,C,0
+P03397,Vanessa Boitani,1948-01-07,Corniglio,78,F,23.4,5.4,0,1,135,85.7,E,1
+P04282,Paolo Capuana,1998-04-27,Santa Vittoria Di Gualtieri,28,M,27.5,1.3,0,1,129,99.9,C,0
+P01147,Mattia Costanzi,1960-05-06,Santo Padre Delle Perriere,66,M,26.1,0.4,0,0,133,104.6,C,0
+P03272,Flavia Ceschi,1967-06-19,Roseto Degli Abruzzi,59,F,21.9,4.9,0,0,111,101.0,B,0
+P00608,Orazio Turchetta,1948-05-13,Marozzo,78,M,30.6,0.9,1,0,132,121.8,E,1
+P03582,Eliana Nicolucci,1995-09-24,Ostia Parmense,31,F,33.5,0.6,1,0,111,96.2,C,0
+P01930,Pierangelo Satriani,2002-10-26,Nasca,23,M,26.2,0.5,0,1,103,106.6,A,1
+P00197,Pasqual Mondaini,2000-12-16,Madonna Della Scala,25,M,32.5,8.4,1,0,104,96.1,C,0
+P02931,Giacobbe Forza,1966-04-02,Configni,60,M,28.8,4.9,0,0,128,97.0,C,0
+P02327,Gianmarco Papetti,1998-08-12,Marane,28,M,28.0,0.4,0,0,125,78.1,C,0
+P04389,Emma Ficino,1971-01-07,Vittuone,55,F,25.2,5.0,0,0,120,100.4,E,0
+P00766,Maria Lucarelli,1970-01-06,Aosta,56,F,24.3,5.1,0,0,139,80.9,E,0
+P04496,Bianca Monduzzi,1987-11-11,Balsorano Nuovo,38,F,32.1,2.2,0,0,102,95.7,C,0
+P04218,Marisa Virgilio,1974-11-09,Cavoli,51,F,19.2,1.0,0,0,122,73.5,E,0
+P03255,Amleto Ferragni,1997-03-13,Campi Bisenzio,29,M,16.0,6.2,1,0,114,79.4,C,0
+P00202,Marco Babato,1977-04-09,Cavallirio,49,M,35.2,0.5,0,1,143,101.5,A,0
+P03510,Leone Marenzio,1947-08-01,Passo Del Bocco,79,M,25.7,5.9,1,1,117,88.3,E,0
+P04931,Germana Comboni,1962-07-11,Colle San Magno,64,F,27.3,0.9,1,0,138,115.8,C,1
+P05535,Luisa Sabatini,1966-07-18,Soddi',60,F,24.5,0.4,0,0,144,95.6,A,0
+P01733,Valeria Peranda,1954-01-20,Badia Calavena,72,F,20.5,1.6,0,1,154,92.5,E,1
+P02777,Tonia Antonetti,1952-09-08,Fonterutoli,74,F,23.3,0.4,0,0,142,90.7,D,1
+P01707,Francesco Surian,1951-09-10,Azzano San Paolo,75,M,29.8,6.7,1,0,122,89.8,A,1
+P05172,Alberico Battelli,1954-02-14,Kardaun,72,M,23.3,0.2,0,0,154,88.3,A,0
+P05249,Coriolano Borgia,1973-04-14,Pulfero,53,M,26.8,0.2,0,0,130,109.1,A,1
+P05757,Amanda Sforza,1974-12-05,Mestriago,51,F,27.3,2.6,0,1,133,103.0,B,0
+P03474,Giancarlo Sabatini,1990-02-07,Montebello Ionico,36,M,27.4,0.7,0,0,123,87.2,B,1
+P00854,Giuliana Micheletti,1989-10-22,Torre Canavese,36,F,24.8,1.8,0,0,117,94.1,D,0
+P05685,Fausto Mengolo,1980-10-16,Formigosa,45,M,30.7,0.9,0,0,126,82.3,E,1
+P04737,Ramona Gianvecchio,1985-04-12,San Fiorano,41,F,30.0,7.5,1,1,133,99.7,C,0
+P04097,Carmelo Tornatore,1999-05-26,Maccacari,27,M,18.2,0.4,1,1,125,93.3,B,0
+P02160,Marco Onio,1958-08-21,Terradura,68,M,30.7,2.3,0,1,150,99.8,D,1
+P00698,Damiano Turchetta,2005-03-06,Cortale,21,M,27.0,2.0,0,1,97,79.4,C,0
+P05936,Aldo Viola,1997-11-21,Ripapersico,28,M,25.5,4.4,1,0,121,81.7,B,0
+P02999,Marina Pedersoli,1967-05-27,Tizzano Val Parma,59,F,29.3,6.7,1,0,130,95.9,A,0
+P03696,Martino Depero,1989-04-09,Garessio Borgo Ponte,37,M,24.9,8.7,0,1,127,94.5,E,0
+P01636,Roberto Schiaparelli,1998-01-07,Burolo,28,M,24.4,0.7,1,0,101,82.0,C,0
+P03457,Olga Cutuli,2007-05-24,Rizzolo,19,F,16.0,1.0,0,0,131,65.0,E,0
+P03581,Geronimo Filippini,1960-02-01,Codevilla,66,M,20.6,1.3,1,1,112,88.2,B,0
+P01291,Liliana Cossiga,1954-02-22,Filadelfia,72,F,27.7,0.5,0,0,145,95.0,E,0
+P04659,Bernardo Olivetti,1977-05-31,Salsominore,49,M,33.7,0.1,1,0,117,111.9,A,1
+P05616,Severino Liverotti,1958-03-08,Vasanello,68,M,27.6,5.2,0,0,138,100.1,A,0
+P01853,Veronica Toldo,1998-08-22,Matzaccara,28,F,21.2,1.3,0,0,118,88.5,D,0
+P05232,Vincentio Galilei,1990-09-10,Cascine Maggio,36,M,24.3,5.9,0,1,115,93.6,D,0
+P03763,Margherita Pizzetti,1968-01-31,Bazzano Parmense,58,F,31.7,8.9,0,1,131,89.0,D,0
+P03304,Federico Barillaro,2001-07-11,Bibiana,25,M,22.6,3.0,0,0,127,66.0,B,0
+P05896,Margherita Renier,2006-11-19,Villaggio Boncore,19,F,26.1,0.3,0,0,109,99.0,B,0
+P05727,Imelda Pepe,2002-09-01,San Martino Di Taurianova,24,F,47.8,3.4,0,0,131,115.6,D,0
+P03743,Gustavo Vigliotti,1981-08-04,Lerca,45,M,30.7,4.0,0,0,132,98.1,D,0
+P03445,Ernesto Ungaretti,1964-05-01,Albonese,62,M,26.2,3.9,0,1,124,94.2,A,1
+P01998,Silvio Contarini,1991-07-18,Barlassina,35,M,21.5,0.1,1,0,114,84.0,B,0
+P00663,Matteo Riccati,1996-08-29,Balsorano Nuovo,30,M,32.5,2.2,1,1,107,101.7,A,0
+P04779,Maura Veltroni,2004-09-22,Scarlino Stazione,22,F,33.3,2.4,0,0,135,99.2,D,0
+P05353,Nicola Cugia,1979-09-13,Parmezzana Calzana,47,M,19.3,0.0,0,0,97,87.3,C,0
+P03748,Romina Manacorda,1951-04-13,Bolzaneto,75,F,20.4,1.6,0,1,103,103.5,E,0
+P04413,Lando Condoleo,1962-12-08,Songavazzo,63,M,33.9,4.5,0,0,142,121.7,A,1
+P04744,Lidia Trebbi,1965-02-21,Scafati,61,F,31.9,1.2,0,0,132,106.9,A,1
+P05530,Donna Ficino,1971-08-23,Capo Ferro,55,F,24.0,1.1,0,0,143,93.2,A,0
+P05575,Fiamma Argentero,1975-04-09,Comina (La),51,F,26.4,1.0,0,0,136,97.4,C,0
+P00709,Enzo Rosselli,1979-05-25,Leonacco,47,M,33.3,0.5,0,0,127,91.8,B,0
+P01282,Serena Leblanc,1983-11-07,Palazzo Canavese,42,F,25.9,0.8,0,0,124,83.8,A,0
+P05068,Graziano Ortese,2006-06-01,Antegnate,20,M,29.0,7.1,0,0,138,100.5,A,0
+P02675,Benedetto Marenzio,1971-03-07,Vottignasco,55,M,37.1,2.0,0,0,125,122.7,C,0
+P04029,Gianpietro Forza,1981-12-14,Vivaro,44,M,28.4,2.7,0,1,137,95.0,A,0
+P01306,Alessandra Maffei,1992-06-10,Gottasecca,34,F,20.2,0.6,0,0,99,82.7,B,0
+P05496,Simone Opizzi,1960-09-16,Clusone,66,M,20.9,2.7,0,1,123,92.3,E,0
+P05504,Roberto Curiel,1975-05-13,Gangi,51,M,21.3,0.3,0,0,126,76.3,E,0
+P02237,Liberto Corradi,1991-09-17,Bagni Di Tivol,35,M,35.9,3.4,0,0,105,103.0,E,1
+P03302,Natalia Salieri,1971-05-31,Ordona,55,F,35.3,2.2,0,1,132,111.3,A,1
+P05592,Melissa Cassarà,1974-12-30,Policastro Bussentino,51,F,33.1,0.2,0,1,145,104.0,A,1
+P02038,Orlando Condoleo,1945-11-25,Santa Maria A Monte,80,M,24.4,5.1,0,0,138,112.7,E,1
+P01529,Geronimo Trapani,1951-02-14,San Giuliano Trentapiedi,75,M,26.5,12.5,0,0,125,103.1,C,0
+P01663,Sole Ruffini,1974-08-22,Stramentizzo Nuovo,52,F,34.4,5.4,0,0,113,114.1,A,0
+P05450,Giorgia Interminelli,1992-07-11,Visnadello,34,F,23.8,0.2,0,1,109,89.5,C,0
+P05921,Augusto Gigli,1957-12-26,Poggiofiorito,68,M,28.1,0.3,0,0,129,96.7,A,0
+P05943,Nanni Nievo,1967-06-29,Flero,59,M,27.0,0.6,1,0,124,110.2,B,1
+P03627,Fernanda Rastelli,1993-10-28,Valconasso,32,F,21.2,4.4,0,0,115,85.7,D,0
+P05739,Ettore Marconi,2006-04-01,Klausen,20,M,26.9,1.6,0,0,109,83.2,D,0
+P05147,Etta Roth,1956-06-04,Salto,70,F,28.6,3.0,1,0,147,92.4,C,0
+P04891,Mirco Vercelloni,1972-09-01,Belvedere Di Aquileia,54,M,20.8,8.7,0,0,139,77.1,D,0
+P02693,Paloma Mocenigo,1982-02-15,Resana,44,F,21.8,0.9,1,0,131,87.6,C,0
+P03060,Antonella Morricone,1993-04-27,San Matteo Della Decima,33,F,31.5,1.6,0,0,135,83.3,E,0
+P01597,Bartolomeo Scarpetta,1963-08-12,Poggio Filippo,63,M,26.7,0.4,0,0,114,103.8,A,1
+P02729,Serena Pasolini,1979-08-11,Malcantone,47,F,22.9,1.0,0,0,130,85.9,D,1
+P02625,Coriolano Cavanna,1972-09-16,Fellette Di Romano D'Ezzellino,54,M,25.2,3.4,0,1,140,93.3,E,1
+P03157,Gianpietro Spallanzani,1946-03-08,Rebibbia,80,M,24.1,7.9,0,0,136,115.9,D,1
+P03314,Guido Bernardini,1983-01-15,Filci,43,M,26.7,1.1,0,1,102,104.9,D,1
+P01722,Vanessa Petrassi,1967-01-19,Monte Magre',59,F,32.6,6.2,0,0,130,117.8,E,0
+P05279,Matilda Mazzi,1996-01-27,Quadrivio,30,F,26.2,1.2,0,0,114,76.5,C,0
+P01059,Vittorio Baresi,1989-02-06,Ponteranica,37,M,19.9,9.2,0,0,102,87.3,D,0
+P04636,Alfio Giacconi,1957-03-06,Stornara,69,M,37.6,4.5,0,1,136,114.6,E,1
+P03242,Annetta Buonauro,1952-05-17,Torre Cerchiar,74,F,22.9,4.7,0,0,129,97.2,E,1
+P01678,Sante Bignardi,1950-04-09,Folignano,76,M,22.1,0.7,0,0,132,89.3,E,0
+P01757,Lucio Gulotta,1970-09-04,Bucita,56,M,33.9,0.8,0,0,143,91.9,E,1
+P04191,Melina Ariasso,1986-12-12,Margen,39,F,26.9,2.6,0,0,137,85.6,C,0
+P05116,Guarino Foconi,1992-05-07,Specchiarica,34,M,16.6,0.7,0,1,131,65.0,A,0
+P00563,Pierluigi Calarco,1996-12-10,Isoverde,29,M,34.4,0.4,1,0,114,89.1,C,0
+P02790,Veronica Calbo,1948-10-06,Pescorocchiano,77,F,27.2,2.0,1,0,153,91.1,D,0
+P00863,Silvia Bettoni,1960-05-28,Montal,66,F,16.0,2.1,0,1,116,80.3,A,0
+P01484,Antonio Beffa,1982-03-29,Gizzeria Lido,44,M,33.4,4.1,0,0,136,115.7,C,1
+P05134,Carla Abba,1962-10-07,Palazzo Pignano,63,F,35.2,0.3,1,1,137,99.4,B,1
+P00206,Roberta Rizzo,1960-05-12,Santuario Di Savona,66,F,21.2,1.5,0,1,111,91.5,C,0
+P04488,Renata Ariasso,1966-10-26,Baggiovara,59,F,23.0,6.1,0,1,110,85.0,D,0
+P00870,Mirko Orengo,1979-12-07,Penna Sant'Andrea,46,M,25.3,0.0,0,0,131,81.5,D,0
+P04493,Lisa Boccaccio,1991-10-11,Salvarosa,34,F,25.9,0.4,0,0,98,78.2,B,0
+P00502,Rosalia Pasolini,1948-08-27,Cesara,78,F,24.4,0.1,0,0,154,93.2,A,1
+P01028,Severino Mercantini,1972-11-28,Ulmi,53,M,21.7,0.6,0,1,119,96.0,E,0
+P03840,Rosina Salvemini,1954-01-14,Caltabellotta,72,F,30.0,15.0,0,1,141,125.0,C,1
+P02690,Ermenegildo Udinese,1963-07-27,Altarello,63,M,25.5,4.6,0,0,133,91.5,C,0
+P05581,Nicoletta Barracco,1956-02-11,Dosso,70,F,33.9,4.1,0,0,132,116.0,C,1
+P05056,Fredo Comboni,1949-03-28,Santa Maria In Duno,77,M,22.6,2.1,0,0,138,108.9,C,0
+P01570,Zaira Casagrande,2003-06-27,Marina Di Ginosa,23,F,34.2,4.9,0,1,106,72.7,E,0
+P02773,Giacomo Fischetti,1964-04-25,Montiggl,62,M,28.1,3.1,0,0,138,113.7,E,0
+P02731,Venancio Basadonna,1976-07-06,Casalini,50,M,26.0,2.3,0,0,139,100.4,A,1
+P00804,Ivo Gioberti,1962-03-31,Castel Condino,64,M,24.9,0.7,0,0,137,100.9,B,0
+P05847,Azeglio Druso,1966-09-13,Pezzan,60,M,25.2,1.0,0,0,128,103.5,D,0
+P03645,Melissa Schiaparelli,1975-03-29,San Giovanni D'Asso,51,F,26.1,6.4,0,0,125,100.4,A,0
+P02454,Tina Druso,1956-01-30,Pieve Fissiraga,70,F,29.4,6.1,1,0,132,107.6,D,0
+P04598,Eva Camuccini,1948-08-13,Piuma,78,F,29.3,3.8,0,1,151,110.6,A,1
+P03104,Benedetto Anichini,1964-04-12,Colli A Volturno,62,M,25.3,0.8,1,0,138,107.8,D,1
+P04875,Fiorino Pisacane,1966-12-16,Aquino,59,M,19.7,1.2,1,0,134,101.2,B,0
+P00200,Simonetta Tommaseo,1985-07-05,Conca Dei Marini,41,F,27.8,8.3,0,0,123,108.9,E,1
+P03099,Elladio Farinelli,1990-11-14,Perano,35,M,28.8,4.7,0,0,121,93.6,C,0
+P02278,Giustino Pacomio,1984-10-23,Combai,41,M,29.8,5.6,0,0,117,100.7,B,0
+P03561,Valerio Morucci,1998-02-07,Vanga,28,M,30.7,3.7,0,0,120,102.5,D,0
+P04474,Ruggero Scalera,1955-09-09,Coreggia,71,M,23.5,1.4,1,1,132,102.8,E,1
+P04514,Sandro Bombieri,1951-05-11,Castiglione D'Orcia,75,M,28.4,5.8,0,1,136,104.2,B,0
+P05794,Cipriano Maderna,1982-12-05,Ponte Nova,43,M,27.2,10.3,0,0,130,102.4,D,0
+P00391,Benvenuto Crisafulli,1997-05-23,Santa Lucia Del Mela,29,M,24.1,5.5,0,1,138,88.1,C,0
+P05618,Gianluca Busoni,1951-11-14,Ulassai,74,M,31.6,0.5,0,0,152,100.1,E,0
+P05258,Nicoletta Manolesso,1966-01-04,Marozzo,60,F,22.5,2.1,0,0,125,124.0,B,0
+P01495,Annamaria Petrocelli,1980-11-28,Manoppello,45,F,25.2,0.1,0,1,118,83.9,B,0
+P02695,Serena Ricci,1984-10-30,Cavate,41,F,31.6,0.2,0,0,122,93.4,B,0
+P02027,Saverio Sraffa,1949-04-25,Frasso Sabino,77,M,30.1,2.7,1,0,155,106.8,C,1
+P05248,Licia Bernini,1951-10-23,Garna,74,F,31.4,7.4,0,0,121,114.5,B,0
+P05463,Annamaria Respighi,1989-12-13,Grisignano Di Zocco,36,F,30.5,1.3,0,1,127,96.8,A,0
+P02568,Graziano Pontecorvo,1985-08-06,Castelbello Ciardes,41,M,27.4,3.6,0,0,106,108.3,C,1
+P00064,Giuseppe Tasca,1983-02-03,Pollena Trocchia,43,M,26.5,0.4,1,0,123,100.3,C,1
+P03884,Annibale Rossini,1998-04-25,Sarconi,28,M,18.8,1.1,1,0,110,75.3,C,0
+P02062,Rolando Morrocco,1998-11-11,Ossona,27,M,25.2,1.0,0,1,124,75.0,C,1
+P05276,Giancarlo Perini,1993-06-02,Lacco,33,M,37.7,2.5,0,0,132,106.5,D,1
+P00492,Ciro Ruffini,1961-09-23,Miggiano,65,M,34.8,1.7,0,1,156,124.6,E,1
+P00379,Leopoldo Bresciani,1992-05-10,Frattocchie,34,M,26.8,1.2,0,0,90,94.8,C,0
+P04859,Sophia Panicucci,1961-05-16,San Vito Al Torre,65,F,32.8,0.1,0,1,128,111.3,C,1
+P03993,Gaspare Majorana,1991-03-30,Arizzano,35,M,25.3,6.7,0,0,139,83.8,C,1
+P04887,Barbara Zanazzo,1975-02-07,Marinella Di Selinunte,51,F,30.2,5.4,0,1,141,101.8,D,0
+P01076,Vincenza Fantozzi,1964-01-04,Vigellio,62,F,26.0,0.3,0,1,149,77.5,D,0
+P00878,Sonia Ligorio,1974-04-06,Serle,52,F,20.2,0.2,0,0,122,101.9,E,0
+P00337,Agostino Traetta,1989-04-11,Greggio,37,M,27.7,2.9,0,1,128,102.9,E,0
+P01016,Ilaria Sobrero,1984-05-22,Sant'Antonio Di Canelli,42,F,27.0,1.9,0,1,111,77.4,A,0
+P01275,Elladio Bossi,1964-08-16,Agliano Terme,62,M,24.2,0.6,0,1,128,80.1,C,0
+P03798,Annamaria Falier,2008-05-05,Otranto,18,F,26.8,0.0,0,1,99,74.1,E,0
+P04551,Antonietta Scalfaro,2006-02-05,Cinte Tesino,20,F,33.0,4.2,0,1,136,93.2,E,0
+P03342,Osvaldo Palombi,2001-10-15,Baressa,24,M,24.7,0.3,0,0,105,101.9,E,0
+P04911,Francesca Gullotta,1975-01-27,Settimello,51,F,26.8,0.7,0,1,143,73.9,B,0
+P00995,Milena Tommaseo,1969-03-04,Monte Isola,57,F,35.2,2.6,0,1,147,113.4,E,1
+P01981,Stefania Callegaro,1968-12-09,Colonno,57,F,23.2,3.5,0,0,134,86.3,A,0
+P04297,Ida Righi,1960-07-14,Torlino Vimercati,66,F,31.5,3.4,0,1,139,119.6,D,0
+P00161,Ermanno Lanfranchi,1967-01-23,Amelia,59,M,30.1,0.6,0,0,151,111.9,C,1
+P05675,Lisa Perozzo,1991-08-09,Viadanica,35,F,21.5,1.2,0,0,121,98.6,A,0
+P04798,Camillo Morpurgo,1984-09-30,Glorie,42,M,28.2,1.2,0,0,136,105.6,D,0
+P01500,Eva Sinisi,1975-04-13,Caltana,51,F,24.7,2.4,1,1,104,97.2,D,1
+P03843,Calcedonio Altera,1989-10-17,San Giacomo Delle Segnate,36,M,28.3,0.5,1,0,123,91.8,C,1
+P05225,Edoardo Gozzano,1977-02-06,Varano Borghi,49,M,23.4,1.4,1,1,125,97.1,D,1
+P02613,Ramona Casarin,1971-08-01,Desulo,55,F,18.8,2.3,0,1,131,84.4,E,0
+P03461,Ennio Satta,1949-05-16,Barazzetto,77,M,24.4,3.8,0,0,132,95.0,B,0
+P01021,Lara Iannucci,2003-10-15,Montespluga,22,F,25.1,1.0,0,0,126,79.2,B,0
+P03073,Ilaria Tagliafierro,1959-03-27,Sclaunicco,67,F,32.3,1.3,0,0,156,102.8,C,1
+P03943,Dionigi Mantegna,1947-05-21,Vescovana,79,M,19.7,1.9,0,0,138,97.6,A,1
+P01585,Sabatino Ortolani,1988-08-28,Castellino,38,M,33.2,0.3,0,0,115,106.7,A,0
+P01955,Fabio Bocelli,1983-01-11,Doganella,43,M,21.8,4.0,1,0,119,75.4,E,0
+P03152,Alberto Caracciolo,1995-11-24,Villaperuccio,30,M,34.4,2.9,0,0,139,100.9,D,0
+P00034,Fausto Udinese,1953-08-03,Piazzolo,73,M,29.9,3.6,0,1,130,109.0,A,1
+P04014,Margherita Giannetti,1991-01-19,Coverciano,35,F,21.8,1.0,0,1,120,75.5,B,0
+P00775,Dina Filippelli,1949-02-13,Pracchia,77,F,28.0,6.4,0,1,167,115.1,D,0
+P02556,Roberta Gianinazzi,1958-03-29,Buja,68,F,32.1,0.5,0,0,155,116.3,A,1
+P01478,Luigina Franscini,1994-06-30,Lu Muvruneddu,32,F,20.9,1.0,0,1,118,70.9,C,0
+P05486,Nicolò Gullotta,1995-07-27,Illorai,31,M,29.7,5.8,0,0,116,75.4,A,0
+P01363,Ottone Scaramucci,1996-07-12,Pombia,30,M,27.6,1.1,0,1,116,88.6,A,0
+P02612,Fabio Leopardi,1997-09-03,Cetraro,29,M,28.0,9.2,0,1,110,108.5,C,0
+P02824,Antonia Volterra,1968-12-27,Bruna,57,F,20.4,2.8,0,0,104,76.9,D,0
+P02041,Toni Seddio,1951-12-03,Arcugnano,74,M,24.4,7.5,1,0,115,89.8,E,0
+P00241,Oreste Tagliafierro,1972-02-03,Giovi D'Arezzo,54,M,35.7,0.2,1,0,140,117.2,C,1
+P02061,Patrizia Foconi,1972-12-18,Torre Calzolari,53,F,18.6,2.2,0,0,115,85.2,D,0
+P02363,Paride Fischetti,2000-12-31,Asuni,25,M,24.9,1.9,0,0,101,105.7,E,0
+P00600,Sante Pigafetta,1969-11-03,Grumo Nevano,56,M,25.6,2.0,0,0,132,101.5,D,0
+P02435,Telemaco Filippelli,1972-11-11,Braglia,53,M,25.7,0.6,0,0,125,99.1,D,0
+P05393,Santino Siffredi,1957-01-13,Sciarborasca,69,M,29.0,1.0,0,0,150,94.9,C,0
+P02888,Liliana Battelli,1998-12-02,Brugnato,27,F,17.9,0.3,0,1,128,75.6,B,0
+P00646,Pasquale Bonanno,1979-02-13,Sala Biellese,47,M,23.8,5.0,0,0,116,78.8,E,0
+P03890,Beatrice Fischetti,1973-04-01,Soleto,53,F,30.6,2.0,0,0,146,101.7,B,0
+P03556,Carla Chechi,1963-11-03,Scaffa,62,F,30.6,0.2,0,0,140,95.8,E,0
+P03202,Nicola Zichichi,1960-07-17,Campo Di Fano,66,M,23.7,0.5,1,1,134,94.6,B,0
+P01528,Stefani Manzoni,2007-03-30,Pianezza,19,F,20.8,0.7,0,0,126,95.6,E,0
+P01267,Amedeo Errani,1985-09-03,Quarto,41,M,24.3,0.1,0,1,123,84.0,C,0
+P01899,Arturo Piovani,1986-11-06,Valsecca,39,M,22.2,0.2,1,0,127,83.6,E,0
+P04658,Guarino Sollima,1982-03-21,Monterado,44,M,27.8,2.3,0,0,129,89.3,A,0
+P03005,Natalia Mazzanti,1985-04-30,St.Vigi,41,F,31.5,0.5,1,0,143,121.7,B,0
+P02734,Michela Galvani,1980-08-13,Millesimo,46,F,27.1,2.4,0,0,105,95.6,B,0
+P00189,Goffredo Cuomo,1990-09-04,Pessione,36,M,25.0,3.6,0,0,118,96.2,D,0
+P01806,Amico Tebaldi,2008-03-15,Pieranica,18,M,31.6,10.5,1,0,141,93.7,E,0
+P00975,Elvira Orlando,1994-02-23,Pallerone,32,F,24.4,2.2,0,0,130,83.8,D,0
+P02747,Santino Zacchia,1957-11-19,Balzola,68,M,22.2,2.2,1,0,122,89.0,A,0
+P02047,Fabrizia Vigliotti,1975-04-03,Palse,51,F,16.0,3.3,1,0,119,82.4,C,0
+P02558,Licia Farnese,2007-08-08,Zocca,19,F,28.4,5.2,0,1,93,79.9,A,0
+P01082,Barbara Piccio,1948-04-30,Piedimulera,78,F,27.7,0.7,0,0,133,105.5,A,1
+P00474,Simone Barese,1968-12-11,Dal Pozzo,57,M,28.9,5.3,0,0,143,100.2,E,0
+P02904,Renata Silvestri,1967-05-01,Millesimo,59,F,29.2,1.4,0,0,133,116.8,A,1
+P04843,Giacobbe Gaito,1996-02-17,San Vittorino,30,M,24.3,0.6,0,0,122,92.8,D,0
+P04117,Giorgia Cilibrasi,2000-05-30,Fertilia,26,F,21.8,2.0,0,0,93,77.6,D,0
+P03385,Tiziana Monte,1993-09-29,Chiaramonte Gulfi,33,F,26.2,1.0,0,0,97,98.4,A,0
+P04555,Adriana Gregori,1995-07-14,Bricco Favole,31,F,25.4,0.1,0,1,121,109.6,B,1
+P01184,Gastone Montalcini,1982-06-04,Spera,44,M,29.9,0.4,0,0,129,108.6,B,0
+P05051,Rosalia Fabrizi,1999-04-25,Castelvisconti,27,F,29.8,7.5,0,0,121,87.6,C,0
+P05311,Jacopo Cusano,1949-11-20,Alife,76,M,31.1,3.1,0,0,125,107.1,E,0
+P02433,Evangelista Jacuzzi,1988-12-04,Gramignazzo,37,F,22.6,1.4,0,1,115,95.3,A,0
+P05611,Ramona Ponti,1993-08-23,Galleane,33,F,26.2,7.1,0,0,138,102.4,C,0
+P02391,Amanda Tonisto,1996-03-12,Soiano Del Lago,30,F,33.6,2.5,1,0,120,98.9,E,0
+P00769,Lodovico Scotto,1985-05-01,Maggio,41,M,25.2,4.9,1,0,110,86.3,B,0
+P01685,Victoria Oliboni,1976-06-26,Battipaglia,50,F,25.9,0.5,0,1,143,82.5,C,0
+P00130,Arturo Benigni,1973-03-27,Corchiano,53,M,28.2,0.4,0,0,151,116.7,D,0
+P02919,Rosalia Zanazzo,1985-08-12,Lanzetta,41,F,29.2,7.1,0,0,95,88.1,D,0
+P03171,Giuseppina Simeoni,1949-08-17,Santomenna,77,F,32.9,0.2,0,0,172,93.7,B,1
+P03444,Mariana Dellucci,1951-03-30,Aurelia Di Civitavecchia,75,F,26.4,0.6,0,0,134,81.4,B,1
+P05578,Marisa Lovato,1980-03-18,Pineta Di Arenzano,46,F,29.4,5.7,0,0,113,106.1,A,1
+P04426,Nedda Soranzo,1992-07-18,Rotella,34,F,25.5,0.3,1,1,125,65.0,E,0
+P05334,Barbara Bondumier,1970-05-30,Serricella,56,F,26.8,4.2,0,0,140,92.6,C,0
+P00466,Nicolò Santoro,1998-07-16,Pastine Di Pontecorvo,28,M,32.1,4.8,0,1,121,96.3,B,0
+P05734,Mattia Luria,1966-12-21,Marina Di San Lorenzo,59,M,20.9,7.9,1,0,114,87.7,A,0
+P03092,Giorgia Bajamonti,1963-09-03,Monteforte D'Alpone,63,F,29.5,5.8,0,1,122,95.1,D,0
+P03772,Vincenza Pacelli,1975-02-08,Granarolo Dell'Emilia,51,F,29.6,8.3,0,0,129,111.5,E,0
+P05191,Federica Renault,1951-09-12,San Michele Di Pratola,75,F,32.6,2.5,1,0,137,124.2,A,1
+P05226,Lilla Proietti,1989-04-20,Bertiolo,37,F,33.1,4.5,0,0,137,92.8,C,0
+P05390,Massimo Malipiero,1997-06-12,Carpinello,29,M,29.7,4.1,0,0,117,78.1,E,0
+P00860,Jolanda Saffi,1948-04-14,Baschi,78,F,24.1,0.9,0,1,133,106.4,C,1
