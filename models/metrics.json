@@ -1,0 +1,61 @@
+{
+  "normal": {
+    "config": {
+      "hidden": [
+        64,
+        64
+      ],
+      "l2": 0.001,
+      "dropout": 0.2,
+      "max_epochs": 200,
+      "batch_size": 32,
+      "early_stopping": true
+    },
+    "epochs": 36,
+    "members": {
+      "accuracy": 0.8195,
+      "auc": 0.8596,
+      "loss": 0.39
+    },
+    "non_members": {
+      "accuracy": 0.8105,
+      "auc": 0.8218,
+      "loss": 0.4328
+    },
+    "gap": {
+      "accuracy": 0.009,
+      "auc": 0.0378
+    },
+    "tflite_max_diff": 3.725290298461914e-08
+  },
+  "overfit": {
+    "config": {
+      "hidden": [
+        256,
+        256
+      ],
+      "l2": 0.0,
+      "dropout": 0.0,
+      "max_epochs": 300,
+      "batch_size": 32,
+      "early_stopping": false
+    },
+    "epochs": 300,
+    "members": {
+      "accuracy": 1.0,
+      "auc": 1.0,
+      "loss": 0.0005
+    },
+    "non_members": {
+      "accuracy": 0.7435,
+      "auc": 0.7402,
+      "loss": 2.1243
+    },
+    "gap": {
+      "accuracy": 0.2565,
+      "auc": 0.2598
+    },
+    "tflite_max_diff": 1.7881393432617188e-07
+  },
+  "majority_class_accuracy": 0.7585
+}
