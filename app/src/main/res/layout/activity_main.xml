@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Diabetes risk (demo, synthetic data)"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:paddingBottom="12dp" />
+
+        <EditText android:id="@+id/age" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:hint="Age (18-80)"
+            android:inputType="number" />
+        <EditText android:id="@+id/bmi" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:hint="BMI (e.g. 27.5)"
+            android:inputType="numberDecimal" />
+        <EditText android:id="@+id/activity" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:hint="Activity hours/week (e.g. 3)"
+            android:inputType="numberDecimal" />
+        <EditText android:id="@+id/bp" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:hint="Systolic BP (e.g. 125)"
+            android:inputType="number" />
+        <EditText android:id="@+id/glucose" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:hint="Fasting glucose mg/dL (e.g. 95)"
+            android:inputType="numberDecimal" />
+        <EditText android:id="@+id/sex" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:hint="Sex: M or F" />
+        <EditText android:id="@+id/smoker" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:hint="Smoker: 1 = yes, 0 = no"
+            android:inputType="number" />
+        <EditText android:id="@+id/family" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:hint="Family history: 1 = yes, 0 = no"
+            android:inputType="number" />
+        <EditText android:id="@+id/zone" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:hint="Zone: A, B, C, D or E" />
+
+        <Button android:id="@+id/computeButton" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:text="Compute risk"
+            android:layout_marginTop="16dp" />
+
+        <TextView android:id="@+id/result" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:text="—"
+            android:textSize="20sp" android:textStyle="bold"
+            android:paddingTop="16dp" />
+    </LinearLayout>
+</ScrollView>
