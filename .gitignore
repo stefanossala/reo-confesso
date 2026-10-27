@@ -17,3 +17,6 @@ app/**/.idea/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Keep the deliverable APKs in apk/ (build-output APKs stay ignored)
+!apk/*.apk
